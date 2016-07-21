@@ -1,6 +1,6 @@
 {
-  "LastProcessedCommit": "15e523c8fb6fdd63291985cdaf8455036bf10445",
-  "LastTranslatedCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+  "LastProcessedCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
+  "LastTranslatedCommit": "01aad783998e98826716db0eceed43db2f689a28",
   "Items": {
     "4cf037637daf0b0f0d93dcf2a61d62d4176339b3": {
       "FileHash": "4cf037637daf0b0f0d93dcf2a61d62d4176339b3",
@@ -24,9 +24,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "15a36aa4f321d52612c4e08cfc0ab72236830e3a": {
-      "FileHash": "15a36aa4f321d52612c4e08cfc0ab72236830e3a",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "235ce30e5c5131f1913c153092732f977dc240dc": {
+      "FileHash": "235ce30e5c5131f1913c153092732f977dc240dc",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Activating-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -38,7 +38,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Activating-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -46,9 +46,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "ba27962698ca102a1c5d1f26b297435df5e84d37": {
-      "FileHash": "ba27962698ca102a1c5d1f26b297435df5e84d37",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "960383f98d37b11073113e73733fb44b69e4ed52": {
+      "FileHash": "960383f98d37b11073113e73733fb44b69e4ed52",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Administering-Azure-Rights-Management-by-Using-Windows-PowerShell.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -60,7 +60,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Administering-Azure-Rights-Management-by-Using-Windows-PowerShell.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -68,9 +68,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "59785c664ad86ccf35b3309f35cbd92232c58b4b": {
-      "FileHash": "59785c664ad86ccf35b3309f35cbd92232c58b4b",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "529460857c2ec846dec413a57805ef88212f9dd8": {
+      "FileHash": "529460857c2ec846dec413a57805ef88212f9dd8",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Azure-Rights-Management-Deployment-Roadmap.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -82,7 +82,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Azure-Rights-Management-Deployment-Roadmap.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -90,9 +90,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "6539a18345380fe1730802ffc864076b6b02f57a": {
-      "FileHash": "6539a18345380fe1730802ffc864076b6b02f57a",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "b71fd996575f6b2502bf2a857f7a8ff1ac8dbfcf": {
+      "FileHash": "b71fd996575f6b2502bf2a857f7a8ff1ac8dbfcf",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -104,7 +104,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -112,9 +112,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "9a5d5ba846b99889336ddc54e9a67e1902a5e7f2": {
-      "FileHash": "9a5d5ba846b99889336ddc54e9a67e1902a5e7f2",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "73af0a496d2e1220ab63c7e4bea82149357709b9": {
+      "FileHash": "73af0a496d2e1220ab63c7e4bea82149357709b9",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Comparing-Azure-Rights-Management-and-AD-RMS.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -126,7 +126,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Comparing-Azure-Rights-Management-and-AD-RMS.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -134,9 +134,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "16ee77a16c406a1930ab23fb4200eecec5cd0b40": {
-      "FileHash": "16ee77a16c406a1930ab23fb4200eecec5cd0b40",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "e0bc66a7ce14db5a5f82d6562279dc3496996a94": {
+      "FileHash": "e0bc66a7ce14db5a5f82d6562279dc3496996a94",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Configuring-Applications-for-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -148,7 +148,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Configuring-Applications-for-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -156,9 +156,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "011a2f43d71a92ddf7b9d5d9ca9f6321e4ba53ae": {
-      "FileHash": "011a2f43d71a92ddf7b9d5d9ca9f6321e4ba53ae",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "56e44df02ed9ff55ed06f3bf1cc1e6198c717802": {
+      "FileHash": "56e44df02ed9ff55ed06f3bf1cc1e6198c717802",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Configuring-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -170,7 +170,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Configuring-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -178,9 +178,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "bb5a7fd0fe44db659befe79b2dd65a083ce4819f": {
-      "FileHash": "bb5a7fd0fe44db659befe79b2dd65a083ce4819f",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "8ba5856e3b8f68f015e60c1ec9d743012dd9ec3c": {
+      "FileHash": "8ba5856e3b8f68f015e60c1ec9d743012dd9ec3c",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Configuring-Custom-Templates-for-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -192,7 +192,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Configuring-Custom-Templates-for-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -200,9 +200,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "b727ce894df9e9285c5a33f7f4485ee273179d16": {
-      "FileHash": "b727ce894df9e9285c5a33f7f4485ee273179d16",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "9fa5822131f946b4f4cf0fc417bddea8473bb762": {
+      "FileHash": "9fa5822131f946b4f4cf0fc417bddea8473bb762",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Configuring-Super-Users-for-Azure-Rights-Management-and-Discovery-Services-or-Data-Recovery.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -214,7 +214,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Configuring-Super-Users-for-Azure-Rights-Management-and-Discovery-Services-or-Data-Recovery.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -222,9 +222,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "6dca3135aa3a6e72ad2ab22a5508a238dd932397": {
-      "FileHash": "6dca3135aa3a6e72ad2ab22a5508a238dd932397",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "b72ccb8816e7e6018554e97686d67eb7006a0c20": {
+      "FileHash": "b72ccb8816e7e6018554e97686d67eb7006a0c20",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Configuring-Usage-Rights-for-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -236,7 +236,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Configuring-Usage-Rights-for-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -244,9 +244,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "87d255cfb2b3c852f8a488ba1e751ce3ca1711a5": {
-      "FileHash": "87d255cfb2b3c852f8a488ba1e751ce3ca1711a5",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "daeee1ec59e69f2b985a7e84207d32e1fd4268fa": {
+      "FileHash": "daeee1ec59e69f2b985a7e84207d32e1fd4268fa",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Decommissioning-and-Deactivating-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -258,7 +258,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Decommissioning-and-Deactivating-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -266,9 +266,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "22019a83d8325b2304b38154ac243c93409553db": {
-      "FileHash": "22019a83d8325b2304b38154ac243c93409553db",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "62cb0499d311f8967313e12c6760afe3635d002b": {
+      "FileHash": "62cb0499d311f8967313e12c6760afe3635d002b",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Deploying-the-Azure-Rights-Management-Connector.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -280,7 +280,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Deploying-the-Azure-Rights-Management-Connector.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -288,9 +288,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "bbad6666710888af1b5002fb35f67d30005d4f82": {
-      "FileHash": "bbad6666710888af1b5002fb35f67d30005d4f82",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "c02c956b98ed06daf7228e77ff07b14fd9b7a55c": {
+      "FileHash": "c02c956b98ed06daf7228e77ff07b14fd9b7a55c",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Frequently-Asked-Questions-for-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -302,7 +302,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Frequently-Asked-Questions-for-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -310,9 +310,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "c27c3b355406840f5ee1c91f8a7c9a46a3fc111d": {
-      "FileHash": "c27c3b355406840f5ee1c91f8a7c9a46a3fc111d",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "6ee6015f7b606653459d57daceaec845c0235953": {
+      "FileHash": "6ee6015f7b606653459d57daceaec845c0235953",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--A-SharePoint-protected-document.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -324,7 +324,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--A-SharePoint-protected-document.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -332,9 +332,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "f996f7cd78bca2069f5d9888532f3df7cdd1029b": {
-      "FileHash": "f996f7cd78bca2069f5d9888532f3df7cdd1029b",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "382ffb1fef4e0e254a567b784b219f4447ce98f9": {
+      "FileHash": "382ffb1fef4e0e254a567b784b219f4447ce98f9",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Activating-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -346,7 +346,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Activating-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -354,9 +354,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "5689eed833b23a582498cb80dde5c340600c8379": {
-      "FileHash": "5689eed833b23a582498cb80dde5c340600c8379",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "da4e4bc13d0b52f5d9939fdf211c5e4ac15dfb87": {
+      "FileHash": "da4e4bc13d0b52f5d9939fdf211c5e4ac15dfb87",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Alice-gets-email-notification.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -368,7 +368,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Alice-gets-email-notification.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -376,9 +376,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "4b594c75a7b912b64a51d7a82b5f1748cccaf381": {
-      "FileHash": "4b594c75a7b912b64a51d7a82b5f1748cccaf381",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "21535133965bfef55efab4ad628bc5c545dc1e1b": {
+      "FileHash": "21535133965bfef55efab4ad628bc5c545dc1e1b",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Alice-shares-protected-attachment.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -390,7 +390,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Alice-shares-protected-attachment.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -398,9 +398,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "45fefa1110f59414b7687b5f67d6ba3579a161e7": {
-      "FileHash": "45fefa1110f59414b7687b5f67d6ba3579a161e7",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "192fd3f575f0a15fa5049e4314ca2ae2ac675a05": {
+      "FileHash": "192fd3f575f0a15fa5049e4314ca2ae2ac675a05",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--An-external-email-protected-by-DLP-and-Azure-RMS.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -412,7 +412,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--An-external-email-protected-by-DLP-and-Azure-RMS.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -420,9 +420,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "a445ffc20ff2ba0a851dd50d97a7a881f450edfb": {
-      "FileHash": "a445ffc20ff2ba0a851dd50d97a7a881f450edfb",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "57bdaeaaba636ce52428cfa80e129947a1327324": {
+      "FileHash": "57bdaeaaba636ce52428cfa80e129947a1327324",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--An-unprotected-email--internal-.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -434,7 +434,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--An-unprotected-email--internal-.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -442,9 +442,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "f16c144d2214e9e1ab463c022359b2e50ffb61e2": {
-      "FileHash": "f16c144d2214e9e1ab463c022359b2e50ffb61e2",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "a07ed48392aa569d31c2e1436faa2a7a715de509": {
+      "FileHash": "a07ed48392aa569d31c2e1436faa2a7a715de509",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Available-settings-for-RMS-templates.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -456,7 +456,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Available-settings-for-RMS-templates.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -464,9 +464,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "62df6128ac05ed330c8cacf8b4065329fb2d4294": {
-      "FileHash": "62df6128ac05ed330c8cacf8b4065329fb2d4294",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "2c8467923a1402a1190d24bc8b1538bb30da91f1": {
+      "FileHash": "2c8467923a1402a1190d24bc8b1538bb30da91f1",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Bob-opens-the-attachment-on-his-iPad.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -478,7 +478,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Bob-opens-the-attachment-on-his-iPad.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -486,9 +486,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "826780c10866535a662cca3a070874cdc9b247f6": {
-      "FileHash": "826780c10866535a662cca3a070874cdc9b247f6",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "7189a65324038bda4ca7a77886b5f88822348ba2": {
+      "FileHash": "7189a65324038bda4ca7a77886b5f88822348ba2",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Bob-sees-the-email-on-his-iPad.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -500,7 +500,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Bob-sees-the-email-on-his-iPad.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -508,9 +508,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "087858e7aa7fce352afc39ff3717101f54771203": {
-      "FileHash": "087858e7aa7fce352afc39ff3717101f54771203",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "208ddd88d17d59ba299378ec2f3bec3b07f8633d": {
+      "FileHash": "208ddd88d17d59ba299378ec2f3bec3b07f8633d",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Confidential-report-accidentally-sent-to-wrong-person.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -522,7 +522,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Confidential-report-accidentally-sent-to-wrong-person.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -530,9 +530,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "7ca8c65c64f2e49a0bb523bf4604a3d264b74bf3": {
-      "FileHash": "7ca8c65c64f2e49a0bb523bf4604a3d264b74bf3",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "6e69b93cafa7331bcdcb2f9541418f091a13ded3": {
+      "FileHash": "6e69b93cafa7331bcdcb2f9541418f091a13ded3",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Configuring-DLP-for-Azure-RMS.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -544,7 +544,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Configuring-DLP-for-Azure-RMS.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -552,9 +552,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "805f444a88a75ccb0d95392a656164c5fea722be": {
-      "FileHash": "805f444a88a75ccb0d95392a656164c5fea722be",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "18c236fe0d741c234e704cca7aa553ac45734c64": {
+      "FileHash": "18c236fe0d741c234e704cca7aa553ac45734c64",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Configuring-FCI-for-the-Marketing-classification.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -566,7 +566,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Configuring-FCI-for-the-Marketing-classification.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -574,9 +574,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "7b54bb76e2a62ed5f686be098ac4584006c6c223": {
-      "FileHash": "7b54bb76e2a62ed5f686be098ac4584006c6c223",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "af22113f41b6945e21a37ceafe4d7df8c76a7d7d": {
+      "FileHash": "af22113f41b6945e21a37ceafe4d7df8c76a7d7d",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Enabling-IRM-for-a-library.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -588,7 +588,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Enabling-IRM-for-a-library.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -596,9 +596,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "44c4ba4cbca9a74a309f1fff37e6ffa01c014e92": {
-      "FileHash": "44c4ba4cbca9a74a309f1fff37e6ffa01c014e92",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "aa9c2886d1d28e7389c137a636f3b4b343c1ddef": {
+      "FileHash": "aa9c2886d1d28e7389c137a636f3b4b343c1ddef",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Enabling-IRM-on-SharePoint-Online.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -610,7 +610,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Enabling-IRM-on-SharePoint-Online.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -618,9 +618,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "6a783125056a13ce18391fcda3b65e72c573231b": {
-      "FileHash": "6a783125056a13ce18391fcda3b65e72c573231b",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "5944677514145b8e454a6d53a031e00ab7c068de": {
+      "FileHash": "5944677514145b8e454a6d53a031e00ab7c068de",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Installing-and-Configuring-the-RMS-connector-for-FCI.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -632,7 +632,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Installing-and-Configuring-the-RMS-connector-for-FCI.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -640,9 +640,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "4eb74c8df5b421c02461759a047ce93974485e77": {
-      "FileHash": "4eb74c8df5b421c02461759a047ce93974485e77",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "e2ba69d9f62e52c377d3ee60ea97e0824de7ae42": {
+      "FileHash": "e2ba69d9f62e52c377d3ee60ea97e0824de7ae42",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--RMS-templates-in-the-Azure-Management-Portal.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -654,7 +654,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--RMS-templates-in-the-Azure-Management-Portal.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -662,9 +662,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "a622b397c2d24c7277103c14a3b044abf89692c3": {
-      "FileHash": "a622b397c2d24c7277103c14a3b044abf89692c3",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "a11c6f54b0def20eb5e35101c26473c6022e6a58": {
+      "FileHash": "a11c6f54b0def20eb5e35101c26473c6022e6a58",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Select-RMS-templates-in-applications--such-as-File-Explorer-and-Word.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -676,7 +676,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Select-RMS-templates-in-applications--such-as-File-Explorer-and-Word.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -684,9 +684,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "65c4071a278552f0cfbf5703735f8ca97d63d154": {
-      "FileHash": "65c4071a278552f0cfbf5703735f8ca97d63d154",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "9ce8fb6813aa216a1a49ed48d35d015cb79458d3": {
+      "FileHash": "9ce8fb6813aa216a1a49ed48d35d015cb79458d3",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Getting-Started-with-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -698,7 +698,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Getting-Started-with-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -706,9 +706,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "60a51263705c5245afce5fb5891bb76ae3e21ffc": {
-      "FileHash": "60a51263705c5245afce5fb5891bb76ae3e21ffc",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "8f91cfe00e3de66391eeebc784f8bc2306d30131": {
+      "FileHash": "8f91cfe00e3de66391eeebc784f8bc2306d30131",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Helping-Users-to-Protect-Files-by-Using-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -720,7 +720,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Helping-Users-to-Protect-Files-by-Using-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -728,9 +728,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "4a44a30e334d46fd757c58b855b7bda9821f9eab": {
-      "FileHash": "4a44a30e334d46fd757c58b855b7bda9821f9eab",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "87bbdc4d0d2390758e23cc4a5a515582f854ff32": {
+      "FileHash": "87bbdc4d0d2390758e23cc4a5a515582f854ff32",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\How-Applications-Support-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -742,7 +742,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\How-Applications-Support-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -750,9 +750,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "3023ffd488f373190f2a8d7d97f84beae5460b34": {
-      "FileHash": "3023ffd488f373190f2a8d7d97f84beae5460b34",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "447958dc0afe47616cf635c1693b290964c3c285": {
+      "FileHash": "447958dc0afe47616cf635c1693b290964c3c285",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Information-and-Support-for-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -764,7 +764,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Information-and-Support-for-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -772,9 +772,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "231ef921ef61c2dd3825c25b1542fd8ffa6de938": {
-      "FileHash": "231ef921ef61c2dd3825c25b1542fd8ffa6de938",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "4dbc750f1a731e44ccb9e958f95e76115757b2d7": {
+      "FileHash": "4dbc750f1a731e44ccb9e958f95e76115757b2d7",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Installing-Windows-PowerShell-for-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -786,7 +786,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Installing-Windows-PowerShell-for-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -794,9 +794,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "33c151eaf3bd518d59959ca7519dad7cff594053": {
-      "FileHash": "33c151eaf3bd518d59959ca7519dad7cff594053",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "520d37310209ddb5cd30fed68a04fc07b74d3041": {
+      "FileHash": "520d37310209ddb5cd30fed68a04fc07b74d3041",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Logging-and-Analyzing-Azure-Rights-Management-Usage.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -808,7 +808,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Logging-and-Analyzing-Azure-Rights-Management-Usage.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -816,9 +816,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "1e4a7847cf84ac3f95659073e58bc6ab58886f7e": {
-      "FileHash": "1e4a7847cf84ac3f95659073e58bc6ab58886f7e",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "8f643431b5200b0f3661bcf77010b89b2d88ee1b": {
+      "FileHash": "8f643431b5200b0f3661bcf77010b89b2d88ee1b",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Migrating-from-AD-RMS-to-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -830,7 +830,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Migrating-from-AD-RMS-to-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -838,9 +838,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "6aac4c388bfa21ac0170ea4d2d21936b8c9c9de9": {
-      "FileHash": "6aac4c388bfa21ac0170ea4d2d21936b8c9c9de9",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "7d5383e190c7c12eedfefbaf4378955804cc80be": {
+      "FileHash": "7d5383e190c7c12eedfefbaf4378955804cc80be",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Operations-for-Your-Azure-Rights-Management-Tenant-Key.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -852,7 +852,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Operations-for-Your-Azure-Rights-Management-Tenant-Key.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -860,9 +860,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "f6f7c1acc423730bdb397ef5ab3ef238e051e242": {
-      "FileHash": "f6f7c1acc423730bdb397ef5ab3ef238e051e242",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "1575a841d15fdb5f838ee26b651dec7955a7a9ff": {
+      "FileHash": "1575a841d15fdb5f838ee26b651dec7955a7a9ff",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Planning-and-Implementing-Your-Azure-Rights-Management-Tenant-Key.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -874,7 +874,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Planning-and-Implementing-Your-Azure-Rights-Management-Tenant-Key.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -882,9 +882,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "f0301dcf0c915216d720d338ad635e596a129cf8": {
-      "FileHash": "f0301dcf0c915216d720d338ad635e596a129cf8",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "25c67a8c82b28d8722f8e58952cb533d2d813630": {
+      "FileHash": "25c67a8c82b28d8722f8e58952cb533d2d813630",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Preparing-for-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -896,7 +896,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Preparing-for-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -904,9 +904,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "a1ca15dfae440fcec4fd1f1207f897fe9807a2e6": {
-      "FileHash": "a1ca15dfae440fcec4fd1f1207f897fe9807a2e6",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "3f06a9845b3390787f81ceb34e2a64b00fae94fd": {
+      "FileHash": "3f06a9845b3390787f81ceb34e2a64b00fae94fd",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Quick-Start-Tutorial-for-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -918,7 +918,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Quick-Start-Tutorial-for-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -926,9 +926,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "9a90acddd77b7f0ac5857dc4da3d6963c347f3b6": {
-      "FileHash": "9a90acddd77b7f0ac5857dc4da3d6963c347f3b6",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "bff36e1e6e3e4494151153f0407eda3643033a38": {
+      "FileHash": "bff36e1e6e3e4494151153f0407eda3643033a38",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Requirements-for-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -940,7 +940,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Requirements-for-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -948,9 +948,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "f6fbf2fdad50f1674b0b46659c741d7848629f11": {
-      "FileHash": "f6fbf2fdad50f1674b0b46659c741d7848629f11",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "2b8280ff7d740b888cb3c6678d01475466e51bab": {
+      "FileHash": "2b8280ff7d740b888cb3c6678d01475466e51bab",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\RMS-for-Individuals-and-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -962,7 +962,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\RMS-for-Individuals-and-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -970,9 +970,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "3fed8d6e45fe67ec5bb8a32dc9ea61c08f681d9c": {
-      "FileHash": "3fed8d6e45fe67ec5bb8a32dc9ea61c08f681d9c",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "b0d0c1030a66bef93dd08c50183096f15db72ca2": {
+      "FileHash": "b0d0c1030a66bef93dd08c50183096f15db72ca2",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Terminology-for-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -984,7 +984,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Terminology-for-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -992,9 +992,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "e692006da40fdc742d733e8451071fa02ac16103": {
-      "FileHash": "e692006da40fdc742d733e8451071fa02ac16103",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "b06960a452b414dcc8deac9aca63de7d971e5e67": {
+      "FileHash": "b06960a452b414dcc8deac9aca63de7d971e5e67",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Using-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -1006,7 +1006,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Using-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -1014,9 +1014,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "7a9e7aacc06644716d94fa1c71b36bb726571c71": {
-      "FileHash": "7a9e7aacc06644716d94fa1c71b36bb726571c71",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "1854aa1dd7f567d464fe09033e756e503a96f62b": {
+      "FileHash": "1854aa1dd7f567d464fe09033e756e503a96f62b",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Verifying-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -1028,7 +1028,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Verifying-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -1036,9 +1036,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "75954cfc18496ed96d8f296dfb2f4598b69af053": {
-      "FileHash": "75954cfc18496ed96d8f296dfb2f4598b69af053",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "8e30428600bd3554355117acd120262b04d6e9a7": {
+      "FileHash": "8e30428600bd3554355117acd120262b04d6e9a7",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\What-is-Azure-Rights-Management-.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -1050,7 +1050,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\What-is-Azure-Rights-Management-.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -1784,9 +1784,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "05dad7e0a2a7e0147e0f799c690c96300a536164": {
-      "FileHash": "05dad7e0a2a7e0147e0f799c690c96300a536164",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "5cf7b26f9ccaf30aa00b935860d61dce71e34e03": {
+      "FileHash": "5cf7b26f9ccaf30aa00b935860d61dce71e34e03",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\Appendix-C--Sample-Advanced-Threat-Analytics-deployment-diagrams.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -1798,7 +1798,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\Appendix-C--Sample-Advanced-Threat-Analytics-deployment-diagrams.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -1806,9 +1806,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "c1997e6bf6f3feb859c136e49602ce5ab5f8e864": {
-      "FileHash": "c1997e6bf6f3feb859c136e49602ce5ab5f8e864",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "3c08d89af09103071c237bb58e795ef53e2d3b30": {
+      "FileHash": "3c08d89af09103071c237bb58e795ef53e2d3b30",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Architecture.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -1820,7 +1820,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Architecture.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -1828,9 +1828,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "7fc5660911c7adef1498266cd2a565205887b8d9": {
-      "FileHash": "7fc5660911c7adef1498266cd2a565205887b8d9",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "4315e82b15b233ec070e7c3d7d63f0f075f83d70": {
+      "FileHash": "4315e82b15b233ec070e7c3d7d63f0f075f83d70",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Capacity-Planning.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -1842,7 +1842,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Capacity-Planning.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -1850,9 +1850,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "8760dae3edf290d076ee6cf29b06cee6473726f3": {
-      "FileHash": "8760dae3edf290d076ee6cf29b06cee6473726f3",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "25550af218e74b739151cd26438ff1f0ca62a625": {
+      "FileHash": "25550af218e74b739151cd26438ff1f0ca62a625",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-database-maintenance.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -1864,7 +1864,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-database-maintenance.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -1872,9 +1872,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "494cfea6d1599ce39c907fac33318d9e40c67788": {
-      "FileHash": "494cfea6d1599ce39c907fac33318d9e40c67788",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "7746edb48d18b326c458100eba039ee349d26e13": {
+      "FileHash": "7746edb48d18b326c458100eba039ee349d26e13",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Database-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -1886,7 +1886,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Database-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -1894,9 +1894,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "851b1f091bc2e999ea7fa870e6838ae0c09f9c36": {
-      "FileHash": "851b1f091bc2e999ea7fa870e6838ae0c09f9c36",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "a4ae03aaf84d53ce26c9f75744056a024b86cd8a": {
+      "FileHash": "a4ae03aaf84d53ce26c9f75744056a024b86cd8a",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Deployment-Guide.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -1908,7 +1908,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Deployment-Guide.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -1916,9 +1916,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "edc057622e5a35b98c49203228b2c58a946fdb48": {
-      "FileHash": "edc057622e5a35b98c49203228b2c58a946fdb48",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "1866c2a28bb42a71873e8a0c181d520d71b10f64": {
+      "FileHash": "1866c2a28bb42a71873e8a0c181d520d71b10f64",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-FAQ.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -1930,7 +1930,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-FAQ.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -1938,9 +1938,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "c74dfe7e5564f3529d1f32e3ef85d902e210682f": {
-      "FileHash": "c74dfe7e5564f3529d1f32e3ef85d902e210682f",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "dcd394953cfa0b62d730a670fa42626d0e35021b": {
+      "FileHash": "dcd394953cfa0b62d730a670fa42626d0e35021b",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Health-Center.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -1952,7 +1952,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Health-Center.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -1960,9 +1960,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "b44c7efa47b77d7860e6fab1210749003e7b7a51": {
-      "FileHash": "b44c7efa47b77d7860e6fab1210749003e7b7a51",
-      "SourceFileCommit": "8aa32589d8a09486226b2a8342b81a9600aaef01",
+    "ba17e653376c9cde0cc4ac3454a56dc6559bd90c": {
+      "FileHash": "ba17e653376c9cde0cc4ac3454a56dc6559bd90c",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Installation.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -1974,7 +1974,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Installation.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -1982,9 +1982,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "8b05c5aada7a3635d363d120098fce5e8b724715": {
-      "FileHash": "8b05c5aada7a3635d363d120098fce5e8b724715",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "b4bb1b9fbbfe5d9a3071d4cc7d886252c2ab554f": {
+      "FileHash": "b4bb1b9fbbfe5d9a3071d4cc7d886252c2ab554f",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Operations-Guide.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -1996,7 +1996,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Operations-Guide.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2004,9 +2004,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "a88d64039559dd5c920901484799231c4e704bbb": {
-      "FileHash": "a88d64039559dd5c920901484799231c4e704bbb",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "b46408490ad03a8b61ebe224245e3388d39272e0": {
+      "FileHash": "b46408490ad03a8b61ebe224245e3388d39272e0",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Planning-and-Requirements.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2018,7 +2018,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Planning-and-Requirements.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2026,9 +2026,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "08c1655cf574d38aeda2c8734ed3b5bf2f310a96": {
-      "FileHash": "08c1655cf574d38aeda2c8734ed3b5bf2f310a96",
-      "SourceFileCommit": "c65b7b1651f43d1ec72bad3338b7e78ebea5b3c7",
+    "4bfc5c4f7ee25555802a8c9a85498f324606ecb4": {
+      "FileHash": "4bfc5c4f7ee25555802a8c9a85498f324606ecb4",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Release-Notes.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2040,7 +2040,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\ATA-Release-Notes.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2048,9 +2048,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "c75172ae5e8a2a9d5f7421fd050738272a4781bd": {
-      "FileHash": "c75172ae5e8a2a9d5f7421fd050738272a4781bd",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "ec9857db088ae43ccd8d7b0511cea6f861e2cb83": {
+      "FileHash": "ec9857db088ae43ccd8d7b0511cea6f861e2cb83",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\Configure-Event-Collection.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2062,7 +2062,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\Configure-Event-Collection.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2070,9 +2070,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "5762614c79bf4b87ccac54d2b84bcc5b4c851901": {
-      "FileHash": "5762614c79bf4b87ccac54d2b84bcc5b4c851901",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "c35e5cfecf778f61ed894ae1383313e57d659518": {
+      "FileHash": "c35e5cfecf778f61ed894ae1383313e57d659518",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\Configure-Port-Mirroring.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2084,7 +2084,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\Configure-Port-Mirroring.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2092,9 +2092,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "4c8a6923f98ba243bb0e6dfb5ffb1b0c7668a78b": {
-      "FileHash": "4c8a6923f98ba243bb0e6dfb5ffb1b0c7668a78b",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "903f2ca34f6bf970f06576d8107fa30218c25567": {
+      "FileHash": "903f2ca34f6bf970f06576d8107fa30218c25567",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\Manage-Telemetry-Settings.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2106,7 +2106,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\Manage-Telemetry-Settings.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2114,9 +2114,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "d14d3260e9ee90dd3735400aabdc58c15755f356": {
-      "FileHash": "d14d3260e9ee90dd3735400aabdc58c15755f356",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "9bf6c869e3ffaa7be12d01fb7b01708690ad83c6": {
+      "FileHash": "9bf6c869e3ffaa7be12d01fb7b01708690ad83c6",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\Microsoft-Advanced-Threat-Analytics.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2128,7 +2128,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\Microsoft-Advanced-Threat-Analytics.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2136,9 +2136,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "3384074ae710faf822817fd3daf668b4946c9718": {
-      "FileHash": "3384074ae710faf822817fd3daf668b4946c9718",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "bce80609b0b6cf15a8e8ba26fcbfc78074826525": {
+      "FileHash": "bce80609b0b6cf15a8e8ba26fcbfc78074826525",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\Modifying-ATA-Configuration.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2150,7 +2150,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\Modifying-ATA-Configuration.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2158,9 +2158,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "1a4a94436047c8e456d218423fecd10d033034e7": {
-      "FileHash": "1a4a94436047c8e456d218423fecd10d033034e7",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "4232203e594cee6e4dce1eef0c3927ebfa0b47e4": {
+      "FileHash": "4232203e594cee6e4dce1eef0c3927ebfa0b47e4",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\Validate-Port-Mirroring.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2172,7 +2172,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\Validate-Port-Mirroring.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2180,9 +2180,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "7c3895f71132df891a61de46ac99339605d1b067": {
-      "FileHash": "7c3895f71132df891a61de46ac99339605d1b067",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "b4f43e620d6b58966f6a565f0a3897aef3f17353": {
+      "FileHash": "b4f43e620d6b58966f6a565f0a3897aef3f17353",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\Working-with-ATA-Alerts.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2194,7 +2194,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\Working-with-ATA-Alerts.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2202,9 +2202,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "3931c2a77a96a37ebdc35686b1c0f9b61f4ae8dd": {
-      "FileHash": "3931c2a77a96a37ebdc35686b1c0f9b61f4ae8dd",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "82ce4dc3b106bb7046562b76404dc91d5fa46c92": {
+      "FileHash": "82ce4dc3b106bb7046562b76404dc91d5fa46c92",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\Working-with-ATA-Detection-Settings.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2216,7 +2216,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\Working-with-ATA-Detection-Settings.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2224,9 +2224,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "2dc79f2e6e5b6495ac78c14986a0c0ab12c12851": {
-      "FileHash": "2dc79f2e6e5b6495ac78c14986a0c0ab12c12851",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "7b02b6f42adb54b03860d5159b107fe57b05030c": {
+      "FileHash": "7b02b6f42adb54b03860d5159b107fe57b05030c",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\Working-with-Suspicious-Activities.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2238,7 +2238,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\Working-with-Suspicious-Activities.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2246,9 +2246,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "1ded20cc2502bd66eb190ad11fd4b9a49cbf19ad": {
-      "FileHash": "1ded20cc2502bd66eb190ad11fd4b9a49cbf19ad",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "e32f1df84cef43aa0d926b7fe854480806be696f": {
+      "FileHash": "e32f1df84cef43aa0d926b7fe854480806be696f",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\ATA_Content\\Working-with-the-ATA-Console.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2260,7 +2260,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\ATA_Content\\Working-with-the-ATA-Console.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2268,9 +2268,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "b80e59ea32cf4bfb769bb443e68460e405b60eee": {
-      "FileHash": "b80e59ea32cf4bfb769bb443e68460e405b60eee",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "e725984b44037168fec2e667b5b7262e889861f1": {
+      "FileHash": "e725984b44037168fec2e667b5b7262e889861f1",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\Intune_App_SDK\\Benefits-of-Intune-App-SDK.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2282,7 +2282,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\Intune_App_SDK\\Benefits-of-Intune-App-SDK.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2290,9 +2290,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "910c5563d3d54eaf83b9349e93f81bf4e8d4c150": {
-      "FileHash": "910c5563d3d54eaf83b9349e93f81bf4e8d4c150",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "742bcc4d531c514e5a7bb5466475e4c96e5c47df": {
+      "FileHash": "742bcc4d531c514e5a7bb5466475e4c96e5c47df",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\Intune_App_SDK\\Getting-Started-and-FAQ.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2304,7 +2304,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\Intune_App_SDK\\Getting-Started-and-FAQ.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2312,9 +2312,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "352d4f96cd94605894d29e661cf8b86c999cac51": {
-      "FileHash": "352d4f96cd94605894d29e661cf8b86c999cac51",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "1304daecc2b04369122d5e65a2c5edd82a293709": {
+      "FileHash": "1304daecc2b04369122d5e65a2c5edd82a293709",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\Intune_App_SDK\\Microsoft-Intune-App-SDK.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2326,7 +2326,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\Intune_App_SDK\\Microsoft-Intune-App-SDK.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2334,9 +2334,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "5001c506ea49b5d9f9a23babe651341400502fef": {
-      "FileHash": "5001c506ea49b5d9f9a23babe651341400502fef",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "6cc6b83d3670ea0346dacb56ab7fcb6fe649001e": {
+      "FileHash": "6cc6b83d3670ea0346dacb56ab7fcb6fe649001e",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Active-Directory-Rights-Management-Services-Mobile-Device-Extension.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2348,7 +2348,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Active-Directory-Rights-Management-Services-Mobile-Device-Extension.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2356,9 +2356,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "60f02ac024c2da4d4b7ad642127f8df36e5e11c2": {
-      "FileHash": "60f02ac024c2da4d4b7ad642127f8df36e5e11c2",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "5f25c267e2f643c4ed1c0e81b8e670b9433f852f": {
+      "FileHash": "5f25c267e2f643c4ed1c0e81b8e670b9433f852f",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Dialog-box-options-for-the-Rights-Management-sharing-application.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2370,7 +2370,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Dialog-box-options-for-the-Rights-Management-sharing-application.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2378,9 +2378,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "a66709b32003a9a2d8d39d2dff4ecfa0cc6bbdc0": {
-      "FileHash": "a66709b32003a9a2d8d39d2dff4ecfa0cc6bbdc0",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "1426b12891f1c406df3ce4625871c43d7d457dd4": {
+      "FileHash": "1426b12891f1c406df3ce4625871c43d7d457dd4",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Download-and-install-the-Rights-Management-sharing-application.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2392,7 +2392,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Download-and-install-the-Rights-Management-sharing-application.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2400,9 +2400,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "a1e642b331a137e12afa2977e0c2990e96c0f67f": {
-      "FileHash": "a1e642b331a137e12afa2977e0c2990e96c0f67f",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "8442d984cbc842b52ee3230d2f3d2432f042b048": {
+      "FileHash": "8442d984cbc842b52ee3230d2f3d2432f042b048",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\End-User-License-Agreement-for-Microsoft-RMS-sharing-application.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2414,7 +2414,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\End-User-License-Agreement-for-Microsoft-RMS-sharing-application.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2422,9 +2422,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "a6c9d2361903ec0ea51d5a2d73fa7baf65c5401b": {
-      "FileHash": "a6c9d2361903ec0ea51d5a2d73fa7baf65c5401b",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "2fdc7e41f01797873c855366cf2eb188711e84c9": {
+      "FileHash": "2fdc7e41f01797873c855366cf2eb188711e84c9",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Microsoft-Rights-Management-sharing-application-user-guide---original-publication.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2436,7 +2436,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Microsoft-Rights-Management-sharing-application-user-guide---original-publication.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2444,9 +2444,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "19f53e16d725dede292480da8500730a8d004d73": {
-      "FileHash": "19f53e16d725dede292480da8500730a8d004d73",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "08e0402f271048ce6b220cca98df48e68b285436": {
+      "FileHash": "08e0402f271048ce6b220cca98df48e68b285436",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Privacy-Statement-for-Microsoft-Rights-Management-in-RMS-Enlightened-Applications.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2458,7 +2458,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Privacy-Statement-for-Microsoft-Rights-Management-in-RMS-Enlightened-Applications.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2466,9 +2466,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "c7be143dbdf8966f0c9005143d5fcdaaa18344ee": {
-      "FileHash": "c7be143dbdf8966f0c9005143d5fcdaaa18344ee",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "8817cd69157ba1ac512b492b0dd9b90116bcb648": {
+      "FileHash": "8817cd69157ba1ac512b492b0dd9b90116bcb648",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Protect-a-file-on-a-device--protect-in-place--by-using-the-Rights-Management-sharing-application.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2480,7 +2480,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Protect-a-file-on-a-device--protect-in-place--by-using-the-Rights-Management-sharing-application.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2488,9 +2488,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "6f04ce05d1d735a19e8b9253dfbdbfda74467820": {
-      "FileHash": "6f04ce05d1d735a19e8b9253dfbdbfda74467820",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "64de0254c9596815a90680b6d91c8a192ec76a7e": {
+      "FileHash": "64de0254c9596815a90680b6d91c8a192ec76a7e",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Protect-a-file-that-you-share-by-email-by-using-the-Rights-Management-sharing-application.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2502,7 +2502,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Protect-a-file-that-you-share-by-email-by-using-the-Rights-Management-sharing-application.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2510,9 +2510,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "953425ceb6735f4a035a65caa09d937c983721a6": {
-      "FileHash": "953425ceb6735f4a035a65caa09d937c983721a6",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "bcf2e6242a3d6710ff2a0df0accf76d0ee904d23": {
+      "FileHash": "bcf2e6242a3d6710ff2a0df0accf76d0ee904d23",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Remove-protection-from-a-file-by-using-the-Rights-Management-sharing-application.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2524,7 +2524,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Remove-protection-from-a-file-by-using-the-Rights-Management-sharing-application.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2532,9 +2532,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "b952f28b7176f4a1160b91dfe38fb8be5c855627": {
-      "FileHash": "b952f28b7176f4a1160b91dfe38fb8be5c855627",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "5377620a1fe75a7f11d83022810cd806f6e719ec": {
+      "FileHash": "5377620a1fe75a7f11d83022810cd806f6e719ec",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Requirements-for-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2546,7 +2546,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Requirements-for-Azure-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2554,9 +2554,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "af9b04a1b66664051c6d032d9d6c1b2a6e9c191d": {
-      "FileHash": "af9b04a1b66664051c6d032d9d6c1b2a6e9c191d",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "98afc1d3d5efa0e4a1aa00bca2c96051f5e897c3": {
+      "FileHash": "98afc1d3d5efa0e4a1aa00bca2c96051f5e897c3",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Revised-Version-2--Rights-Management-sharing-application-user-guide---working-version--sandbox-only.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2568,7 +2568,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Revised-Version-2--Rights-Management-sharing-application-user-guide---working-version--sandbox-only.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2576,9 +2576,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "6b6f6a5f8a4ed96c1ef73081bedd9e02dd65a821": {
-      "FileHash": "6b6f6a5f8a4ed96c1ef73081bedd9e02dd65a821",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "7675b9d48ea6aac021444d39229173c970439f10": {
+      "FileHash": "7675b9d48ea6aac021444d39229173c970439f10",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Revised-Version-3--Microsoft-Rights-Management-sharing-application-guide.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2590,7 +2590,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Revised-Version-3--Microsoft-Rights-Management-sharing-application-guide.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2598,9 +2598,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "25d13397511c1189dbe2f2c8149d334c779ad45a": {
-      "FileHash": "25d13397511c1189dbe2f2c8149d334c779ad45a",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "b6d84c57ee8209d8915e3736fc4df22300ca86cf": {
+      "FileHash": "b6d84c57ee8209d8915e3736fc4df22300ca86cf",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Rights-Management--RMS--Client.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2612,7 +2612,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Rights-Management--RMS--Client.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2620,9 +2620,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "25da2b52f5fadb89516b26d740abb7f2c737e9b1": {
-      "FileHash": "25da2b52f5fadb89516b26d740abb7f2c737e9b1",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "870390165db07b0b93966079549db33b2065916f": {
+      "FileHash": "870390165db07b0b93966079549db33b2065916f",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Rights-Management-sharing-application--Version-release-history.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2634,7 +2634,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Rights-Management-sharing-application--Version-release-history.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2642,9 +2642,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "9448c1debdf4f4400b4dc2a1dd5670d56b2561b3": {
-      "FileHash": "9448c1debdf4f4400b4dc2a1dd5670d56b2561b3",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "24eac6cd8b3eea953f78c7af8600e4bba77dc340": {
+      "FileHash": "24eac6cd8b3eea953f78c7af8600e4bba77dc340",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Rights-Management-sharing-application-administrator-guide.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2656,7 +2656,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Rights-Management-sharing-application-administrator-guide.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2664,9 +2664,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "c91f502109d0cd44a8fd7df5262fa8947dfbed5d": {
-      "FileHash": "c91f502109d0cd44a8fd7df5262fa8947dfbed5d",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "c2d2abc3fe5d5b71945fac326916bd9e6eac37ad": {
+      "FileHash": "c2d2abc3fe5d5b71945fac326916bd9e6eac37ad",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Rights-Management-Sharing-Application-for-Windows.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2678,7 +2678,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Rights-Management-Sharing-Application-for-Windows.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2686,9 +2686,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "eaaeb7204cb981eef8d7683ab4ce8cc83849dc73": {
-      "FileHash": "eaaeb7204cb981eef8d7683ab4ce8cc83849dc73",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "428c5ca9f4590e60c170ca5cdfce85da25527a9f": {
+      "FileHash": "428c5ca9f4590e60c170ca5cdfce85da25527a9f",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Rights-Management-sharing-application-user-guide---revision-for-single-topic.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2700,7 +2700,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Rights-Management-sharing-application-user-guide---revision-for-single-topic.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2708,9 +2708,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "db8242cb6dbfd4802c0baaa8a6d8b9a569e0271c": {
-      "FileHash": "db8242cb6dbfd4802c0baaa8a6d8b9a569e0271c",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "311e68f155282059d0df24ea8d926c0e211b4c46": {
+      "FileHash": "311e68f155282059d0df24ea8d926c0e211b4c46",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Rights-Management-sharing-application-user-guide.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2722,7 +2722,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Rights-Management-sharing-application-user-guide.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2730,9 +2730,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "9501804aeab0605fe103bb1216558cf2f18c1e26": {
-      "FileHash": "9501804aeab0605fe103bb1216558cf2f18c1e26",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "604e6cfbf1f568171f4f50e38710ee359415735e": {
+      "FileHash": "604e6cfbf1f568171f4f50e38710ee359415735e",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\RMS-Client-Deployment-Notes.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2744,7 +2744,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\RMS-Client-Deployment-Notes.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2752,9 +2752,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "6abc2fd11a1351653230536c59839ef47980f0bf": {
-      "FileHash": "6abc2fd11a1351653230536c59839ef47980f0bf",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "d8aa228411005a77f73dda6b53f9bc654cc1b012": {
+      "FileHash": "d8aa228411005a77f73dda6b53f9bc654cc1b012",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\RMS-Protection-with-Windows-Server-File-Classification-Infrastructure--FCI-.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2766,7 +2766,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\RMS-Protection-with-Windows-Server-File-Classification-Infrastructure--FCI-.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2774,9 +2774,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "4ba8705c0670ff06930f21ba9ffc405fb0b9e46b": {
-      "FileHash": "4ba8705c0670ff06930f21ba9ffc405fb0b9e46b",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "e80c07edaa8e82156fb77ae8aec72a73f7329397": {
+      "FileHash": "e80c07edaa8e82156fb77ae8aec72a73f7329397",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Track-and-revoke-your-documents-when-you-use-the-RMS-sharing-application.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2788,7 +2788,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Track-and-revoke-your-documents-when-you-use-the-RMS-sharing-application.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2796,9 +2796,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "f18801a8f6421936c0bf81b853de4adbc01d3838": {
-      "FileHash": "f18801a8f6421936c0bf81b853de4adbc01d3838",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "63ac1f87355b8051e0e67999d688242ef2bbae5b": {
+      "FileHash": "63ac1f87355b8051e0e67999d688242ef2bbae5b",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Use-keyboard-shortcuts-in-the-Rights-Management-sharing-application.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2810,7 +2810,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Use-keyboard-shortcuts-in-the-Rights-Management-sharing-application.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2818,9 +2818,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "a8d28a654b3a3d2a73cb08d2fbc7eadcdb113796": {
-      "FileHash": "a8d28a654b3a3d2a73cb08d2fbc7eadcdb113796",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "f12db080351a4dab90b4ce95a45a9d79bcf262f1": {
+      "FileHash": "f12db080351a4dab90b4ce95a45a9d79bcf262f1",
+      "SourceFileCommit": "cd76b855c0c6a748f70916c8a79dd8922f4ddf76",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\View-and-use-files-that-have-been-protected-by-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2832,7 +2832,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\View-and-use-files-that-have-been-protected-by-Rights-Management.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2840,9 +2840,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "fda3b65d65ea2ff7b499558b52672aaa0f77e34d": {
-      "FileHash": "fda3b65d65ea2ff7b499558b52672aaa0f77e34d",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "90f6a3b29e4988027d17082c60ad78dbb74555f7": {
+      "FileHash": "90f6a3b29e4988027d17082c60ad78dbb74555f7",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Welcome-to-Microsoft-RMS!-Test.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2854,7 +2854,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Welcome-to-Microsoft-RMS!-Test.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
@@ -2862,9 +2862,9 @@
       "HandbackException": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
-    "af34603c48655d487a622c003822bb7981f49dfa": {
-      "FileHash": "af34603c48655d487a622c003822bb7981f49dfa",
-      "SourceFileCommit": "13d089cbcbb6f8d1cc66d047035ac0236ef62269",
+    "80e1ec20e96ccc5f022c23c368000c1f8e7e7cca": {
+      "FileHash": "80e1ec20e96ccc5f022c23c368000c1f8e7e7cca",
+      "SourceFileCommit": "3a1e7cada1c800e20eac596c637a8cefa369e7fb",
       "SourceFilePath": "mt\\ems\\ems\\RMS_Client\\Welcome-to-Microsoft-RMS!.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
@@ -2876,7 +2876,7 @@
       "HandoffPriority": "",
       "HandoffDateTime": "0001-01-01T00:00:00",
       "HandoffException": null,
-      "TargetFileCommit": "d2dd0af1a55ff8445dc14fc38d6bfc3957cc5fa5",
+      "TargetFileCommit": "01aad783998e98826716db0eceed43db2f689a28",
       "TargetFilePath": "mt\\ems\\ems\\RMS_Client\\Welcome-to-Microsoft-RMS!.md",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
