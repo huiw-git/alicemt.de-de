@@ -5,9 +5,9 @@ ms.date: 12/22/2015
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
-caps.handback.revision: 11
 ms.assetid: 23ca5ffe-a3c3-475a-a3c9-b77b898eef80
 caps.latest.revision: 25
+caps.handback.revision: 11
 translation.priority.ht: 
   - cs-cz
   - de-de

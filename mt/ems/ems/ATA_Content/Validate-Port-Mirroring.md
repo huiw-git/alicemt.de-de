@@ -10,9 +10,9 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
-caps.handback.revision: 10
 ms.assetid: ebd41719-c91a-4fdd-bcab-2affa2a2cace
 caps.latest.revision: 24
+caps.handback.revision: 10
 ---
 # &#220;berpr&#252;fen Sie die Port-Spiegelung
 Die folgenden Schritte führen Sie durch den Prozess zum Überprüfen der Spiegelung Port ordnungsgemäß konfiguriert ist.

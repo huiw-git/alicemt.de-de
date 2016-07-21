@@ -6,9 +6,9 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-caps.handback.revision: 11
 ms.assetid: feeef78d-3c2e-432b-817d-d06f784be226
 caps.latest.revision: 25
+caps.handback.revision: 11
 robots: nofollow
 translation.priority.ht: 
   - de-de

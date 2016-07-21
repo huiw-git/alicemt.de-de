@@ -10,9 +10,9 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
-caps.handback.revision: 10
 ms.assetid: cdaddca3-e26e-4137-b553-8ed3f389c460
 caps.latest.revision: 24
+caps.handback.revision: 10
 ---
 # Konfigurieren Sie die Port-Spiegelung
 Die primären Datenquelle verwendet, die für ATA ist deep Packet Inspection des Netzwerkverkehrs zu und von den Domänencontrollern. Für ATA den Netzwerkdatenverkehr zu sehen muss Port Spiegelung konfiguriert werden. Port-mirroring kopiert den Datenverkehr auf einem Port, den Quellport genannt, um einen anderen Port als den Zielport bezeichnet. ATA funktioniert mit den meisten Lösungen, die Datenverkehr - widerspiegeln, können der Datenverkehr Port auf ATA-gespiegelt werden, kann verwendet werden um Gefahren für Ihr System zu analysieren. Port-mirroring konfigurieren, finden Sie in der Dokumentation des Herstellers.

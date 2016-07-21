@@ -10,9 +10,9 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
-caps.handback.revision: 10
 ms.assetid: 736f9279-a047-415c-b3eb-c63ab8725ec0
 caps.latest.revision: 24
+caps.handback.revision: 10
 ---
 # ATA-Datenbankwartung
 Dieses Thema stellt Informationen bereit, auf die Wartung der ATA-Datenbanken.

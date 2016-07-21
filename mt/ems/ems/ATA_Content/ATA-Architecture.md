@@ -10,9 +10,9 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
-caps.handback.revision: 5
 ms.assetid: 892b16d2-58a6-49f9-8693-1e5f69d8299c
 caps.latest.revision: 17
+caps.handback.revision: 5
 translation.priority.mt: 
   - de-de
   - ja-jp

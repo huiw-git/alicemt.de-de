@@ -10,9 +10,9 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
-caps.handback.revision: 10
 ms.assetid: 3f0498f9-061d-40e6-ae07-98b8dcad9b20
 caps.latest.revision: 24
+caps.handback.revision: 10
 ---
 # Konfigurieren der Ereignissammlung
 Zur Erhöhung der ATA-Erkennung von Pass-the-Hash benötigt ATA Windows-Ereignisprotokoll-ID 4776. Dies kann durch Konfigurieren des Gateways ATA SIEM Ereignisse oder durch Lauschen an das Gateway ATA auf zwei Arten weitergeleitet werden [Konfigurieren von Windows-Ereignisweiterleitung](#ATA_event_WEF).

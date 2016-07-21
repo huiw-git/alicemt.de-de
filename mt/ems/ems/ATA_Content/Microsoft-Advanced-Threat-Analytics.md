@@ -10,9 +10,9 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
-caps.handback.revision: 10
 ms.assetid: a315cf03-c5a3-4ecb-a0f8-4d3e322e6ad1
 caps.latest.revision: 24
+caps.handback.revision: 10
 ---
 # Microsoft Threat-Analyse erweitert
 Microsoft erweitert Threat-Analyse (ATA) bietet eine lokale, mit denen IT-Sicherheitsexperten, die Unternehmen aus erweiterten gezielten Angriffen zu schützen, indem automatisch analysieren und lernen, normale und ungewöhnliche Verhalten zwischen Entitäten (Benutzer, Geräte und Ressourcen) identifiziert. ATA erkennbar auch bekannten Angriffen, Sicherheitsprobleme und Risiken beim Einsatz von erstklassigen, Innovation Research in Verhaltensunterschiede Analytics Unternehmen von Sicherheitslücken zu identifizieren, bevor diese Schaden anrichten können.
