@@ -12,6 +12,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 caps.handback.revision: 5
 ms.assetid: a5f90544-1c70-4aff-8bf3-c59dd7abd687
+caps.latest.revision: 16
 translation.priority.mt: 
   - de-de
   - ja-jp

@@ -12,6 +12,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 caps.handback.revision: 10
 ms.assetid: 1bf264d9-9697-44b5-9533-e1c498da4f07
+caps.latest.revision: 24
 ---
 # Arbeiten mit der ATA-Konsole
 Dieser Abschnitt beschreibt die ATA-Konsole.

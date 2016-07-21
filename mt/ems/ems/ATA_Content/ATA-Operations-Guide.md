@@ -12,6 +12,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 caps.handback.revision: 10
 ms.assetid: 50d46d67-8858-4288-9599-16715cc6e34e
+caps.latest.revision: 24
 ---
 # ATA-Betriebshandbuch
 Erweiterte Bedrohung Analytics Handbuch bietet Informationen, die Sie ATA so einrichten, dass Sie Bedrohung erkennen Feinabstimmung können und Analyse in Echtzeit.

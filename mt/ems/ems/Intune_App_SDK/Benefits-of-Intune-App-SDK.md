@@ -8,6 +8,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 caps.handback.revision: 10
 ms.assetid: cd9f05e7-26e6-45e0-8d38-67d8232b1cae
+caps.latest.revision: 24
 ---
 # Vorteile der Intune App-SDK
 Text der Einführung hier einfügen.

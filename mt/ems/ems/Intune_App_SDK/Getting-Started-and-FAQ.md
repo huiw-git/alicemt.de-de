@@ -8,6 +8,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 caps.handback.revision: 10
 ms.assetid: 779843bd-1ebc-4eaa-8c0a-43e8be027438
+caps.latest.revision: 24
 ---
 # Erste Schritte und h&#228;ufig gestellte Fragen
 Text der Einführung hier einfügen.

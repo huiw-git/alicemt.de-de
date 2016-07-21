@@ -12,6 +12,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 caps.handback.revision: 10
 ms.assetid: f4f2ae30-4849-4a4f-8f6d-bfe99a32c746
+caps.latest.revision: 24
 ---
 # Arbeiten mit Einstellungen f&#252;r ATA-Erkennung
 Die **Erkennung** Seite "Konfiguration" ermöglicht das Festlegen eine Liste von IP-Adressen und Subnetzen, die Sonderfälle und etwas anders als andere Entitäten in Ihrem Netzwerk behandelt werden sollen.

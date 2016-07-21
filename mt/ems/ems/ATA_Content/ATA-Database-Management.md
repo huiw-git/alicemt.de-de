@@ -9,6 +9,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 caps.handback.revision: 10
 ms.assetid: 1d27dba8-fb30-4cce-a68a-f0b1df02b977
+caps.latest.revision: 24
 ---
 # ATA-Verwaltung
 Verschieben, sichern oder Wiederherstellen der Datenbank ATA werden sollen, verwenden Sie diese Verfahren für die Arbeit mit MongoDB.

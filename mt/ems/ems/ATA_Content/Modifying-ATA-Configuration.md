@@ -12,6 +12,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 caps.handback.revision: 10
 ms.assetid: bcf0f7d3-8027-45c0-8002-19f71fcb30a6
+caps.latest.revision: 24
 ---
 # ATA-Konfiguration &#228;ndern
 Wenn Sie Ihre Konfiguration nach der ersten Installation und Bereitstellung von ATA aktualisieren müssen, verwenden Sie in diesem Thema als Leitfaden.

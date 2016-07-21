@@ -7,6 +7,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 caps.handback.revision: 11
 ms.assetid: 846f1895-1daf-4164-8cf6-e4a691384c41
+caps.latest.revision: 25
 translation.priority.ht: 
   - cs-cz
   - de-de

@@ -9,6 +9,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 caps.handback.revision: 11
 ms.assetid: a890e04a-4b70-41b5-8d5f-3c210a669faa
+caps.latest.revision: 25
 translation.priority.ht: 
   - bg-bg
   - de-de

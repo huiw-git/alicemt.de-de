@@ -12,6 +12,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 caps.handback.revision: 10
 ms.assetid: e1954834-ff49-4ac1-b78c-06693569abff
+caps.latest.revision: 24
 ---
 # ATA-H&#196;UFIG GESTELLTE FRAGEN
 Dieser Abschnitt enthält Antworten auf häufig gestellte Fragen zu Microsoft Advanced Threat-Analyse.

@@ -8,6 +8,7 @@ ms.tgt_pltfrm: na
 ms.topic: article
 caps.handback.revision: 11
 ms.assetid: 59e3b68e-4bed-4962-bb1e-e82d82f8000a
+caps.latest.revision: 25
 robots: nofollow
 translation.priority.ht: 
   - de-de
