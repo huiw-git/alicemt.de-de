@@ -1,7 +1,7 @@
 ---
 title: Protokollieren und Analysieren von Azure Rights Management-Nutzung
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 07/21/2016
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na

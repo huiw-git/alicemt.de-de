@@ -1,18 +1,17 @@
 ---
 title: Mithilfe von Azure Rights Management
 ms.custom: na
-ms.date: 12/25/2015
+ms.date: 07/21/2016
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 18564e4a-9364-4ed2-8f17-89d24fc0d878
-caps.latest.revision: 25
-caps.handback.revision: 11
+caps.latest.revision: 26
+caps.handback.revision: 26
 translation.priority.ht: 
   - bg-bg
-  - de-de
   - el-gr
   - es-es
   - et-ee
@@ -20,7 +19,6 @@ translation.priority.ht:
   - fr-fr
   - hr-hr
   - it-it
-  - ja-jp
   - kk-kz
   - ko-kr
   - lt-lt
@@ -39,7 +37,9 @@ translation.priority.ht:
 translation.priority.mt: 
   - cs-cz
   - da-dk
+  - de-de
   - hu-hu
+  - ja-jp
   - nb-no
   - nl-nl
   - pl-pl
@@ -48,25 +48,27 @@ translation.priority.mt:
 ---
 # Mithilfe von Azure Rights Management
 > [!NOTE]
-> Diese Informationen sind für IT-Administratoren und Berater bestimmt, die Microsoft Azure Rights Management (Azure RMS) bereitgestellt haben. Wenn Sie Hilfe und Informationen zur Verwendung von Rights Management für eine bestimmte Anwendung suchen, verwenden Sie die Hilfe und Anleitungen, die zu der Anwendung gehören.
+> This information is for IT administrators and consultants who have deployed Microsoft Azure Rights Management (Azure RMS). If you are looking for user help and information about how to use Rights Management for a specific application, use the help and guidance that accompanies your application.
 > 
-> Klicken Sie bei Office-Anwendungen z. B. auf das Hilfesymbol, und geben Sie Suchbegriffe wie **Rights Management** oder **IRM** ein. Informationen zur RMS-Freigabeanwendung für Windows finden Sie unter [Rights Management-Freigabeanwendung – Benutzerhandbuch](http://technet.microsoft.com/library/dn339006.aspx).
+> For example, for Office applications, click the Help icon and enter search terms such as **Rights Management** or **IRM**. For the RMS sharing application for Windows, see the [Rights Management sharing application user guide](http://technet.microsoft.com/library/dn339006.aspx).
 
-Dieser Abschnitt enthält Informationen zum Betrieb nach der Konfiguration von [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)]:
+![1-aadp onboarding process-v3](/Image/1-aadp%20onboarding%20process-v3.png)
 
--   [Überprüfen von Azure Rights Management](../../ems/AADRightsMgmt/Verifying-Azure-Rights-Management.md)
+This section contains operations information for after you have configured   [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)]:
 
--   [Unterstützung von Benutzern beim Schützen von Dateien mithilfe von Azure Rights Management](../../ems/AADRightsMgmt/Helping-Users-to-Protect-Files-by-Using-Azure-Rights-Management.md)
+-   [Verifying Azure Rights Management](../../ems/AADRightsMgmt/Verifying-Azure-Rights-Management.md)
 
--   [Protokollieren und Analysieren von Azure Rights Management-Nutzung](../../ems/AADRightsMgmt/Logging-and-Analyzing-Azure-Rights-Management-Usage.md)
+-   [Helping Users to Protect Files by Using Azure Rights Management](../../ems/AADRightsMgmt/Helping-Users-to-Protect-Files-by-Using-Azure-Rights-Management.md)
 
--   [Vorgänge für Ihren Azure Rights Management-Mandantenschlüssel](../../ems/AADRightsMgmt/Operations-for-Your-Azure-Rights-Management-Tenant-Key.md)
+-   [Logging and Analyzing Azure Rights Management Usage](../../ems/AADRightsMgmt/Logging-and-Analyzing-Azure-Rights-Management-Usage.md)
+
+-   [Operations for Your Azure Rights Management Tenant Key](../../ems/AADRightsMgmt/Operations-for-Your-Azure-Rights-Management-Tenant-Key.md)
 
 > [!TIP]
-> Wenn Sie gerade erst in Azure RMS einsteigen, hilft Ihnen der Abschnitt [Erste Schritte mit Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md) vermutlich weiter, da er Informationen enthält, wie Sie mehr über Azure RMS und seinen Einsatz zum Schutz von Informationen in Ihrer Organisation erfahren.
+> If you’re new to Azure RMS, you might find the [Getting Started with Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md) section useful, because it contains information to help you learn more about Azure RMS and how it can help you to protect information in your organization.
 > 
-> Wenn Sie Anweisungen zur Bereitstellung von Azure RMS suchen, lesen Sie [Konfigurieren von Azure Rights Management](../../ems/AADRightsMgmt/Configuring-Azure-Rights-Management.md). Und wenn Sie Windows PowerShell-Benutzer sind oder einfach erfahren möchten, wie Sie Azure RMS auf der Befehlszeile verwalten können, finden Sie in [Verwalten von Azure Rights Management mithilfe von WindowsPowerShell](../../ems/AADRightsMgmt/Administering-Azure-Rights-Management-by-Using-Windows-PowerShell.md) die gewünschten Informationen.
+> If you’re looking for deployment instructions for Azure RMS, see [Configuring Azure Rights Management](../../ems/AADRightsMgmt/Configuring-Azure-Rights-Management.md). And if you’re a Windows PowerShell user, or just want to see how you can administer Azure RMS from the command line, see [Administering Azure Rights Management by Using Windows PowerShell](../../ems/AADRightsMgmt/Administering-Azure-Rights-Management-by-Using-Windows-PowerShell.md).
 
-## Siehe auch
+## See Also
 [Azure Rights Management](../../ems/AADRightsMgmt/Azure-Rights-Management.md)
 

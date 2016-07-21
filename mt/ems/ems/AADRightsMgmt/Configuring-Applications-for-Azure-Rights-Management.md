@@ -1,7 +1,7 @@
 ---
 title: Konfigurieren von Clientanwendungen f&#252;r Azure Rights Management
 ms.custom: na
-ms.date: 12/25/2015
+ms.date: 07/21/2016
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na
