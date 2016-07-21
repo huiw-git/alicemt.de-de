@@ -31,7 +31,7 @@ Die **Language** und **Ausführlichkeit** Einstellungen gelten für Benachrichti
 
 2.  Wählen Sie die Einstellungsoption "auf der Symbolleiste, und wählen Sie **Konfiguration**.
 
-    ![](../Image/ATA%20config%20icon.JPG)
+    ![ATA config icon](../../ems/ATA_Content/media/ATA-config-icon.JPG "ATA config icon")
 
 3.  Wählen Sie **Warnungen**.
 
@@ -39,7 +39,7 @@ Die **Language** und **Ausführlichkeit** Einstellungen gelten für Benachrichti
 
 5.  Unter **Ausführlichkeit**, auf **Niedrig** Sie ggf. eine kurze Benachrichtigung nur, wenn Sie eine neue Warnung generiert wird. Wählen Sie **hohe** eine detaillierte Benachrichtigung erhalten, wenn eine neue Warnung generiert wird, sowie die Änderung von vorhandener Warnungen werden sollen.
 
-    ![](../Image/ATA%20alerts%20verbosity%20language.JPG)
+    ![ATA alerts verbosity language](../../ems/ATA_Content/media/ATA-alerts-verbosity-language.JPG "ATA alerts verbosity language")
 
 6.  Klicken Sie auf **Speichern**.
 
@@ -52,7 +52,7 @@ ATA kann Sie warnen, wenn eine verdächtige Aktivitäten erkannt wird. Wenn Sie 
 
 3.  Wählen Sie die Einstellungsoption "auf der Symbolleiste, und wählen Sie **Konfiguration**.
 
-    ![](../Image/ATA%20config%20icon.JPG)
+    ![ATA config icon](../../ems/ATA_Content/media/ATA-config-icon.JPG "ATA config icon")
 
 4.  Wählen Sie **Warnungen**.
 
@@ -85,7 +85,7 @@ ATA kann Sie warnen, wenn eine verdächtige Aktivität durch Senden der Warnung 
 
 4.  Wählen Sie die Einstellungsoption "auf der Symbolleiste, und wählen Sie **Konfiguration**.
 
-    ![](../Image/ATA%20config%20icon.JPG)
+    ![ATA config icon](../../ems/ATA_Content/media/ATA-config-icon.JPG "ATA config icon")
 
 5.  Wählen Sie **Warnungen**.
 

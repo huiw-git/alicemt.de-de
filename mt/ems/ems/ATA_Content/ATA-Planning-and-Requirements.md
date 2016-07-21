@@ -228,7 +228,7 @@ Die ATA-Gateway erfordert mindestens zwei Netzwerkadapter.
         > [!NOTE]
         > Wenn das ATA-Gateway ein Mitglied der Domäne ist, wird dies automatisch konfiguriert.
         > 
-        > ![](../Image/ATA%20DNS%20Suffix.png)
+        > ![The DNS Suffix setting for the ATA Gateway](../../ems/ATA_Content/media/ATA-DNS-Suffix.png "ATA DNS Suffix")
 
 -   **-Capture-Adapter** – wird verwendet, um den Datenverkehr zu und von den Domänencontrollern zu erfassen.
 

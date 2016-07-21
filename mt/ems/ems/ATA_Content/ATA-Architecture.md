@@ -20,7 +20,7 @@ translation.priority.mt:
 # ATA-Architektur
 In diesem Diagramm wird die Architektur für erweiterte Threat-Analyse beschrieben:
 
-![](../Image/ATA%20architecture%20topology.jpg)
+![ATAarchitecturetopology](../../ems/ATA_Content/media/ATA-architecture-topology.jpg "ATA architecture topology")
 
 ATA besteht aus zwei Komponenten - ATA-Gateway und das ATA-Center.
 
@@ -28,7 +28,7 @@ Diese Verbindung zu Ihrem vorhandenen Netzwerk spiegeln den Netzwerkdatenverkehr
 
 Dieser Abschnitt beschreibt den Ablauf des Netzwerks erfassen und verarbeiten und einen Drilldown in die Hauptkomponenten des ATA-Gateway und dem ATA-Center und ihrer Funktionalität.
 
-![](../Image/ATA%20traffic%20flow.jpg)
+![ATA traffic flow](../../ems/ATA_Content/media/ATA-traffic-flow.jpg "ATA traffic flow")
 
 ## ATA-Komponenten
 ATA umfasst Folgendes:

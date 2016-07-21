@@ -49,7 +49,7 @@ Auch wenn Sie über ein Abonnement mit Unterstützung von Azure Rights Managemen
 
 - Wenn Sie über kein Office 365-Abonnement verfügen: **Verwenden Sie das Azure-Portal**.
 
-![](/Image/AzRMS_Tutorial_1_Screenshots.png)
+![Screenshots for Step 1, activating Azure RMS](../../ems/AADRightsMgmt/media/AzRMS_Tutorial_1_Screenshots.png "AzRMS_Tutorial_1_Screenshots")
 
 
 1. Wechseln Sie zum [Office 365-Portal](https://portal.office.com/), und melden Sie sich mit Ihrem Arbeits- oder Schulkonto an.
@@ -99,7 +99,7 @@ Die Rights Management-Freigabeanwendung (auch bekannt als "RMS-Freigabe-App") is
 
 Die Anwendung steht kostenlos zum Download bereit und unterstützt die skriptgesteuerte Installation in Produktionsumgebungen. In diesem Lernprogramm wird sie jedoch lokal installiert.
 
-![](/Image/AzRMS_Tutorial_2_Screenshots.png)
+![Screenshots for Step 2, install the RMS sharing app for Azure RMS](../../ems/AADRightsMgmt/media/AzRMS_Tutorial_2_Screenshots.png "AzRMS_Tutorial_2_Screenshots")
 
 
 1. Navigieren Sie auf der Microsoft-Website zur Seite [Microsoft Rights Management](http://go.microsoft.com/fwlink/?LinkId=303970).
@@ -125,7 +125,7 @@ Für diesen Schritt erstellen und speichern Sie zuerst ein Word-Dokument, das Si
 
 Anschließend können Sie das Dokument sicher per E-Mail freigeben.
 
-![](/Image/AzRMS_Tutorial_3_Screenshots.png)
+![Screenshots for Step 3, Share Protected with Azure RMS](../../ems/AADRightsMgmt/media/AzRMS_Tutorial_3_Screenshots.png "AzRMS_Tutorial_3_Screenshots")
 
 
 1. Erstellen Sie in Outlook eine neue Nachricht, und fügen Sie die gerade erstellte Datei an.
@@ -170,7 +170,7 @@ Bitten Sie die Empfänger, die gesendete E-Mail zu lesen. Die E-Mail wird den Em
 
 Sobald der Empfänger auf den Link klickt, wird er weitergeleitet und erhält Anweisungen zur Installation der RMS-Freigabe-App und ggf. zur Registrierung für ein kostenloses Konto. Das kostenlose Konto gewährt Zugriff auf ein RMS for Individuals-Abonnement, mit dem autorisierte Benutzer ein geschütztes Dokument immer lesen können, auch wenn ihre Organisation nicht über Azure RMS verfügt. Sie können die geschützte Anlage dann mithilfe der folgenden Anweisungen lesen.
 
-![](/Image/AzRMS_Tutorial_4_Screenshots.png)
+![Screenshots for Step 4, recipient views attachment that's protected by Azure RMS](../../ems/AADRightsMgmt/media/AzRMS_Tutorial_4_Screenshots.png "AzRMS_Tutorial_4_Screenshots")
 
 
 1. Da die mit Azure Rights Management geschützte Datei ein Word-Dokument ist, verfügt die E-Mail über zwei Anlagen. Es handelt sich tatsächlich um zwei Versionen derselben Datei, aber mit unterschiedlichen Dateierweiterungen. Öffnen Sie die Version mit der Dateierweiterung **.ppdf** (**Confidential.ppdf**).
@@ -201,7 +201,7 @@ Dieser Schritt ist optional. Die meisten Absender möchten jedoch gerne wissen, 
 
 - Sobald Sie sehen, dass das Dokument geöffnet wurde, erkundigen Sie sich, ob noch Fragen offen sind oder zusätzliche Informationen benötigt werden.
 
-![](/Image/AzRMS_Tutorial_5_Screenshots.png)
+![Screenshots for Step 5, document tracking with Azure RMS](../../ems/AADRightsMgmt/media/AzRMS_Tutorial_5_Screenshots.png "AzRMS_Tutorial_5_Screenshots")
 
 
 1. Klicken Sie in Outlook auf der Registerkarte **Start** in der Gruppe **RMS** auf **Nutzung nachverfolgen**.

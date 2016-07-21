@@ -68,7 +68,7 @@ Führen Sie die folgenden Schritte auf dem Server ATA-Center.
     |SSL-Dienstzertifikat ATA-Center|Dies ist das Zertifikat, das von den ATA-Center-Dienst verwendet wird.|Klicken Sie auf das Schlüsselsymbol wählen Sie ein Zertifikat installiert oder selbst signiertes Zertifikat überprüfen, wenn Sie in einer Lab-Umgebung bereitstellen.|
     |ATA-Konsole IP-Adresse|Dies ist die IP-Adresse, die von IIS für die ATA-Konsole verwendet werden.|Klicken Sie auf den Pfeil nach unten, um die IP-Adresse verwendet, die für die ATA-Konsole auswählen. **Note:** Notieren Sie sich diese IP-Adresse des Gateways ATA ATA-Konsole zugreifen zu vereinfachen.|
     |ATA-Konsole SSL-Zertifikat|Dies ist das Zertifikat von IIS verwendet werden.|Klicken Sie auf das Schlüsselsymbol wählen Sie ein Zertifikat installiert oder selbst signiertes Zertifikat überprüfen, wenn Sie in einer Lab-Umgebung bereitstellen.|
-    ![](../Image/ATA%20Center%20Configuration.JPG)
+    ![ATA Center Configuration](../../ems/ATA_Content/media/ATA-Center-Configuration.JPG "ATA Center Configuration")
 
 7.  Klicken Sie auf **Installation** ATA und seine Komponenten zu installieren und die Verbindung zwischen dem ATA-Mittelpunkt und die ATA-Konsole erstellen.
 
@@ -91,7 +91,7 @@ Um die Domäne konfigurieren, führen Sie die folgenden auf dem Server ATA-Cente
 
 2.  Beim ersten bei der ATA-Konsole, anmelden nachdem die ATA-Center installiert wurde, werden Sie automatisch zur Konfigurationsseite ATA-Gateways weitergeleitet. Wenn Sie die Einstellungen später ändern möchten, klicken Sie auf das Symbol, und wählen **Konfiguration**.
 
-    ![](../Image/ATA%20config%20icon.JPG)
+    ![ATA config icon](../../ems/ATA_Content/media/ATA-config-icon.JPG "ATA config icon")
 
 3.  Auf der **Gateways** Seite, klicken Sie auf **Domäne Konnektivitätseinstellungen**, geben Sie Folgendes ein, und klicken Sie auf **Speichern**.
 
@@ -100,7 +100,7 @@ Um die Domäne konfigurieren, führen Sie die folgenden auf dem Server ATA-Cente
     |**Benutzername** (erforderlich)|Geben Sie nur-Lese-Benutzernamen ein, z. B.: **user1**.|
     |**Kennwort** (erforderlich)|Geben Sie das Kennwort für den Benutzer schreibgeschützt, z. B.: **Pencil1**. **Note:** Stellen Sie sicher, dass das Kennwort richtig ist. Wenn Sie das falsche Kennwort speichern, wird der ATA-Dienst beendet, die auf die ATA-Gatewayserver ausgeführt.|
     |**Domäne** (erforderlich)|Geben Sie die Domäne für den Benutzer schreibgeschützt, z. B. **contoso.com**. **Note:** Es ist wichtig, dass Sie den vollständigen FQDN der Domäne eingeben, wo sich der Benutzer befindet. Wenn das Konto des Benutzers in der Domäne "corp.contoso.com" ist, müssen Sie eingeben `corp.contoso.com` nicht "contoso.com"|
-    ![](../Image/ATA%20Domain%20Connectivity%20User.JPG)
+    ![ATA Domain Connectivity User](../../ems/ATA_Content/media/ATA-Domain-Connectivity-User.JPG "ATA Domain Connectivity User")
 
 ## <a name="DownloadATA"></a>Schritt 3. ATA-Gateway-Setup-Paket herunterladen
 Nach dem Konfigurieren der Domäne Konnektivitätseinstellungen können Sie das ATA-Gateway-Setup-Paket herunterladen.
@@ -109,7 +109,7 @@ Das Gateway ATA-Paket herunterladen:
 
 1.  Öffnen Sie einen Browser, und geben Sie die IP-Adresse, die Sie in der Mitte des ATA für die ATA-Konsole konfiguriert, auf dem Computer ATA-Gateway. ATA-Konsole wird geöffnet, klicken Sie auf das Symbol, und wählen Sie **Konfiguration**.
 
-    ![](../Image/ATA%20config%20icon.JPG)
+    ![ATA config icon](../../ems/ATA_Content/media/ATA-config-icon.JPG "ATA config icon")
 
 2.  In der **ATA-Gateways** auf **herunterladen ATA-Gateway-Setup**.
 
@@ -139,7 +139,7 @@ Führen Sie die folgenden Schritte auf dem ATA-Gatewayserver.
 
 4.  Klicken Sie unter  **ATA-Gateway-Konfiguration**, geben Sie die folgende Informationen basierend auf Ihrer Umgebung:
 
-    ![](../Image/ATA%20Gateway%20Configuration.JPG)
+    ![ATA Gateway Configuration](../../ems/ATA_Content/media/ATA-Gateway-Configuration.JPG "ATA Gateway Configuration")
 
     |Feld|Beschreibung|Kommentare|
     |--------|----------------|--------------|
@@ -159,9 +159,9 @@ Nachdem das ATA-Gateway installiert wurde, führen Sie die folgenden Schritte au
     |Feld|Beschreibung|Kommentare|
     |--------|----------------|--------------|
     |Beschreibung|Geben Sie eine Beschreibung des ATA-Gateways (optional).||
-    |**Domänencontroller** (erforderlich)<br /><br />Weitere Informationen zu der Liste von Domänencontrollern finden Sie weiter unten.|Geben Sie den vollständigen FQDN des Domänencontrollers, und klicken Sie auf das Pluszeichen, um ihn der Liste hinzuzufügen. Zum Beispiel  **dc01.contoso.com**<br /><br />![](../Image/ATAGWDomainController.png)|Die Objekte in den ersten Domänencontroller in der Liste werden über LDAP-Abfragen synchronisiert. Je nach Größe der Domäne kann dies einige Zeit dauern. **Note:** <ul><li>Stellen Sie sicher, dass der erste Domänencontroller ist **nicht** schreibgeschützt.    Lesen Sie nur die Domäne, die Domänencontroller erst nach Abschluss der ersten Synchronisierung hinzugefügt werden soll.</li></ul>|
+    |**Domänencontroller** (erforderlich)<br /><br />Weitere Informationen zu der Liste von Domänencontrollern finden Sie weiter unten.|Geben Sie den vollständigen FQDN des Domänencontrollers, und klicken Sie auf das Pluszeichen, um ihn der Liste hinzuzufügen. Zum Beispiel  **dc01.contoso.com**<br /><br />![The domain controller for the gateway](../../ems/ATA_Content/media/ATAGWDomainController.png "ATAGWDomainController")|Die Objekte in den ersten Domänencontroller in der Liste werden über LDAP-Abfragen synchronisiert. Je nach Größe der Domäne kann dies einige Zeit dauern. **Note:** <ul><li>Stellen Sie sicher, dass der erste Domänencontroller ist **nicht** schreibgeschützt.    Lesen Sie nur die Domäne, die Domänencontroller erst nach Abschluss der ersten Synchronisierung hinzugefügt werden soll.</li></ul>|
     |**Capture Netzwerkadapter** (erforderlich)|Wählen Sie die Netzwerkadapter, die mit dem Switch verbunden sind, die als Ziel Mirror-Port zum Empfangen von Datenverkehr auf dem Domänencontroller konfiguriert sind.|Wählen Sie den Netzwerkadapter für die Erfassung.|
-    ![](../Image/ATA%20Config%20GW%20Settings.jpg)
+    ![ATA Config GW Settings](../../ems/ATA_Content/media/ATA-Config-GW-Settings.jpg "ATA Config GW Settings")
 
 3.  Klicken Sie auf **Speichern**.
 
@@ -203,14 +203,14 @@ Um zu überprüfen, dass die ATA-Gateway erfolgreich bereitgestellt wurde, über
 
     Öffnen Sie den Systemmonitor. Klicken Sie in der Struktur der Leistung auf **Systemmonitor** und klicken Sie dann auf das Plussymbol, **einen Zähler hinzufügen**. Erweitern Sie **Microsoft ATA-Gateway** und führen Sie einen Bildlauf nach unten zum **Network Listener erfasst Nachrichten pro Sekunde** und fügen Sie es hinzu. Stellen Sie dann sicher, dass Sie die Aktivitäten im Diagramm angezeigt.
 
-    ![](../Image/ATA%20performance%20monitoring%20add%20counters.png)
+    ![ATA performance monitoring add counters](../../ems/ATA_Content/media/ATA-performance-monitoring-add-counters.png "ATA performance monitoring add counters")
 
 ### <a name="ATAvpnHoneytokensetting"></a>Schritt 6. Konfigurieren Sie die kurzfristigen Lease Subnetze und Honeytoken Benutzer
 Kurzfristige Lease Subnetze sind Subnetze, in dem die IP-Adresszuweisung sehr schnell ändert - innerhalb von Sekunden oder Minuten. Beispielsweise verwendet IP-Adressen für Ihre VPNs und Wi-Fi-IP-Adressen. Um die Liste der kurzfristigen Lease Subnetze in Ihrem Unternehmen verwendeten einzugeben, gehen Sie folgendermaßen vor:
 
 1.  Der ATA-Konsole auf dem ATA-Gatewaycomputer, klicken Sie auf das Symbol, und wählen **Konfiguration**.
 
-    ![](../Image/ATA%20config%20icon.JPG)
+    ![ATA config icon](../../ems/ATA_Content/media/ATA-config-icon.JPG "ATA config icon")
 
 2.  Klicken Sie unter **Erkennung**, geben Sie Folgendes für kurzfristige Lease Subnetze. Geben Sie die kurzfristigen Lease Subnetze Schrägstrich Notation Format, z. B. mit:  `192.168.0.0/24` und klicken Sie auf das Pluszeichen (+).
 
@@ -223,7 +223,7 @@ Kurzfristige Lease Subnetze sind Subnetze, in dem die IP-Adresszuweisung sehr sc
 
 5.  Klicken Sie auf **Speichern**.
 
-![](../Image/ATA%20VPN%20Subnets.JPG)
+![ATA VPN Subnets](../../ems/ATA_Content/media/ATA-VPN-Subnets.JPG "ATA VPN Subnets")
 
 Herzlichen Glückwunsch, Sie Microsoft Advanced Threat-Analyse erfolgreich bereitgestellt haben!
 
