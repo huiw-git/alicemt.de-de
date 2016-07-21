@@ -10,6 +10,7 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 10
 ms.assetid: ebd41719-c91a-4fdd-bcab-2affa2a2cace
 ---
 # &#220;berpr&#252;fen Sie die Port-Spiegelung

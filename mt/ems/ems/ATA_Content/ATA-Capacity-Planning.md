@@ -10,6 +10,7 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 10
 ms.assetid: 279d79f2-962c-4c6f-9702-29744a5d50e2
 ---
 # Planen der ATA-Kapazit&#228;t

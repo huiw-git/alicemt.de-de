@@ -10,6 +10,7 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 10
 ms.assetid: cdaddca3-e26e-4137-b553-8ed3f389c460
 ---
 # Konfigurieren Sie die Port-Spiegelung

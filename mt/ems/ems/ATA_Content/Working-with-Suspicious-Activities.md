@@ -10,6 +10,7 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 10
 ms.assetid: 44d7c899-816c-4f7f-91d3-84a09d291a24
 ---
 # Arbeiten mit verd&#228;chtigen Aktivit&#228;ten

@@ -6,6 +6,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 10
 ms.assetid: 0f2da5a4-e14f-4990-b6db-29cf94bc3048
 ---
 # Microsoft Intune App-SDK

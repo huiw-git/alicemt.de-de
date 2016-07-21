@@ -10,6 +10,7 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 10
 ms.assetid: e1954834-ff49-4ac1-b78c-06693569abff
 ---
 # ATA-H&#196;UFIG GESTELLTE FRAGEN

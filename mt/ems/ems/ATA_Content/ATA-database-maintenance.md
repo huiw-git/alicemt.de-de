@@ -10,6 +10,7 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 10
 ms.assetid: 736f9279-a047-415c-b3eb-c63ab8725ec0
 ---
 # ATA-Datenbankwartung

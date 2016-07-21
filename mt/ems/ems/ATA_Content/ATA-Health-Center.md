@@ -10,6 +10,7 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 10
 ms.assetid: d6c783b2-46c5-4211-b21a-d6b17f08d03d
 ---
 # Center f&#252;r ATA-Integrit&#228;t

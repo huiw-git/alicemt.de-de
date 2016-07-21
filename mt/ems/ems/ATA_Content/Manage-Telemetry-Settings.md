@@ -7,6 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 10
 ms.assetid: 8c1c7a1b-a3de-4105-9fd0-08a061952172
 ---
 # Verwalten der f&#252;r Telemetrieeinstellungen

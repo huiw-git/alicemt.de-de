@@ -10,6 +10,7 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 10
 ms.assetid: a315cf03-c5a3-4ecb-a0f8-4d3e322e6ad1
 ---
 # Microsoft Threat-Analyse erweitert

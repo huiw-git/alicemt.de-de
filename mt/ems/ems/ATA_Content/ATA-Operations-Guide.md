@@ -10,6 +10,7 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 10
 ms.assetid: 50d46d67-8858-4288-9599-16715cc6e34e
 ---
 # ATA-Betriebshandbuch

@@ -10,6 +10,7 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 10
 ms.assetid: 1bf264d9-9697-44b5-9533-e1c498da4f07
 ---
 # Arbeiten mit der ATA-Konsole

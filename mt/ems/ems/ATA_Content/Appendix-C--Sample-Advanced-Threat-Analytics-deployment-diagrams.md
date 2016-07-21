@@ -10,6 +10,7 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
+caps.handback.revision: 10
 ms.assetid: 9528ef77-d36b-4369-b4cc-d7c46084c8c6
 ---
 # Anhang C: Beispiel erweiterte Threat-Analyse Bereitstellungsdiagrammen
