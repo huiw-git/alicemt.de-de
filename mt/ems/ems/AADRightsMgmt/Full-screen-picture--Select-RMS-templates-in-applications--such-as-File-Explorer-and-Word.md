@@ -9,6 +9,8 @@ ms.topic: article
 ms.assetid: 597a3402-fd5a-4bcf-b5e6-5c983dbde697
 caps.latest.revision: 25
 caps.handback.revision: 11
+author: karthikaraman
+manager: jeffgilb
 translation.priority.ht: 
   - de-de
   - es-es

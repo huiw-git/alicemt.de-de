@@ -13,6 +13,8 @@ ms.topic: article
 ms.assetid: f9ab356c-4c1c-444c-b221-2451aaebc58b
 caps.latest.revision: 24
 caps.handback.revision: 10
+author: karthikaraman
+manager: jeffgilb
 ---
 # ATA-Bereitstellungshandbuch
 Um ATA bereitstellen möchten, gehen Sie folgendermaßen vor:

@@ -9,6 +9,8 @@ ms.topic: article
 ms.assetid: cd9f05e7-26e6-45e0-8d38-67d8232b1cae
 caps.latest.revision: 24
 caps.handback.revision: 10
+author: karthikaraman
+manager: jeffgilb
 ---
 # Vorteile der Intune App-SDK
 Text der Einführung hier einfügen.

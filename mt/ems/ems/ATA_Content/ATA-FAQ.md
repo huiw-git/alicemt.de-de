@@ -13,6 +13,8 @@ ms.topic: article
 ms.assetid: e1954834-ff49-4ac1-b78c-06693569abff
 caps.latest.revision: 24
 caps.handback.revision: 10
+author: karthikaraman
+manager: jeffgilb
 ---
 # ATA-H&#196;UFIG GESTELLTE FRAGEN
 Dieser Abschnitt enthält Antworten auf häufig gestellte Fragen zu Microsoft Advanced Threat-Analyse.

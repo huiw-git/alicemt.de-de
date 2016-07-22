@@ -8,6 +8,8 @@ ms.tgt_pltfrm: na
 ms.assetid: 846f1895-1daf-4164-8cf6-e4a691384c41
 caps.latest.revision: 25
 caps.handback.revision: 11
+author: karthikaraman
+manager: jeffgilb
 translation.priority.ht: 
   - cs-cz
   - de-de

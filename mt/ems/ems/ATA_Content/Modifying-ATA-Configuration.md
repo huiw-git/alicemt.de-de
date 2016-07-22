@@ -13,6 +13,8 @@ ms.topic: article
 ms.assetid: bcf0f7d3-8027-45c0-8002-19f71fcb30a6
 caps.latest.revision: 24
 caps.handback.revision: 10
+author: karthikaraman
+manager: jeffgilb
 ---
 # ATA-Konfiguration &#228;ndern
 Wenn Sie Ihre Konfiguration nach der ersten Installation und Bereitstellung von ATA aktualisieren müssen, verwenden Sie in diesem Thema als Leitfaden.

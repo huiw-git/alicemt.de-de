@@ -9,6 +9,8 @@ ms.topic: article
 ms.assetid: 0f2da5a4-e14f-4990-b6db-29cf94bc3048
 caps.latest.revision: 24
 caps.handback.revision: 10
+author: karthikaraman
+manager: jeffgilb
 ---
 # Microsoft Intune App-SDK
 Text der Einführung hier einfügen.
