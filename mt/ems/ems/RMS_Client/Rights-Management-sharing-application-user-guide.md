@@ -1,5 +1,5 @@
 ---
-title: Rights Management freigabeanwendung – Benutzerhandbuch
+title: "Rights Management freigabeanwendung – Benutzerhandbuch"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

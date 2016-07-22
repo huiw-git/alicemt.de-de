@@ -1,5 +1,5 @@
 ---
-title: Was ist Azure Rights Management?
+title: "Was ist Azure Rights Management?"
 ms.custom: na
 ms.date: 12/25/2015
 ms.reviewer: na

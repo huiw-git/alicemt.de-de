@@ -1,5 +1,5 @@
 ---
-title: Vorteile der Intune App-SDK
+title: "Vorteile der Intune App-SDK"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

@@ -1,5 +1,5 @@
 ---
-title: Rights Management-Freigabeanwendung f&#252;r Windows
+title: "Rights Management-Freigabeanwendung f&#252;r Windows"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

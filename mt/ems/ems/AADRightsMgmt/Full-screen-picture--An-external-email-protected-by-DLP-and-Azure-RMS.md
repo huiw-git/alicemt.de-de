@@ -1,5 +1,5 @@
 ---
-title: Vollbild-Bild: eine externe e-Mail von DLP und Azure RMS gesch&#252;tzt
+title: "Vollbild-Bild: eine externe e-Mail von DLP und Azure RMS gesch&#252;tzt"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

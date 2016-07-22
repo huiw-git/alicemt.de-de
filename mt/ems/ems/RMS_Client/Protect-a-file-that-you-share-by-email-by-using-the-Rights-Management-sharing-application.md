@@ -1,5 +1,5 @@
 ---
-title: Sch&#252;tzen Sie eine Datei, die Sie mithilfe von Rights Management-freigabeanwendung per e-Mail freigeben
+title: "Sch&#252;tzen Sie eine Datei, die Sie mithilfe von Rights Management-freigabeanwendung per e-Mail freigeben"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

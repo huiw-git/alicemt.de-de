@@ -1,5 +1,5 @@
 ---
-title: Herunterladen und Installieren der Rights Management-freigabeanwendung
+title: "Herunterladen und Installieren der Rights Management-freigabeanwendung"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

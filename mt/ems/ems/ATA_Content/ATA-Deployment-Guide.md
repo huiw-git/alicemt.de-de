@@ -1,5 +1,5 @@
 ---
-title: ATA-Bereitstellungshandbuch
+title: "ATA-Bereitstellungshandbuch"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015

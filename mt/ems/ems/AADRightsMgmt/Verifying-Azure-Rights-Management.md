@@ -1,5 +1,5 @@
 ---
-title: &#220;berpr&#252;fen von Azure Rights Management
+title: "&#220;berpr&#252;fen von Azure Rights Management"
 ms.custom: na
 ms.date: 07/21/2016
 ms.reviewer: na

@@ -1,5 +1,5 @@
 ---
-title: Vergleich von Azure Rights Management und AD RMS
+title: "Vergleich von Azure Rights Management und AD RMS"
 ms.custom: na
 ms.date: 12/25/2015
 ms.reviewer: na

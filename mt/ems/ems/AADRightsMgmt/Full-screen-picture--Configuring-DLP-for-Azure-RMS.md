@@ -1,5 +1,5 @@
 ---
-title: Vollbild-Bild: Konfigurieren von DLP f&#252;r Azure RMS
+title: "Vollbild-Bild: Konfigurieren von DLP f&#252;r Azure RMS"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

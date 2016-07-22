@@ -1,5 +1,5 @@
 ---
-title: Protokollieren und Analysieren von Azure Rights Management-Nutzung
+title: "Protokollieren und Analysieren von Azure Rights Management-Nutzung"
 ms.custom: na
 ms.date: 07/21/2016
 ms.reviewer: na

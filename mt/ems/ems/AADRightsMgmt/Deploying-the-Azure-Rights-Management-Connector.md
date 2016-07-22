@@ -1,5 +1,5 @@
 ---
-title: Bereitstellen von Azure Rights Management-Connector
+title: "Bereitstellen von Azure Rights Management-Connector"
 ms.custom: na
 ms.date: 07/21/2016
 ms.reviewer: na

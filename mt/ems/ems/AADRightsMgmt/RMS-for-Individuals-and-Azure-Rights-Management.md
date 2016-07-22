@@ -1,5 +1,5 @@
 ---
-title: RMS f&#252;r Einzelpersonen und Azure Rights Management
+title: "RMS f&#252;r Einzelpersonen und Azure Rights Management"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

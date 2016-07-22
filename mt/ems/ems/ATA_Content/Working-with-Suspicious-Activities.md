@@ -1,5 +1,5 @@
 ---
-title: Arbeiten mit verd&#228;chtigen Aktivit&#228;ten
+title: "Arbeiten mit verd&#228;chtigen Aktivit&#228;ten"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015

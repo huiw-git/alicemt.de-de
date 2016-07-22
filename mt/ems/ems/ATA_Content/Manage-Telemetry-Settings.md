@@ -1,5 +1,5 @@
 ---
-title: Verwalten der f&#252;r Telemetrieeinstellungen
+title: "Verwalten der f&#252;r Telemetrieeinstellungen"
 ms.custom: na
 ms.date: 12/22/2015
 ms.prod: identity-ata

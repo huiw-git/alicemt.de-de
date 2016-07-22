@@ -1,5 +1,5 @@
 ---
-title: Vollbild-Bild: vertrauliche Bericht versehentlich an die falsche Person gesendet.
+title: "Vollbild-Bild: vertrauliche Bericht versehentlich an die falsche Person gesendet."
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

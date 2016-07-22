@@ -1,5 +1,5 @@
 ---
-title: Au&#223;erbetriebsetzen und Deaktivieren von Azure Rights Management
+title: "Au&#223;erbetriebsetzen und Deaktivieren von Azure Rights Management"
 ms.custom: na
 ms.date: 12/25/2015
 ms.reviewer: na

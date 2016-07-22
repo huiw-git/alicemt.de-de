@@ -1,5 +1,5 @@
 ---
-title: Microsoft Rights Management freigabeanwendung – Benutzerhandbuch – urspr&#252;ngliche Ver&#246;ffentlichung.
+title: "Microsoft Rights Management freigabeanwendung – Benutzerhandbuch – urspr&#252;ngliche Ver&#246;ffentlichung."
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

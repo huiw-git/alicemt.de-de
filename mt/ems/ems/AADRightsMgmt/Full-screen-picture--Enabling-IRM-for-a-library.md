@@ -1,5 +1,5 @@
 ---
-title: Vollbild-Bild: Aktivieren von IRM f&#252;r eine Bibliothek
+title: "Vollbild-Bild: Aktivieren von IRM f&#252;r eine Bibliothek"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

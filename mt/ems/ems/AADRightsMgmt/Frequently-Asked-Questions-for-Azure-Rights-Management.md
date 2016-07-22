@@ -1,5 +1,5 @@
 ---
-title: H&#228;ufig gestellte Fragen zur Azure Rights Management
+title: "H&#228;ufig gestellte Fragen zur Azure Rights Management"
 ms.custom: na
 ms.date: 12/25/2015
 ms.reviewer: na

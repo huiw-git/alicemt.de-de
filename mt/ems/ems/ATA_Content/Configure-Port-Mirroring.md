@@ -1,5 +1,5 @@
 ---
-title: Konfigurieren Sie die Port-Spiegelung
+title: "Konfigurieren Sie die Port-Spiegelung"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015

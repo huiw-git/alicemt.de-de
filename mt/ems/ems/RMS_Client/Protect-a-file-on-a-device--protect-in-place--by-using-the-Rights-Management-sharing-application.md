@@ -1,5 +1,5 @@
 ---
-title: Sch&#252;tzen eine Datei auf einem Ger&#228;t (direkt sch&#252;tzen) mithilfe von Rights Management-freigabeanwendung
+title: "Sch&#252;tzen eine Datei auf einem Ger&#228;t (direkt sch&#252;tzen) mithilfe von Rights Management-freigabeanwendung"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

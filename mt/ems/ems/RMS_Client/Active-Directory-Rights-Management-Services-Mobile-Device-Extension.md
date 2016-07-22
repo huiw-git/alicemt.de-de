@@ -1,5 +1,5 @@
 ---
-title: Active Directory Rights Management Services-Mobilger&#228;teerweiterung
+title: "Active Directory Rights Management Services-Mobilger&#228;teerweiterung"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

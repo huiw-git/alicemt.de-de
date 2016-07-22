@@ -1,5 +1,5 @@
 ---
-title: Vollbild-Bild: Konfigurieren der FCI f&#252;r die Marketing-Klassifizierung
+title: "Vollbild-Bild: Konfigurieren der FCI f&#252;r die Marketing-Klassifizierung"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

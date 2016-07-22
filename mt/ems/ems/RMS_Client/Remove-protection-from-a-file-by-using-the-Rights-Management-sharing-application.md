@@ -1,5 +1,5 @@
 ---
-title: Aufheben des Schutzes von einer Datei mithilfe von Rights Management-freigabeanwendung
+title: "Aufheben des Schutzes von einer Datei mithilfe von Rights Management-freigabeanwendung"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

@@ -1,5 +1,5 @@
 ---
-title: Vollbild-Bild: Bob sieht die e-Mail-Adresse auf seine iPad
+title: "Vollbild-Bild: Bob sieht die e-Mail-Adresse auf seine iPad"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

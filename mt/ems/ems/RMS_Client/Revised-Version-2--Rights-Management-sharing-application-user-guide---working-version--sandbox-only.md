@@ -1,5 +1,5 @@
 ---
-title: &#220;berarbeitete Version 2: Rights Management-freigabeanwendung – Benutzerhandbuch - Arbeitsversion, nur sandbox
+title: "&#220;berarbeitete Version 2: Rights Management-freigabeanwendung – Benutzerhandbuch - Arbeitsversion, nur sandbox"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

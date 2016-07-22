@@ -1,5 +1,5 @@
 ---
-title: Optionen des Dialogfelds f&#252;r die Rights Management-freigabeanwendung
+title: "Optionen des Dialogfelds f&#252;r die Rights Management-freigabeanwendung"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

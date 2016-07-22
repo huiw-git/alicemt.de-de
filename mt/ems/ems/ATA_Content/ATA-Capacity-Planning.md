@@ -1,5 +1,5 @@
 ---
-title: Planen der ATA-Kapazit&#228;t
+title: "Planen der ATA-Kapazit&#228;t"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015

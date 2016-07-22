@@ -1,5 +1,5 @@
 ---
-title: Arbeiten mit Einstellungen f&#252;r ATA-Erkennung
+title: "Arbeiten mit Einstellungen f&#252;r ATA-Erkennung"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015

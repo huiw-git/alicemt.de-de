@@ -1,5 +1,5 @@
 ---
-title: Vollbild-Bild: Installieren und konfigurieren den RMS-Verbindungsdienst f&#252;r FCI
+title: "Vollbild-Bild: Installieren und konfigurieren den RMS-Verbindungsdienst f&#252;r FCI"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

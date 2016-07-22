@@ -1,5 +1,5 @@
 ---
-title: Rights Management freigabeanwendung – Benutzerhandbuch - Revision f&#252;r einzelnes Thema
+title: "Rights Management freigabeanwendung – Benutzerhandbuch - Revision f&#252;r einzelnes Thema"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

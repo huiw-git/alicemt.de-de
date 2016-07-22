@@ -1,5 +1,5 @@
 ---
-title: Erste Schritte und h&#228;ufig gestellte Fragen
+title: "Erste Schritte und h&#228;ufig gestellte Fragen"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

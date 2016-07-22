@@ -1,5 +1,5 @@
 ---
-title: Vollbild-Bild: Aktivieren von Rights Management
+title: "Vollbild-Bild: Aktivieren von Rights Management"
 ms.custom: 
   - test
 ms.date: 12/22/2015

@@ -1,5 +1,5 @@
 ---
-title: Vollbild-Bild: Alice teilt gesch&#252;tzten Anlage
+title: "Vollbild-Bild: Alice teilt gesch&#252;tzten Anlage"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

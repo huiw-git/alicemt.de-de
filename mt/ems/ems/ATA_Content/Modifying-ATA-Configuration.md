@@ -1,5 +1,5 @@
 ---
-title: ATA-Konfiguration &#228;ndern
+title: "ATA-Konfiguration &#228;ndern"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015

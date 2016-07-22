@@ -1,5 +1,5 @@
 ---
-title: Erste Schritte mit Azure Rights Management
+title: "Erste Schritte mit Azure Rights Management"
 ms.custom: na
 ms.date: 07/21/2016
 ms.reviewer: na

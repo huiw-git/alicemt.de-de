@@ -1,5 +1,5 @@
 ---
-title: ATA-Architektur
+title: "ATA-Architektur"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015

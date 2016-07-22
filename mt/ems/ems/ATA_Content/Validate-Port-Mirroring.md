@@ -1,5 +1,5 @@
 ---
-title: &#220;berpr&#252;fen Sie die Port-Spiegelung
+title: "&#220;berpr&#252;fen Sie die Port-Spiegelung"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015

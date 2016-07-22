@@ -1,5 +1,5 @@
 ---
-title: ATA-Planung und Anforderungen
+title: "ATA-Planung und Anforderungen"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015

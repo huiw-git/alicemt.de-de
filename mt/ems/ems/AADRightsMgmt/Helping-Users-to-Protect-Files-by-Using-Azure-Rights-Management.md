@@ -1,5 +1,5 @@
 ---
-title: Unterst&#252;tzung von Benutzern beim Sch&#252;tzen von Dateien mithilfe von Azure Rights Management
+title: "Unterst&#252;tzung von Benutzern beim Sch&#252;tzen von Dateien mithilfe von Azure Rights Management"
 ms.custom: na
 ms.date: 07/21/2016
 ms.reviewer: na

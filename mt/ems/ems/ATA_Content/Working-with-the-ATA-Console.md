@@ -1,5 +1,5 @@
 ---
-title: Arbeiten mit der ATA-Konsole
+title: "Arbeiten mit der ATA-Konsole"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015

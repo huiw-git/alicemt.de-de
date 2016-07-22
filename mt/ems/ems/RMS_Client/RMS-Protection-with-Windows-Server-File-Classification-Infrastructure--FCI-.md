@@ -1,5 +1,5 @@
 ---
-title: RMS-Schutz mit Windows Server-Dateiklassifizierungsinfrastruktur (FCI)
+title: "RMS-Schutz mit Windows Server-Dateiklassifizierungsinfrastruktur (FCI)"
 ms.custom: na
 ms.date: 03/02/2016
 ms.reviewer: na

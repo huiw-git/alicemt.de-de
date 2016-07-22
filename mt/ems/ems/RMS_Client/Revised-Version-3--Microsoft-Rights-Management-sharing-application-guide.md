@@ -1,5 +1,5 @@
 ---
-title: &#220;berarbeitete Version 3: Microsoft Rights Management-freigabeanwendung – Benutzerhandbuch
+title: "&#220;berarbeitete Version 3: Microsoft Rights Management-freigabeanwendung – Benutzerhandbuch"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

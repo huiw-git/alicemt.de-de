@@ -1,5 +1,5 @@
 ---
-title: Vollbild-Bild: Bob die Anlage &#246;ffnet, auf seine iPad
+title: "Vollbild-Bild: Bob die Anlage &#246;ffnet, auf seine iPad"
 ms.custom: 
   - test
 ms.date: 12/22/2015

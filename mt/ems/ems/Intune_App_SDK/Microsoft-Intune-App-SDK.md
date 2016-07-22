@@ -1,5 +1,5 @@
 ---
-title: Microsoft Intune App-SDK
+title: "Microsoft Intune App-SDK"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

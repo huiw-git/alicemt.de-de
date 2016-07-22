@@ -1,5 +1,5 @@
 ---
-title: Wie Applikationen Azure Rights Management unterst&#252;tzen
+title: "Wie Applikationen Azure Rights Management unterst&#252;tzen"
 ms.custom: na
 ms.date: 03/02/2016
 ms.reviewer: na

@@ -1,5 +1,5 @@
 ---
-title: Anforderungen f&#252;r Azure Rights Management
+title: "Anforderungen f&#252;r Azure Rights Management"
 ms.custom: na
 ms.date: 03/02/2016
 ms.reviewer: na

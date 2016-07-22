@@ -1,5 +1,5 @@
 ---
-title: Verwenden von Tastenkombinationen in der Rights Management-freigabeanwendung
+title: "Verwenden von Tastenkombinationen in der Rights Management-freigabeanwendung"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

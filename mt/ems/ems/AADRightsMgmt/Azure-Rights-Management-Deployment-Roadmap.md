@@ -1,5 +1,5 @@
 ---
-title: Roadmap f&#252;r die Bereitstellung von Azure Rights Management
+title: "Roadmap f&#252;r die Bereitstellung von Azure Rights Management"
 ms.custom: na
 ms.date: 07/21/2016
 ms.reviewer: na

@@ -1,5 +1,5 @@
 ---
-title: Verfolgen Sie und aufzuheben Sie Ihre Dokumente, wenn Sie die RMS-Freigabe verwenden
+title: "Verfolgen Sie und aufzuheben Sie Ihre Dokumente, wenn Sie die RMS-Freigabe verwenden"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

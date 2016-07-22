@@ -1,5 +1,5 @@
 ---
-title: Datenschutzrichtlinie f&#252;r Microsoft Rights Management in RMS-f&#228;hige Anwendung
+title: "Datenschutzrichtlinie f&#252;r Microsoft Rights Management in RMS-f&#228;hige Anwendung"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

@@ -1,5 +1,5 @@
 ---
-title: Rights Management (RMS)-Client
+title: "Rights Management (RMS)-Client"
 ms.custom: na
 ms.date: 03/02/2016
 ms.reviewer: na

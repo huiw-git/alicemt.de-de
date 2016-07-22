@@ -1,5 +1,5 @@
 ---
-title: Konfigurieren der Ereignissammlung
+title: "Konfigurieren der Ereignissammlung"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015

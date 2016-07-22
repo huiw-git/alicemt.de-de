@@ -1,5 +1,5 @@
 ---
-title: Vollbild-Bild: verf&#252;gbaren Einstellungen f&#252;r den RMS-Vorlagen
+title: "Vollbild-Bild: verf&#252;gbaren Einstellungen f&#252;r den RMS-Vorlagen"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

@@ -1,5 +1,5 @@
 ---
-title: Planen und Implementieren Ihres Azure Rights Management-Mandantenschl&#252;ssels
+title: "Planen und Implementieren Ihres Azure Rights Management-Mandantenschl&#252;ssels"
 ms.custom: na
 ms.date: 12/25/2015
 ms.reviewer: na

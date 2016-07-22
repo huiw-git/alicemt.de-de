@@ -1,5 +1,5 @@
 ---
-title: Anzeigen und Verwenden von Dateien, die durch Rights Management gesch&#252;tzt sind
+title: "Anzeigen und Verwenden von Dateien, die durch Rights Management gesch&#252;tzt sind"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

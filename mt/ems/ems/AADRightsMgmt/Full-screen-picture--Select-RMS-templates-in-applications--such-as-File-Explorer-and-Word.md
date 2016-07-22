@@ -1,5 +1,5 @@
 ---
-title: Vollbild-Bild: W&#228;hlen Sie die RMS-Vorlagen in Clientanwendungen, z. B. Datei-Explorer und Word
+title: "Vollbild-Bild: W&#228;hlen Sie die RMS-Vorlagen in Clientanwendungen, z. B. Datei-Explorer und Word"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

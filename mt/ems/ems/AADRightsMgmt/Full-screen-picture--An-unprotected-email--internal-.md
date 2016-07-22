@@ -1,5 +1,5 @@
 ---
-title: Vollbild-Bild: eine nicht gesch&#252;tzte e-Mail (intern)
+title: "Vollbild-Bild: eine nicht gesch&#252;tzte e-Mail (intern)"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

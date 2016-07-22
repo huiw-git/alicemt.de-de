@@ -1,5 +1,5 @@
 ---
-title: Konfigurieren benutzerdefinierter Vorlagen f&#252;r Azure Rights Management
+title: "Konfigurieren benutzerdefinierter Vorlagen f&#252;r Azure Rights Management"
 ms.custom: na
 ms.date: 07/21/2016
 ms.reviewer: na

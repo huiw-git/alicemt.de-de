@@ -1,5 +1,5 @@
 ---
-title: Vollbild-Bild: eine SharePoint-gesch&#252;tzten Dokuments
+title: "Vollbild-Bild: eine SharePoint-gesch&#252;tzten Dokuments"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na

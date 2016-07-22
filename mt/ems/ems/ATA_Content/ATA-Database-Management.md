@@ -1,5 +1,5 @@
 ---
-title: ATA-Verwaltung
+title: "ATA-Verwaltung"
 ms.custom: na
 ms.date: 12/22/2015
 ms.prod: identity-ata
