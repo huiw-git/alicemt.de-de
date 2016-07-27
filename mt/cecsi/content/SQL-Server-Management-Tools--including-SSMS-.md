@@ -1,6 +1,6 @@
 ---
 title: "SQL Server-Verwaltungstools (einschlie&#223;lich SSMS)"
-ms.date: 07/20/2016
+ms.date: 07/25/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na

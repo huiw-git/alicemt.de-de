@@ -1,7 +1,7 @@
 ---
 title: "Herunterladen von SQL Server Management Studio (SSMS)"
 ms.custom: na
-ms.date: 07/22/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na

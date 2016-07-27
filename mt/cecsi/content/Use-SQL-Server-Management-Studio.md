@@ -2,7 +2,7 @@
 title: "Verwenden Sie SQL Server Management Studio"
 ms.custom: 
   - SQL2016_New_Updated
-ms.date: 07/15/2016
+ms.date: 07/26/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na

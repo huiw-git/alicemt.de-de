@@ -1,7 +1,7 @@
 ---
 title: "Erstellen eines Zielservers"
 ms.custom: na
-ms.date: 07/20/2016
+ms.date: 07/26/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
