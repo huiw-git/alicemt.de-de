@@ -1,5 +1,28 @@
 {
-  "LastProcessedCommit": "8237ae69afdd67ce661fa79cee2cbe5e01d02c6c",
-  "LastTranslatedCommit": "5f2717b1a1aae3011ea0e725cdad4705fd4b08db",
-  "Items": {}
+  "LastProcessedCommit": "381a30e7bde5abf928a7e546d06926c4e3a8a312",
+  "LastTranslatedCommit": "9b9cdf843d9b7bf72076bd9e71e77c56b0b54614",
+  "Items": {
+    "569e9273595e8889e2e1fc9d7979d5706c6b4e17": {
+      "FileHash": "569e9273595e8889e2e1fc9d7979d5706c6b4e17",
+      "SourceFileCommit": "381a30e7bde5abf928a7e546d06926c4e3a8a312",
+      "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Using-Azure-Rights-Management.md",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "mt\\ems\\ems\\AADRightsMgmt\\Using-Azure-Rights-Management.md"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffPriority": "",
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": "9b9cdf843d9b7bf72076bd9e71e77c56b0b54614",
+      "TargetFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Using-Azure-Rights-Management.md",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    }
+  }
 }
