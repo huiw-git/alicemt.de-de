@@ -1,7 +1,7 @@
 ---
 title: "Microsoft ODBC Driver for SQL Server on Windows"
 ms.custom: na
-ms.date: 06/16/2016
+ms.date: 07/31/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na

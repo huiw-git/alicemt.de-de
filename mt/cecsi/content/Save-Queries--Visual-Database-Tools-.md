@@ -1,7 +1,7 @@
 ---
 title: "Speichern von Abfragen (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -40,10 +40,10 @@ Speichern Sie die Abfrage, wenn Sie später damit arbeiten möchten. Beachten Si
 3.  Die Abfrage wird im Projektmappen-Explorer im Ordner Abfrage des Projekts gespeichert.  
   
 ## Siehe auch  
-[Erstellen Sie Abfragen & #40; Visual Database Tools & #41;](../content/Create-Queries--Visual-Database-Tools-.md)  
-[Ausführen von Abfragen & #40; Visual Database Tools & #41;](../content/Run-Queries--Visual-Database-Tools-.md)  
-[Verwerfen von Änderungen an Abfragen & #40; Visual Database Tools & #41;](../content/Discard-Changes-Made-to-Queries--Visual-Database-Tools-.md)  
-[Entwerfen von Abfragen und Sichten Gewusst-wie-Themen & #40; Visual Database Tools & #41;](../content/Design-Queries-and-Views-How-to-Topics--Visual-Database-Tools-.md)  
-[Typen von Abfragen & #40. Visual Database Tools & #41;](../content/Types-of-Queries--Visual-Database-Tools-.md)  
-[Durchführen Sie grundlegende Operationen mit Abfragen & #40; Visual Database Tools & #41;](../content/Perform-Basic-Operations-with-Queries--Visual-Database-Tools-.md)  
+[Erstellen Sie Abfragen &#40; Visual Database Tools &#41;](../content/Create-Queries--Visual-Database-Tools-.md)  
+[Ausführen von Abfragen &#40; Visual Database Tools &#41;](../content/Run-Queries--Visual-Database-Tools-.md)  
+[Verwerfen von Änderungen an Abfragen &#40; Visual Database Tools &#41;](../content/Discard-Changes-Made-to-Queries--Visual-Database-Tools-.md)  
+[Entwerfen von Abfragen und Sichten Gewusst-wie-Themen &#40; Visual Database Tools &#41;](../content/Design-Queries-and-Views-How-to-Topics--Visual-Database-Tools-.md)  
+[Typen von Abfragen &#40. Visual Database Tools &#41;](../content/Types-of-Queries--Visual-Database-Tools-.md)  
+[Durchführen Sie grundlegende Operationen mit Abfragen &#40; Visual Database Tools &#41;](../content/Perform-Basic-Operations-with-Queries--Visual-Database-Tools-.md)  
   

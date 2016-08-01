@@ -1,7 +1,7 @@
 ---
 title: "Tabelle aktualisieren (Dialogfeld) (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -36,5 +36,5 @@ Wählen Sie die Tabelle zu aktualisieren, und wählen Sie dann **OK**.\\
 > Wenn die Tabelle für die Replikation veröffentlicht wird, stellen Sie schemaänderungen mit dem Transact\-SQL-Anweisung [ALTER TABLE](assetId:///f1745145-182d-4301-a334-18f799d361d1) oder SQL Server Management Objects (SMO). Wenn die Schemaänderungen mit dem Tabellen-Designer oder dem Datenbankdiagramm-Designer ausgeführt werden, wird versucht, die Tabelle zu entfernen und erneut zu erstellen. Da veröffentlichte Objekte nicht gelöscht werden können, schlägt die Schemaänderung fehl.  
   
 ## Siehe auch  
-[Erstellen von Aktualisierungsabfragen & #40. Visual Database Tools & #41;](../content/Create-Update-Queries--Visual-Database-Tools-.md)  
+[Erstellen von Aktualisierungsabfragen &#40. Visual Database Tools &#41;](../content/Create-Update-Queries--Visual-Database-Tools-.md)  
   

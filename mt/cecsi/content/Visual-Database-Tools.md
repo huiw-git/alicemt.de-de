@@ -1,7 +1,7 @@
 ---
 title: "Visual Database Tools"
 ms.custom: na
-ms.date: 07/25/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -33,7 +33,7 @@ Verwenden Sie für die ersten Schritte mit Visual Database Tools die folgenden A
   
 |**Beschreibung**|**Thema**|  
 |-------------------|-------------|  
-|Beschreibt das Datenbankdiagrammtool.|[Entwerfen von Datenbankdiagrammen & #40; Visual Database Tools & #41;](../content/Design-Database-Diagrams--Visual-Database-Tools-.md)|  
-|Beschreibt das visuelle Tabellenentwurfstool.|[Entwerfen von Tabellen & #40; Visual Database Tools & #41;](../content/Design-Tables--Visual-Database-Tools-.md)|  
-|Beschreibt den visuellen Abfrage-Designer.|[Entwerfen von Abfragen und Sichten Gewusst-wie-Themen & #40; Visual Database Tools & #41;](../content/Design-Queries-and-Views-How-to-Topics--Visual-Database-Tools-.md)|  
+|Beschreibt das Datenbankdiagrammtool.|[Entwerfen von Datenbankdiagrammen &#40; Visual Database Tools &#41;](../content/Design-Database-Diagrams--Visual-Database-Tools-.md)|  
+|Beschreibt das visuelle Tabellenentwurfstool.|[Entwerfen von Tabellen &#40; Visual Database Tools &#41;](../content/Design-Tables--Visual-Database-Tools-.md)|  
+|Beschreibt den visuellen Abfrage-Designer.|[Entwerfen von Abfragen und Sichten Gewusst-wie-Themen &#40; Visual Database Tools &#41;](../content/Design-Queries-and-Views-How-to-Topics--Visual-Database-Tools-.md)|  
   

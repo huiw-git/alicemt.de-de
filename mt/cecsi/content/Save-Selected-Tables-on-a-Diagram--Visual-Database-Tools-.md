@@ -1,7 +1,7 @@
 ---
 title: "Speichern ausgew&#228;hlter Tabellen in einem Diagramm (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -44,5 +44,5 @@ Wenn Sie nicht alle Änderungen speichern möchten, die an einem Datenbankdiagra
     > Die Tabellenliste kann mehr Tabellen enthalten, als Sie ausgewählt haben. Wenn Sie beispielsweise den Datentyp einer Spalte ändern, die eine Beziehung zu einer anderen Tabelle aufweist, werden beide Tabellen in die Liste aufgenommen.  
   
 ## Siehe auch  
-[Arbeiten Sie mit Datenbankdiagrammen & #40. Visual Database Tools & #41;](../content/Work-with-Database-Diagrams--Visual-Database-Tools-.md)  
+[Arbeiten Sie mit Datenbankdiagrammen &#40. Visual Database Tools &#41;](../content/Work-with-Database-Diagrams--Visual-Database-Tools-.md)  
   

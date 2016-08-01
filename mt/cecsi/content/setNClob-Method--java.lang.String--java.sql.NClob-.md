@@ -1,7 +1,7 @@
 ---
 title: "setNClob-Methode (java.lang.String, java.sql.NClob)"
 ms.custom: na
-ms.date: 07/01/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na

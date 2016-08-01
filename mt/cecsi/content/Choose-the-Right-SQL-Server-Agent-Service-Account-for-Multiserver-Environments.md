@@ -1,7 +1,7 @@
 ---
 title: "Ausw&#228;hlen des richtigen SQL Server-Agent-Dienstkontos f&#252;r Multiserverumgebungen"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na

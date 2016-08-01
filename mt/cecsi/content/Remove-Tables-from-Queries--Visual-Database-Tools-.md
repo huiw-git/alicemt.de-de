@@ -1,7 +1,7 @@
 ---
 title: "Entfernen von Tabellen aus Abfragen (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -42,9 +42,9 @@ Sie können eine Tabelle entfernen – oder eine Tabelle\-bewertet Objekt – au
 Wenn Sie einer Tabelle oder Tabellen entfernen\-bewertet Objekt der Abfrage- und Ansicht-Designer entfernt automatisch Verknüpfungen, die diese Tabelle oder die Tabelle umfassen\-Werten Objekt auf und entfernt Verweise auf die Spalten des Objekts in der **SQL-Bereich** und **im Kriterienbereich**. Wenn die Abfrage jedoch komplexe, auf das Objekt bezogene Ausdrücke enthält, wird das Objekt erst nach dem Entfernen aller zugehörigen Verweise entfernt.  
   
 ## Siehe auch  
-[Hinzufügen von Tabellen zu Abfragen & #40; Visual Database Tools & #41;](../content/Add-Tables-to-Queries--Visual-Database-Tools-.md)  
-[Erstellen von Tabellenaliasen & #40. Visual Database Tools & #41;](../content/Create-Table-Aliases--Visual-Database-Tools-.md)  
-[Geben Sie Suchkriterien & #40. Visual Database Tools & #41;](../content/Specify-Search-Criteria--Visual-Database-Tools-.md)  
-[Zusammenfassen von Abfrageergebnissen & #40; Visual Database Tools & #41;](../content/Summarize-Query-Results--Visual-Database-Tools-.md)  
-[Durchführen Sie grundlegende Operationen mit Abfragen & #40; Visual Database Tools & #41;](../content/Perform-Basic-Operations-with-Queries--Visual-Database-Tools-.md)  
+[Hinzufügen von Tabellen zu Abfragen &#40; Visual Database Tools &#41;](../content/Add-Tables-to-Queries--Visual-Database-Tools-.md)  
+[Erstellen von Tabellenaliasen &#40. Visual Database Tools &#41;](../content/Create-Table-Aliases--Visual-Database-Tools-.md)  
+[Geben Sie Suchkriterien &#40. Visual Database Tools &#41;](../content/Specify-Search-Criteria--Visual-Database-Tools-.md)  
+[Zusammenfassen von Abfrageergebnissen &#40; Visual Database Tools &#41;](../content/Summarize-Query-Results--Visual-Database-Tools-.md)  
+[Durchführen Sie grundlegende Operationen mit Abfragen &#40; Visual Database Tools &#41;](../content/Perform-Basic-Operations-with-Queries--Visual-Database-Tools-.md)  
   

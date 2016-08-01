@@ -1,7 +1,7 @@
 ---
 title: "Kombinieren von Bedingungen, wenn AND Vorrang hat (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -60,8 +60,8 @@ Angenommen, dass Sie entweder Mitarbeiter suchen, die mit dem Unternehmen mehr a
     ```  
   
 ## Siehe auch  
-[Kombinieren von Bedingungen, wenn OR hat Vorrang vor & #40; Visual Database Tools & #41;](../content/Combine-Conditions-When-OR-Has-Precedence--Visual-Database-Tools-.md)  
-[Konventionen für das Kombinieren von Suchbedingungen im Kriterienbereich & #40; Visual Database Tools & #41;](../content/Conventions-for-Combining-Search-Conditions-in-the-Criteria-Pane--Visual-Database-Tools-.md)  
-[Regeln für das Eingeben von Suchwerten & #40; Visual Database Tools & #41;](../content/Rules-for-Entering-Search-Values--Visual-Database-Tools-.md)  
-[Geben Sie Suchkriterien & #40. Visual Database Tools & #41;](../content/Specify-Search-Criteria--Visual-Database-Tools-.md)  
+[Kombinieren von Bedingungen, wenn OR hat Vorrang vor &#40; Visual Database Tools &#41;](../content/Combine-Conditions-When-OR-Has-Precedence--Visual-Database-Tools-.md)  
+[Konventionen für das Kombinieren von Suchbedingungen im Kriterienbereich &#40; Visual Database Tools &#41;](../content/Conventions-for-Combining-Search-Conditions-in-the-Criteria-Pane--Visual-Database-Tools-.md)  
+[Regeln für das Eingeben von Suchwerten &#40; Visual Database Tools &#41;](../content/Rules-for-Entering-Search-Values--Visual-Database-Tools-.md)  
+[Geben Sie Suchkriterien &#40. Visual Database Tools &#41;](../content/Specify-Search-Criteria--Visual-Database-Tools-.md)  
   

@@ -1,7 +1,7 @@
 ---
 title: "Verwerfen von &#196;nderungen an Abfragen (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -40,8 +40,8 @@ Sie können an einer Abfragedefinition vorgenommene Änderungen vor dem Speicher
     Die Abfragedefinition wird in den Zustand beim letzten Speichern zurückgeführt.  
   
 ## Siehe auch  
-[Speichern Sie Abfragen & #40; Visual Database Tools & #41;](../content/Save-Queries--Visual-Database-Tools-.md)  
-[Entwerfen von Abfragen und Sichten Gewusst-wie-Themen & #40; Visual Database Tools & #41;](../content/Design-Queries-and-Views-How-to-Topics--Visual-Database-Tools-.md)  
-[Durchführen Sie grundlegende Operationen mit Abfragen & #40; Visual Database Tools & #41;](../content/Perform-Basic-Operations-with-Queries--Visual-Database-Tools-.md)  
-[Arbeiten Sie mit Daten im Ergebnisbereich & #40. Visual Database Tools & #41;](../content/Work-with-Data-in-the-Results-Pane--Visual-Database-Tools-.md)  
+[Speichern Sie Abfragen &#40; Visual Database Tools &#41;](../content/Save-Queries--Visual-Database-Tools-.md)  
+[Entwerfen von Abfragen und Sichten Gewusst-wie-Themen &#40; Visual Database Tools &#41;](../content/Design-Queries-and-Views-How-to-Topics--Visual-Database-Tools-.md)  
+[Durchführen Sie grundlegende Operationen mit Abfragen &#40; Visual Database Tools &#41;](../content/Perform-Basic-Operations-with-Queries--Visual-Database-Tools-.md)  
+[Arbeiten Sie mit Daten im Ergebnisbereich &#40. Visual Database Tools &#41;](../content/Work-with-Data-in-the-Results-Pane--Visual-Database-Tools-.md)  
   

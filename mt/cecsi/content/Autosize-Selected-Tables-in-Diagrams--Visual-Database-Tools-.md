@@ -1,7 +1,7 @@
 ---
 title: "Automatisches Anpassen der Gr&#246;&#223;e ausgew&#228;hlter Tabellen in Diagrammen (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na

@@ -1,7 +1,7 @@
 ---
 title: "Erstellen von Tabellenerstellungsabfragen (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -67,24 +67,24 @@ Folgende Bedingungen müssen erfüllt sein, damit eine Tabellenerstellungsabfrag
   
     Geben Sie zum Erstellen einer Zieltabelle in einer anderen Datenbank einen vollständigen Tabellennamen an, der den Namen der Zieldatenbank, den Besitzer (falls erforderlich) und den Namen der Tabelle enthält.  
   
-4.  Legen Sie die zu kopierenden Spalten fest, indem Sie diese der Abfrage hinzufügen. Weitere Informationen finden Sie unter [Hinzufügen von Spalten zu Abfragen & #40; Visual Database Tools & #41;](../content/Add-Columns-to-Queries--Visual-Database-Tools-.md). Spalten werden nur kopiert, wenn sie der Abfrage hinzugefügt werden. Um vollständige Zeilen zu kopieren, wählen Sie **\&#42; (Alle Spalten)**.  
+4.  Legen Sie die zu kopierenden Spalten fest, indem Sie diese der Abfrage hinzufügen. Weitere Informationen finden Sie unter [Hinzufügen von Spalten zu Abfragen &#40; Visual Database Tools &#41;](../content/Add-Columns-to-Queries--Visual-Database-Tools-.md). Spalten werden nur kopiert, wenn sie der Abfrage hinzugefügt werden. Um vollständige Zeilen zu kopieren, wählen Sie **\&#42; (Alle Spalten)**.  
   
     Der Abfrage- und Ansicht-Designer fügt die ausgewählten Spalten an die **Spalte** Spalte im Kriterienbereich.  
   
 5.  Geben Sie eine Sortierreihenfolge an, falls Sie die Zeilen in einer bestimmten Reihenfolge kopieren möchten. Weitere Informationen finden Sie unter **Sortieren und Gruppieren von Abfrageergebnissen**.  
   
-6.  Geben Sie die zu kopierenden Zeilen durch Eingabe von Suchbedingungen an. Weitere Informationen finden Sie unter [Suchkriterien angeben & #40; Visual Database Tools & #41;](../content/Specify-Search-Criteria--Visual-Database-Tools-.md).  
+6.  Geben Sie die zu kopierenden Zeilen durch Eingabe von Suchbedingungen an. Weitere Informationen finden Sie unter [Suchkriterien angeben &#40; Visual Database Tools &#41;](../content/Specify-Search-Criteria--Visual-Database-Tools-.md).  
   
     Wenn Sie keine Suchbedingung festlegen, werden alle Zeilen der Quelltabelle in die Zieltabelle kopiert.  
   
     > [!NOTE]  
     > Wenn Sie dem Kriterienbereich eine zu durchsuchende Spalte hinzufügen, wird diese vom Abfrage- und Sicht-Designer ebenfalls in die Liste der zu kopierenden Spalten aufgenommen. Wenn Sie eine Spalte für eine Suche verwenden, aber nicht kopieren möchten, deaktivieren Sie das Kontrollkästchen neben dem Spaltennamen in dem Rechteck darstellt, der Tabelle oder\-strukturiertes Objekt.  
   
-7.  Geben Sie Gruppierungsoptionen an, wenn Sie Kurzinformationen kopieren möchten. Weitere Informationen finden Sie unter [Zusammenfassen von Abfrageergebnissen & #40; Visual Database Tools & #41;](../content/Summarize-Query-Results--Visual-Database-Tools-.md).  
+7.  Geben Sie Gruppierungsoptionen an, wenn Sie Kurzinformationen kopieren möchten. Weitere Informationen finden Sie unter [Zusammenfassen von Abfrageergebnissen &#40; Visual Database Tools &#41;](../content/Summarize-Query-Results--Visual-Database-Tools-.md).  
   
 Wenn Sie eine Make Table-Abfrage ausführen, werden keine Ergebnisse der [im Ergebnisbereich](../content/Results-Pane--Visual-Database-Tools-.md). Stattdessen wird eine Meldung mit der Anzahl der kopierten Zeilen ausgegeben.  
   
 ## Siehe auch  
-[Entwerfen von Abfragen und Sichten Gewusst-wie-Themen & #40; Visual Database Tools & #41;](../content/Design-Queries-and-Views-How-to-Topics--Visual-Database-Tools-.md)  
-[Typen von Abfragen & #40. Visual Database Tools & #41;](../content/Types-of-Queries--Visual-Database-Tools-.md)  
+[Entwerfen von Abfragen und Sichten Gewusst-wie-Themen &#40; Visual Database Tools &#41;](../content/Design-Queries-and-Views-How-to-Topics--Visual-Database-Tools-.md)  
+[Typen von Abfragen &#40. Visual Database Tools &#41;](../content/Types-of-Queries--Visual-Database-Tools-.md)  
   

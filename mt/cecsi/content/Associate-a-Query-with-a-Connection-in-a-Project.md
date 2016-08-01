@@ -1,7 +1,7 @@
 ---
 title: "Verkn&#252;pfen einer Abfrage mit einer Verbindung in einem Projekt"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na

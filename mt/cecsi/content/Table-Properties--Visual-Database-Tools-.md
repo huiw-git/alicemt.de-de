@@ -1,7 +1,7 @@
 ---
 title: "Tabelleneigenschaften (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -88,5 +88,5 @@ Zeigt die Spalte an, die von Microsoft SQL Server als ROWGUID-Spalte der Tabelle
 Stellt eine Dropdownliste\--Liste, aus denen Sie die Dateigruppe für Spalten mit Datentypen Text oder Image auswählen können. Wenn die Tabelle mit einem Partitionsschema gespeichert wird, lassen Sie dieses Feld leer.  
   
 ## Siehe auch  
-[Entwerfen von Tabellen & #40; Visual Database Tools & #41;](../content/Design-Tables--Visual-Database-Tools-.md)  
+[Entwerfen von Tabellen &#40; Visual Database Tools &#41;](../content/Design-Tables--Visual-Database-Tools-.md)  
   

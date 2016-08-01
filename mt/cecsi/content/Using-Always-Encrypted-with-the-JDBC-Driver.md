@@ -1,7 +1,7 @@
 ---
 title: "Verwenden von „Immer verschl&#252;sselt“ mit dem JDBC-Treiber"
 ms.custom: na
-ms.date: 07/01/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -10,7 +10,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 271c0438-8af1-45e5-b96a-4b1cabe32707
-caps.latest.revision: 43
+caps.latest.revision: 47
 caps.handback.revision: 14
 manager: jhubbard
 translation.priority.ht: 

@@ -1,7 +1,7 @@
 ---
 title: "Grundlagen des Besitzes von Datenbankdiagrammen (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -26,7 +26,7 @@ translation.priority.mt:
   - zh-tw
 ---
 # Grundlagen des Besitzes von Datenbankdiagrammen (Visual Database Tools)
-Datenbankdiagramm-Designer verwenden, es zuerst werden von einem Mitglied der Db eingerichtet muss\_-Rolle (eine Rolle von [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] Datenbanken) zum Steuern des Zugriffs auf Diagramme. Jedes Diagramm hat nur einen einzigen Besitzer, und zwar den Benutzer, der das Diagramm erstellt hat. Weitere Informationen zum Einrichten der diagrammerstellung finden Sie unter [Set Up Database Diagram Designer & #40; Visual Database Tools & #41;](../content/Set-Up-Database-Diagram-Designer--Visual-Database-Tools-.md).  
+Datenbankdiagramm-Designer verwenden, es zuerst werden von einem Mitglied der Db eingerichtet muss\_-Rolle (eine Rolle von [!INCLUDE[ssNoVersion](../content/includes/ssNoVersion_md.md)] Datenbanken) zum Steuern des Zugriffs auf Diagramme. Jedes Diagramm hat nur einen einzigen Besitzer, und zwar den Benutzer, der das Diagramm erstellt hat. Weitere Informationen zum Einrichten der diagrammerstellung finden Sie unter [Set Up Database Diagram Designer &#40; Visual Database Tools &#41;](../content/Set-Up-Database-Diagram-Designer--Visual-Database-Tools-.md).  
   
 Es folgen einige Punkte, die Sie beim Besitz von Diagrammen beachten sollten:  
   
@@ -37,6 +37,6 @@ Es folgen einige Punkte, die Sie beim Besitz von Diagrammen beachten sollten:
 -   Wenn der Besitzer eines Diagramms aus der Datenbank entfernt wurde, das Diagramm bleibt in der Datenbank bis ein Mitglied der Db\_Besitzerrolle versucht, ihn zu öffnen. An diesem Punkt die Db\_Besitzer Member können den Besitz des Diagramms zu übernehmen.  
   
 ## Siehe auch  
-[Arbeiten Sie mit Datenbankdiagrammen & #40. Visual Database Tools & #41;](../content/Work-with-Database-Diagrams--Visual-Database-Tools-.md)  
-[Richten Sie den Datenbankdiagramm-Designer & #40; Visual Database Tools & #41;](../content/Set-Up-Database-Diagram-Designer--Visual-Database-Tools-.md)  
+[Arbeiten Sie mit Datenbankdiagrammen &#40. Visual Database Tools &#41;](../content/Work-with-Database-Diagrams--Visual-Database-Tools-.md)  
+[Richten Sie den Datenbankdiagramm-Designer &#40; Visual Database Tools &#41;](../content/Set-Up-Database-Diagram-Designer--Visual-Database-Tools-.md)  
   

@@ -1,7 +1,7 @@
 ---
 title: "Verwenden von HAVING- und WHERE-Klauseln in derselben Abfrage (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -53,7 +53,7 @@ Für dieselbe Spalte kann sowohl eine WHERE-Klausel als auch eine HAVING-Klausel
   
 ### So legen Sie eine WHERE-Bedingung in einer Aggregatabfrage fest  
   
-1.  Geben Sie die Gruppen für die Abfrage an. Weitere Informationen finden Sie unter [Gruppieren von Zeilen in Abfrageergebnissen & #40; Visual Database Tools & #41;](../content/Group-Rows-in-Query-Results--Visual-Database-Tools-.md).  
+1.  Geben Sie die Gruppen für die Abfrage an. Weitere Informationen finden Sie unter [Gruppieren von Zeilen in Abfrageergebnissen &#40; Visual Database Tools &#41;](../content/Group-Rows-in-Query-Results--Visual-Database-Tools-.md).  
   
 2.  Fügen Sie dem Kriterienbereich die Spalte hinzu, auf der die WHERE-Bedingung basieren soll, sofern diese dort nicht bereits vorhanden ist.  
   
@@ -87,6 +87,6 @@ Für dieselbe Spalte kann sowohl eine WHERE-Klausel als auch eine HAVING-Klausel
     ```  
   
 ## Siehe auch  
-[Sortieren und Gruppieren von Abfrageergebnissen & #40; Visual Database Tools & #41;](../content/Sort-and-Group-Query-Results--Visual-Database-Tools-.md)  
-[Zusammenfassen von Abfrageergebnissen & #40; Visual Database Tools & #41;](../content/Summarize-Query-Results--Visual-Database-Tools-.md)  
+[Sortieren und Gruppieren von Abfrageergebnissen &#40; Visual Database Tools &#41;](../content/Sort-and-Group-Query-Results--Visual-Database-Tools-.md)  
+[Zusammenfassen von Abfrageergebnissen &#40; Visual Database Tools &#41;](../content/Summarize-Query-Results--Visual-Database-Tools-.md)  
   

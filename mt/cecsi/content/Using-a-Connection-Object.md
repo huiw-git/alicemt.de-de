@@ -1,7 +1,7 @@
 ---
 title: "Using a Connection Object"
 ms.custom: na
-ms.date: 05/16/2016
+ms.date: 07/31/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na

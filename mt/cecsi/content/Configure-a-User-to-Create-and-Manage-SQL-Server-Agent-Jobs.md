@@ -1,7 +1,7 @@
 ---
 title: "Configure a User to Create and Manage SQL Server Agent Jobs"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na

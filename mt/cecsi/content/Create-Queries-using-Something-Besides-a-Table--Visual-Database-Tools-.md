@@ -1,7 +1,7 @@
 ---
 title: "Erstellen von Abfragen mit anderen Quellen als einer Tabelle (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na

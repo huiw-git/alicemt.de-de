@@ -1,7 +1,7 @@
 ---
 title: "Versionshinweise f&#252;r SQL Server Management Studio"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -10,7 +10,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0b95337b-80bf-4624-8f5d-cdaf6181d3b8
-caps.latest.revision: 49
+caps.latest.revision: 50
 caps.handback.revision: 35
 manager: jeffreyg
 translation.priority.mt: 

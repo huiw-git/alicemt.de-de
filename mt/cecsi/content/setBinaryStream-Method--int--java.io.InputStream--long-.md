@@ -1,7 +1,7 @@
 ---
 title: "setBinaryStream-Methode (int, java.io.InputStream, long)"
 ms.custom: na
-ms.date: 07/01/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na

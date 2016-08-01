@@ -1,7 +1,7 @@
 ---
 title: "Hinzuf&#252;gen von Tabellen zu Diagrammen (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -76,6 +76,6 @@ Sie können dem Datenbankdiagramm eine Tabelle hinzufügen, um die Diagrammstruk
 > Daraufhin werden dem Diagramm sowohl die Tabellen hinzugefügt, auf die die ausgewählten Tabellen mit einer Fremdschlüsseleinschränkung verweisen, als auch die Tabellen, die mit einer Fremdschlüsseleinschränkung auf die ausgewählten Tabellen verweisen.  
   
 ## Siehe auch  
-[Arbeiten Sie mit Datenbankdiagrammen & #40. Visual Database Tools & #41;](../content/Work-with-Database-Diagrams--Visual-Database-Tools-.md)  
-[Arbeiten Sie mit Tabellen im Datenbankdiagramm & #40. Visual Database Tools & #41;](../content/Work-with-Tables-in-Database-Diagram--Visual-Database-Tools-.md)  
+[Arbeiten Sie mit Datenbankdiagrammen &#40. Visual Database Tools &#41;](../content/Work-with-Database-Diagrams--Visual-Database-Tools-.md)  
+[Arbeiten Sie mit Tabellen im Datenbankdiagramm &#40. Visual Database Tools &#41;](../content/Work-with-Tables-in-Database-Diagram--Visual-Database-Tools-.md)  
   

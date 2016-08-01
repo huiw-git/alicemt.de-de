@@ -1,7 +1,7 @@
 ---
 title: "Erstellen von UNION-Abfragen (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -52,8 +52,8 @@ Mit dem Schlüsselwort UNION können Sie die Ergebnisse von zwei SELECT-Anweisun
     Die UNION-Abfrage wird jetzt vom Abfrage-Designer formatiert.  
   
 ## Siehe auch  
-[Unterstützte Abfragetypen & #40; Visual Database Tools & #41;](../content/Supported-Query-Types--Visual-Database-Tools-.md)  
-[Entwerfen von Abfragen und Sichten Gewusst-wie-Themen & #40; Visual Database Tools & #41;](../content/Design-Queries-and-Views-How-to-Topics--Visual-Database-Tools-.md)  
-[Durchführen Sie grundlegende Operationen mit Abfragen & #40; Visual Database Tools & #41;](../content/Perform-Basic-Operations-with-Queries--Visual-Database-Tools-.md)  
+[Unterstützte Abfragetypen &#40; Visual Database Tools &#41;](../content/Supported-Query-Types--Visual-Database-Tools-.md)  
+[Entwerfen von Abfragen und Sichten Gewusst-wie-Themen &#40; Visual Database Tools &#41;](../content/Design-Queries-and-Views-How-to-Topics--Visual-Database-Tools-.md)  
+[Durchführen Sie grundlegende Operationen mit Abfragen &#40; Visual Database Tools &#41;](../content/Perform-Basic-Operations-with-Queries--Visual-Database-Tools-.md)  
 [UNION (Transact-SQL)](assetId:///607c296f-8a6a-49bc-975a-b8d0c0914df7)  
   

@@ -1,7 +1,7 @@
 ---
 title: "Hilfe (F1) f&#252;r Serververbindungen (SQL Server Management Studio)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na

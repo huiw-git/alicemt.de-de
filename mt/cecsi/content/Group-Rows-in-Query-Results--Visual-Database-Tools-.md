@@ -1,7 +1,7 @@
 ---
 title: "Gruppieren von Zeilen in Abfrageergebnissen (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -74,7 +74,7 @@ Die entsprechende Ausgabe könnte folgendermaßen aussehen:
   
 5.  In der **Group By** Rasterzelle für die Spalte, die aggregiert werden soll, wählen Sie die entsprechende Aggregatfunktion.  
   
-    Der Abfrage- und Sicht-Designer weist der Spalte, die zusammengefasst wird, automatisch einen Spaltenalias zu. Sie können diesen automatisch generierten durch einen aussagekräftigeren Alias ersetzen. Weitere Informationen finden Sie unter [Erstellen von Spaltenaliasen & #40; Visual Database Tools & #41;](../content/Create-Column-Aliases--Visual-Database-Tools-.md).  
+    Der Abfrage- und Sicht-Designer weist der Spalte, die zusammengefasst wird, automatisch einen Spaltenalias zu. Sie können diesen automatisch generierten durch einen aussagekräftigeren Alias ersetzen. Weitere Informationen finden Sie unter [Erstellen von Spaltenaliasen &#40; Visual Database Tools &#41;](../content/Create-Column-Aliases--Visual-Database-Tools-.md).  
   
     ![Hinzufügen eines Spaltenalias zum Resultset der Abfrage](../content/media/dv3w9e3.png "dv3w9e3")  
   
@@ -87,5 +87,5 @@ Die entsprechende Ausgabe könnte folgendermaßen aussehen:
     ```  
   
 ## Siehe auch  
-[Sortieren und Gruppieren von Abfrageergebnissen & #40; Visual Database Tools & #41;](../content/Sort-and-Group-Query-Results--Visual-Database-Tools-.md)  
+[Sortieren und Gruppieren von Abfrageergebnissen &#40; Visual Database Tools &#41;](../content/Sort-and-Group-Query-Results--Visual-Database-Tools-.md)  
   

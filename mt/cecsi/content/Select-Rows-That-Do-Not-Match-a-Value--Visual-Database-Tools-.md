@@ -1,7 +1,7 @@
 ---
 title: "Ausw&#228;hlen von Zeilen, die mit einem Wert nicht &#252;bereinstimmen (Visual Database Tools)"
 ms.custom: na
-ms.date: 07/15/2016
+ms.date: 07/27/2016
 ms.prod: sql-non-specified
 ms.reviewer: na
 ms.suite: na
@@ -41,6 +41,6 @@ NOT LIKE 'A%'
 ```  
   
 ## Siehe auch  
-[Regeln für das Eingeben von Suchwerten & #40; Visual Database Tools & #41;](../content/Rules-for-Entering-Search-Values--Visual-Database-Tools-.md)  
-[Geben Sie Suchkriterien & #40. Visual Database Tools & #41;](../content/Specify-Search-Criteria--Visual-Database-Tools-.md)  
+[Regeln für das Eingeben von Suchwerten &#40; Visual Database Tools &#41;](../content/Rules-for-Entering-Search-Values--Visual-Database-Tools-.md)  
+[Geben Sie Suchkriterien &#40. Visual Database Tools &#41;](../content/Specify-Search-Criteria--Visual-Database-Tools-.md)  
   
