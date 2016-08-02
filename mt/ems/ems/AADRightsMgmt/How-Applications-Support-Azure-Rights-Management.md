@@ -147,7 +147,7 @@ Die Klassifizierungsrichtlinien sind vollständig konfigurierbar und in hohem Ma
 
 Anweisungen zum Bereitstellen und Konfigurieren des RMS-Connectors für Office-Dateien finden Sie unter [Bereitstellen von Azure Rights Management-Connector](../../ems/AADRightsMgmt/Deploying-the-Azure-Rights-Management-Connector.md).
 
-Anweisungen zum Verwenden des Windows PowerShell-Skripts für alle Dateitypen finden Sie unter [RMS-Schutz mit Windows Server-Dateiklassifizierungsinfrastruktur &#40;FCI&#41;](../../ems/RMS_Client/RMS-Protection-with-Windows-Server-File-Classification-Infrastructure--FCI-.md).
+Anweisungen zum Verwenden des Windows PowerShell-Skripts für alle Dateitypen finden Sie unter [RMS-Schutz mit Windows Server-Dateiklassifizierungsinfrastruktur &#40;FCI&#41;](/Topic/RMS%20Protection%20with%20Windows%20Server%20File%20Classification%20Infrastructure%20(FCI).md).
 
 ## <a name="BKMK_APIAppsIntro"></a>Sonstige Anwendungen, die die RMS-APIs unterstützen
 Durch die Verwendung des RMS SDKs können Ihre internen Entwickler Branchenanwendungen schreiben, die systemeigene Unterstützung für [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] enthalten. Wie Informationsschutz in diese Anwendungen integriert wird, hängt davon ab, wie sie geschrieben sind. Beispielsweise kann die Integration automatisch, mit nur einem Minimum an erforderlicher Benutzerinteraktion angewendet werden, oder Benutzer können zur Erzeugung einer stärker angepassten Erfahrung aufgefordert werden, Einstellungen für die Anwendung von Informationsschutz auf Dateien zu konfigurieren. Weitere Informationen zum SDK finden Sie unter [Microsoft Rights Management SDK](http://msdn.microsoft.com/library/hh552972%28v=vs.85%29.aspx).
