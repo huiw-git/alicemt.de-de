@@ -17,7 +17,8 @@ caps.latest.revision: 18
 caps.handback.revision: 4
 author: karthikaraman
 manager: jeffgilb
-translationtype: Machine Translation---
+translationtype: Machine Translation
+---
 # Arbeiten mit Warnungen ATA
 ATA kann Sie warnen, wenn eine verdächtige Aktivitäten, per e-Mail oder durch Senden der Warnung an Syslog-Server erkannt wird. Wenn Sie eine oder beide dieser Arten von Warnungen aktivieren, können Sie die folgenden dafür festlegen.
 

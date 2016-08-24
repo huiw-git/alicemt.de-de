@@ -16,7 +16,8 @@ caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # Vollbild-Bild: Bob die Anlage &#246;ffnet, auf seine iPad
 ![Großes Bild für Dokument auf iPad](../../ems/AADRightsMgmt/media/AzRMS_StoryboardEmaill3.PNG "AzRMS_StoryboardEmaill3")
 

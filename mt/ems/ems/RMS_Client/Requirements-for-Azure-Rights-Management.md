@@ -10,7 +10,8 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # Anforderungen f&#252;r Azure Rights Management
 Jetzt verschoben nach: http://tnstage.redmond.corp.microsoft.com/library/dn655136.aspx
 

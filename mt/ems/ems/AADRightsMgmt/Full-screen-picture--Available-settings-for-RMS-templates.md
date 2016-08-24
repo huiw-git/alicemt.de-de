@@ -15,7 +15,8 @@ caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # Vollbild-Bild: verf&#252;gbaren Einstellungen f&#252;r den RMS-Vorlagen
 ![Vollbild: Einstellungen für benutzerdefinierte Vorlagen](../../ems/AADRightsMgmt/media/AzRMS_TemplatesSettings.png "AzRMS_TemplatesSettings")
 

@@ -17,7 +17,8 @@ caps.latest.revision: 17
 caps.handback.revision: 5
 author: karthikaraman
 manager: jeffgilb
-translationtype: Machine Translation---
+translationtype: Machine Translation
+---
 # ATA-Architektur
 In diesem Diagramm wird die Architektur für erweiterte Threat-Analyse beschrieben:
 

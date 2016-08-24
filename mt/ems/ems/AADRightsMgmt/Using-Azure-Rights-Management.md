@@ -15,7 +15,8 @@ caps.latest.revision: 27
 caps.handback.revision: 27
 author: karthikaraman
 manager: jeffgilb
-translationtype: Machine Translation---
+translationtype: Machine Translation
+---
 # Mithilfe von Azure Rights Management
 > [!NOTE]
 > This information is for IT administrators and consultants who have deployed Microsoft Azure Rights Management (Azure RMS). If you are looking for user help and information about how to use Rights Management for a specific application, use the help and guidance that accompanies your application.

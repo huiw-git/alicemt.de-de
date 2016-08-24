@@ -19,7 +19,8 @@ caps.latest.revision: 26
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # Verfolgen Sie und aufzuheben Sie Ihre Dokumente, wenn Sie die RMS-Freigabe verwenden
 Nachdem Sie Ihre Dokumente mit der RMS-Freigabeanwendung geschützt haben, können Sie nachverfolgen, wie andere mit Ihren geschützten Dokumenten verfahren, und, falls erforderlich, den Zugriff hierauf widerrufen, wenn Sie die Freigabe beenden möchten. Verwenden Sie hierfür die Website zum Nachverfolgen von Dokumenten, auf die Sie von Windows-Computern, Mac-Computern und sogar mit Tablets und Smartphones zugreifen können.
 

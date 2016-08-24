@@ -15,7 +15,8 @@ caps.latest.revision: 18
 caps.handback.revision: 6
 author: karthikaraman
 manager: jeffgilb
-translationtype: Machine Translation---
+translationtype: Machine Translation
+---
 # Terminologie f&#252;r Azure Rights Management
 Nach einem Wort, Ausdruck oder Akronym, die auf Microsoft bezieht verwechselt [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS)? Suchen Sie die Definition für die Begriffe und Abkürzungen, die spezifisch für Azure RMS oder haben eine spezielle Bedeutung bei der Verwendung im Kontext des [!INCLUDE[aad_rightsmanagement_2](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_2_md.md)].
 

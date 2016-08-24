@@ -15,7 +15,8 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # Vollbild-Bild: Aktivieren von Rights Management
 ![Vollbild: Aktivieren von RMS im Verwaltungsportal](../../ems/AADRightsMgmt/media/AzRMS_StoryboardActivate.png "AzRMS_StoryboardActivate")
 

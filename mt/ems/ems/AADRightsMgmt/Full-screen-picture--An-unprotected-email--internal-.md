@@ -15,7 +15,8 @@ caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # Vollbild-Bild: eine nicht gesch&#252;tzte e-Mail (intern)
 ![Vollbild: Ungeschützte E-Mail (intern)](../../ems/AADRightsMgmt/media/AzRMS_DLPUnprotectedEmail.png "AzRMS_DLPUnprotectedEmail")
 

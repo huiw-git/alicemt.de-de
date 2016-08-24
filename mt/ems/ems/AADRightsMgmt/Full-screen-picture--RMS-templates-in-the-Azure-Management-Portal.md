@@ -14,7 +14,8 @@ caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # Vollbild-Bild: RMS-Vorlagen in der Azure-Verwaltungsportal
 ![Vollbild: Azure RMS-Vorlagen](../../ems/AADRightsMgmt/media/AzRMS_TemplatesPortal.png "AzRMS_TemplatesPortal")
 

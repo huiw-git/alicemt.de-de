@@ -19,7 +19,8 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # Aufheben des Schutzes von einer Datei mithilfe von Rights Management-freigabeanwendung
 Verwenden Sie zum Entfernen des Schutzes von einer Datei, die zuvor mit der RMS-Freigabeanwendung geschützt wurde, d. h. zum Aufheben des Schutzes die Option **Schutz entfernen** des Datei-Explorers.
 

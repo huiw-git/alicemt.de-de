@@ -16,7 +16,8 @@ caps.latest.revision: 9
 caps.handback.revision: 6
 author: karthikaraman
 manager: jeffgilb
-translationtype: Machine Translation---
+translationtype: Machine Translation
+---
 # Bereitstellen von Azure Rights Management-Connector
 Mithilfe dieser Informationen erfahren Sie mehr über den Connector Microsoft Rights Management (RMS) und wie Sie Informationsschutz mit vorhandenen lokalen Bereitstellungen bereitstellen, die mithilfe von Microsoft Exchange Server, Microsoft SharePoint Server oder Dateiserver, auf denen Windows Server ausgeführt werden, und verwenden Sie die Datei Klassifizierung Infrastruktur (FCI)-Funktion der Ressourcen-Manager verwenden.
 

@@ -14,7 +14,8 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # Vollbild-Bild: Installieren und konfigurieren den RMS-Verbindungsdienst f&#252;r FCI
 ![Konfigurieren des RMS-Verbindungsdiensts für FCI](../../ems/AADRightsMgmt/media/AzRMS_FCI_Connector.png "AzRMS_FCI_Connector")
 

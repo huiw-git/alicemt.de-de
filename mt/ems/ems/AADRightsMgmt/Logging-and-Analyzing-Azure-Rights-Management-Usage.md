@@ -14,7 +14,8 @@ caps.latest.revision: 16
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # Protokollieren und Analysieren von Azure Rights Management-Nutzung
 Die Informationen in diesem Thema sollen Ihnen bei einem besseren Verständnis helfen, wie Sie die Protokollierung mit Azure Rights Management (RMS) verwenden können. RMS kann jede Anforderung protokollieren, die für Ihre Organisation durchgeführt wird. Hierzu gehören Anforderungen von Benutzern, von RMS-Administratoren in Ihrer Organisation ausgeführte Aktionen und von Microsoft-Mitarbeitern ausgeführte Aktionen, um Ihre RMS-Bereitstellung zu unterstützen.
 

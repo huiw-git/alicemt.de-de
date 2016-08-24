@@ -10,7 +10,8 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # &#220;berarbeitete Version 2: Rights Management-freigabeanwendung – Benutzerhandbuch - Arbeitsversion, nur sandbox
 Die Microsoft Rights Management (RMS) Freigabe-Anwendung für Windows hilft Ihnen dabei, wichtige Dokumente und Bilder von Personen zu schützen, denen sie nicht angezeigt werden sollten, wenn Sie sie per E-Mail an sie gesendet haben oder sie auf einem anderen Gerät gespeichert haben. Sie können diese Anwendung auch zum Öffnen und Verwenden von Dateien verwenden, die andere Personen mithilfe der gleichen Rights Management-Technologie geschützt haben.
 

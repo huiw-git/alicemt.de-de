@@ -15,7 +15,8 @@ caps.latest.revision: 16
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # Erste Schritte mit Azure Rights Management
 Dieser Abschnitt enthält Informationen, die für IT-Administratoren und -Berater vorgesehen sind, damit diese mehr über Azure Rights Management (auch als Azure RMS bezeichnet) sowie über die Möglichkeiten erfahren, es zum Schutz von Informationen in Ihrer Organisation einzusetzen.
 

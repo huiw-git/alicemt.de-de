@@ -10,7 +10,8 @@ caps.latest.revision: 18
 caps.handback.revision: 6
 author: karthikaraman
 manager: jeffgilb
-translationtype: Machine Translation---
+translationtype: Machine Translation
+---
 # Microsoft Rights Management freigabeanwendung – Benutzerhandbuch – urspr&#252;ngliche Ver&#246;ffentlichung.
 Dieses Benutzerhandbuch für Microsoft Rights Management-freigabeanwendung für Windows enthält die folgenden Abschnitte:
 

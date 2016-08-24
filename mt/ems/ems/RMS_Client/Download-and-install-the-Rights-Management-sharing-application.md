@@ -20,7 +20,8 @@ caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # Herunterladen und Installieren der Rights Management-freigabeanwendung
 Sie müssen über ein lokales Administratorkonto verfügen, um die RMS-Freigabeanwendung zu installieren. Wenn Sie sich nicht als lokaler Administrator anmelden, können Sie beim Ausführen von „Setup.exe“ in Schritt 3 **Als Administrator ausführen** verwenden.
 

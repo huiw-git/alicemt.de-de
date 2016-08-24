@@ -1,3 +1,4 @@
 ---
-translationtype: Machine Translation---
+translationtype: Machine Translation
+---
 Rights Management

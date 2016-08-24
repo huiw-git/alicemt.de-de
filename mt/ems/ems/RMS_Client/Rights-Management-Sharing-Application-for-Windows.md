@@ -15,7 +15,8 @@ caps.latest.revision: 27
 caps.handback.revision: 13
 author: karthikaraman
 manager: jeffgilb
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # Rights Management-Freigabeanwendung f&#252;r Windows
 Die Rights Management-Freigabeanwendung für Windows (auch nur als "RMS-Freigabe-App" bezeichnet), ist eine kostenlose, herunterladbare Anwendung für Unternehmen, die [Active Directory Rights Management Services](https://technet.microsoft.com/library/cc772403.aspx) (AD RMS) oder [Azure Rights Management](https://technet.microsoft.com/library/jj585024.aspx) (Azure RMS) verwenden. Sie ist für Unternehmen konzipiert, die keine eigene Informationsschutz-Infrastruktur einsetzen, aber trotzdem Inhalte verwenden möchten, die von anderen Organisationen mit Azure RMS oder AD RMS geschützt sind.
 

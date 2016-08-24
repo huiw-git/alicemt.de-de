@@ -16,7 +16,8 @@ caps.latest.revision: 33
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # RMS-Schutz mit Windows Server-Dateiklassifizierungsinfrastruktur (FCI)
 Verwenden Sie diesen Anweisungsartikel und ein Skript, um den RMS\-Client (Rights Management) mit dem RMS\-Schutztool zum Konfigurieren des Ressourcen\-Managers für Dateiserver und der Dateiklassifizierungsinfrastruktur (FCI) zu verwenden.
 

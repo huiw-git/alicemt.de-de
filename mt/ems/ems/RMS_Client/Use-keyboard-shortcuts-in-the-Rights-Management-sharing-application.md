@@ -19,7 +19,8 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # Verwenden von Tastenkombinationen in der Rights Management-freigabeanwendung
 Wenn Sie die RMS-Freigabeanwendung verwenden, drücken Siedie ALT-TASTE, um die verfügbaren Tastenkombinationen anzuzeigen, und drücken Siedann ALT plus Zugriffstaste, um eine Option auszuwählen.
 

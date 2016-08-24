@@ -10,7 +10,8 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translationtype: Human Translation---
+translationtype: Human Translation
+---
 # Endbenutzer-Lizenzvertrag f&#252;r Microsoft RMS-Freigabe
 Der Inhalt dieses Themas wurde zu [https://technet.microsoft.com/dn567972](https://technet.microsoft.com/dn567972) verschoben.
 
