@@ -15,7 +15,7 @@ caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
----
+translationtype: Human Translation---
 # Vollbild-Bild: eine externe e-Mail von DLP und Azure RMS gesch&#252;tzt
 ![Geschützte E-Mail (extern)](../../ems/AADRightsMgmt/media/AzRMS_DLPProtectedEmail.png "AzRMS_DLPProtectedEmail")
 

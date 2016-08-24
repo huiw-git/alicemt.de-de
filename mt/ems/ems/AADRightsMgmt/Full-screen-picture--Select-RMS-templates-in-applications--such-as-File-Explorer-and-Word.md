@@ -14,7 +14,7 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Human Translation---
 # Vollbild-Bild: W&#228;hlen Sie die RMS-Vorlagen in Clientanwendungen, z. B. Datei-Explorer und Word
 ![Vollbild: Auszuwählende Azure RMS-Vorlagen](../../ems/AADRightsMgmt/media/AzRMS_TemplatesPortal_ExplorerWord.png "AzRMS_TemplatesPortal_ExplorerWord")
 

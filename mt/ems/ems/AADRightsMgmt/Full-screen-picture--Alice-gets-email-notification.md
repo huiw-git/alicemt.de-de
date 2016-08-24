@@ -15,7 +15,7 @@ caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
----
+translationtype: Human Translation---
 # Vollbild-Bild: Alice ruft die e-Mail-Benachrichtigung
 ![Großes Bild für E-Mail-Benachrichtigung](../../ems/AADRightsMgmt/media/AzRMS_StoryboardEmaill4.PNG "AzRMS_StoryboardEmaill4")
 

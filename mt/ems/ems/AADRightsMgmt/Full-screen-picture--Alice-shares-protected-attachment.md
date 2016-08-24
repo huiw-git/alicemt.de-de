@@ -15,7 +15,7 @@ caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
----
+translationtype: Human Translation---
 # Vollbild-Bild: Alice teilt gesch&#252;tzten Anlage
 ![Hinzufügen von Schutz für eine Anlage](../../ems/AADRightsMgmt/media/AzRMS_StoryboardEmaill1.PNG "AzRMS_StoryboardEmaill1")
 

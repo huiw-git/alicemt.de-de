@@ -15,7 +15,7 @@ caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
----
+translationtype: Human Translation---
 # Vollbild-Bild: vertrauliche Bericht versehentlich an die falsche Person gesendet.
 ![Zufällig per E-Mail gesendete, vertrauliche Daten](../../ems/AADRightsMgmt/media/AzRMS_FCI_Email.png "AzRMS_FCI_Email")
 

@@ -15,7 +15,7 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Human Translation---
 # &#220;berpr&#252;fen von Azure Rights Management
 Nachdem Sie [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS) aktiviert und alle zusätzlichen Konfigurationsschritte durchgeführt haben, die für Ihre Organisation erforderlich sind, können Sie überprüfen, ob der Dienst wie erwartet funktioniert, indem Sie eine Datei oder E-Mail unter Verwendung eines Benutzerkontos schützen und dann versuchen, diesen geschützten Inhalt von einem anderen Benutzerkonto aus zu öffnen und zu verwenden.
 

@@ -14,7 +14,7 @@ caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
----
+translationtype: Human Translation---
 # Vollbild-Bild: Konfigurieren der FCI f&#252;r die Marketing-Klassifizierung
 ![Konfigurieren des Dateiservers für FCI](../../ems/AADRightsMgmt/media/AzRMS_ExampleFCI_Configuration.png "AzRMS_ExampleFCI_Configuration")
 

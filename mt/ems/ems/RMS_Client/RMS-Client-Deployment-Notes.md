@@ -24,7 +24,7 @@ caps.handback.revision: 6
 author: karthikaraman
 manager: jeffgilb
 robots: noindex,nofollow
----
+translationtype: Machine Translation---
 # Notes-RMS-Client-Bereitstellung
 Die Rights Management\-Dienst\-Client (RMS\-Client) Version 2 ist auch bekannt als MSIPC\-Client. Er ist Software für Windows\-Computer, die Kommunikation mit Microsoft Rights Management Services\-lokal oder in der Cloud, den Zugriff auf und Verwendung von Informationen schützen, während es über Clientanwendungen und Geräten fließen, innerhalb der Grenzen des Unternehmens oder nicht den verwalteten Grenzen. Zusätzlich zu den im Lieferumfang der [Rights Management-freigabeanwendung für Windows](https://technet.microsoft.com/library/dn919648.aspx), steht der RMS\-Client [als ein optionaler Download](http://www.microsoft.com/download/details.aspx?id=38396) können mit Bestätigung und seine Zustimmung Lizenz frei verteilt werden mit Software von Drittanbietern, um Clients zu schützen und Nutzung von Inhalten, die von Rights Management Services geschützt wurde.
 

@@ -14,7 +14,7 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Human Translation---
 # Vollbild-Bild: Aktivieren von IRM f&#252;r eine Bibliothek
 ![Vollbild: Aktivieren von IRM für die SharePoint-Bibliothek](../../ems/AADRightsMgmt/media/AzRMS_StoryboardSPO_2.PNG "AzRMS_StoryboardSPO_2")
 

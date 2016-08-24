@@ -15,7 +15,7 @@ caps.latest.revision: 16
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Human Translation---
 # H&#228;ufig gestellte Fragen zur Azure Rights Management
 Einige häufig gestellte Fragen zu Microsoft [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)], das auch als Azure RMS bezeichnet wird:
 

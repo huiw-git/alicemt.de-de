@@ -15,7 +15,7 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Human Translation---
 # Konfigurieren von Azure Rights Management
 > [!NOTE]
 > Diese Informationen sind für IT-Administratoren und Berater vorgesehen, die Azure Rights Management für eine Organisation bereitstellen. Wenn Sie Hilfe und Informationen zur Verwendung von Rights Management in Verbindung mit einer bestimmten Anwendung suchen, verwenden Sie die Hilfe und Anleitungen, die zu der Anwendung gehören.

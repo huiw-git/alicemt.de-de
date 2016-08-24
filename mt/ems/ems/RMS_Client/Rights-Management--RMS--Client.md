@@ -24,7 +24,7 @@ caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: noindex,nofollow
----
+translationtype: Human Translation---
 # Rights Management (RMS)-Client
 In der folgenden Dokumentation finden Sie Informationen zum RMS-Client (Rights Management), der in Verbindung mit den Rights Management Services (AD RMS) lokal und in der Cloud (Azure RMS) verwendet werden kann, um zum Schutz der Daten Ihrer Organisation beizutragen:
 

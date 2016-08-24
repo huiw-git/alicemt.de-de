@@ -14,7 +14,7 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Human Translation---
 # Vollbild-Bild: Konfigurieren von DLP f&#252;r Azure RMS
 ![Vollbild: Konfigurieren von DLP für Azure RMS](../../ems/AADRightsMgmt/media/AzRMS_DLPExample.png "AzRMS_DLPExample")
 

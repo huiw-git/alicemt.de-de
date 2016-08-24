@@ -19,7 +19,7 @@ caps.latest.revision: 9
 caps.handback.revision: 6
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Machine Translation---
 # Rights Management-freigabeanwendung: Version Versionsverlauf
 Das Rights Management-Team aktualisiert regelmäßig die Rights Management-freigabeanwendung für Updates und neue Funktionen. Verwenden Sie die folgende Informationen um zu sehen, welche neuen oder geänderten in einer Version. Die aktuellste Version wird zuerst aufgeführt.
 

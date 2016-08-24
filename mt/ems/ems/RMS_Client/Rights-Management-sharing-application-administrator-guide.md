@@ -19,7 +19,7 @@ caps.latest.revision: 18
 caps.handback.revision: 5
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Machine Translation---
 # Rights Management freigabeanwendung – Administratorhandbuch
 Anhand der folgenden Informationen, wenn Sie für die gemeinsame Nutzung der Anwendung in einem Unternehmensnetzwerk Microsoft Rights Management verantwortlich sind oder ggf. Weitere technische Informationen als in den [Rights Management freigabeanwendung – Benutzerhandbuch](../../ems/RMS_Client/Rights-Management-sharing-application-user-guide.md) oder [häufig gestellte Fragen zur Microsoft Rights Management Freigabe-Anwendung für Windows](http://go.microsoft.com/fwlink/?LinkId=303971):
 

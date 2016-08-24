@@ -14,7 +14,7 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Human Translation---
 # Vollbild-Bild: eine SharePoint-gesch&#252;tzten Dokuments
 ![Vollbild: Durch SharePoint geschütztes Dokument](../../ems/AADRightsMgmt/media/AzRMS_StoryboardSPO_3.png "AzRMS_StoryboardSPO_3")
 

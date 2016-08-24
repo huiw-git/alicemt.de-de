@@ -17,7 +17,7 @@ caps.latest.revision: 17
 caps.handback.revision: 5
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Machine Translation---
 # ATA-Installation
 Es folgen die erforderlichen Schritte zum Abrufen der ATA bereitgestellt, konfiguriert und ausgeführt.
 

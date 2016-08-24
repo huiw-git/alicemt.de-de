@@ -15,7 +15,7 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Human Translation---
 # Verwalten von Azure Rights Management mithilfe von WindowsPowerShell
 Obwohl Sie Microsoft [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS) mithilfe des [!INCLUDE[o365_2](../../ems/AADRightsMgmt/includes/o365_2_md.md)] Admin Centers oder des Azure-Verwaltungsportals aktivieren können, können Sie hierzu auch das PowerShell-Modul für [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (AADRM) verwenden.
 

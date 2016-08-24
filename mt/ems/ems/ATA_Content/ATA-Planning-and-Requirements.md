@@ -17,7 +17,7 @@ caps.latest.revision: 16
 caps.handback.revision: 5
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Machine Translation---
 # ATA-Planung und Anforderungen
 Dieser Abschnitt beschreibt die Anforderungen der ATA-Center und ATA-Gateway in Ihrer Umgebung erfolgreich bereitgestellt und enthält die folgenden Abschnitte:
 

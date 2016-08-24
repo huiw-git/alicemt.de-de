@@ -19,7 +19,7 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Human Translation---
 # Sch&#252;tzen Sie eine Datei, die Sie mithilfe von Rights Management-freigabeanwendung per e-Mail freigeben
 Wenn Sie eine Datei schützen, die Sie per E-Mail freigeben, wird eine neue Version der ursprünglichen Datei erstellt. Die ursprüngliche Datei bleibt ungeschützt, während die neue Version geschützt und automatisch an die von Ihnen zu sendende E-Mail angefügt wird.
 

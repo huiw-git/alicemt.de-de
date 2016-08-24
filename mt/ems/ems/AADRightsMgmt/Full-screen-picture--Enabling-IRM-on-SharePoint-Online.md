@@ -15,7 +15,7 @@ caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
----
+translationtype: Human Translation---
 # Vollbild-Bild: Aktivieren von IRM f&#252;r SharePoint Online
 ![Vollbild: Aktivieren von IRM in SharePoint Online](../../ems/AADRightsMgmt/media/AzRMS_StoryboardSPO_1.png "AzRMS_StoryboardSPO_1")
 

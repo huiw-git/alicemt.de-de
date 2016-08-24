@@ -12,7 +12,7 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Human Translation---
 # Datenschutzrichtlinie f&#252;r Microsoft Rights Management in RMS-f&#228;hige Anwendung
 Gilt für: Die in Anwendungen integrierte Funktion „Microsoft Rights Management“.
 

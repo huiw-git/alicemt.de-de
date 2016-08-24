@@ -10,7 +10,7 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Human Translation---
 # Willkommen beim Microsoft RMS! Test
 Vermutlich lesen Sie dies, weil Ihnen jemand ein geschütztes Dokument gesendet hat und Sie auf den Anmeldelink in der E-Mail-Nachricht geklickt haben, oder weil Ihre bevorzugt Suchmaschine Sie hergeführt hat.
 

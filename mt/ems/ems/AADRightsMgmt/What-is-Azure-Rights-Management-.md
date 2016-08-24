@@ -15,7 +15,7 @@ caps.latest.revision: 8
 caps.handback.revision: 5
 author: karthikaraman
 manager: jeffgilb
----
+translationtype: Machine Translation---
 # Was ist Azure Rights Management?
 <?xml version="1.0" encoding="utf-8"?>
 <caps:SxS xmlns:caps="http://schemas.microsoft.com/build/caps/2013/11">

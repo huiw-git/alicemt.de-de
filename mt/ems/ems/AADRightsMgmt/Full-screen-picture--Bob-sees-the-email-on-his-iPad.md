@@ -15,7 +15,7 @@ caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
----
+translationtype: Human Translation---
 # Vollbild-Bild: Bob sieht die e-Mail-Adresse auf seine iPad
 ![Großes Bild für E-Mail auf iPad](../../ems/AADRightsMgmt/media/AzRMS_StoryboardEmaill2.PNG "AzRMS_StoryboardEmaill2")
 
