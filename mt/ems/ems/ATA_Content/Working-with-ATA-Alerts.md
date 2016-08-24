@@ -10,14 +10,13 @@ ms.technology:
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Advanced Threat Analytics
 ms.assetid: 14cb7513-5dc8-49cb-b3e0-94f469c443dd
 caps.latest.revision: 18
 caps.handback.revision: 4
 author: karthikaraman
 manager: jeffgilb
-translation.priority.mt: 
-  - de-de
-  - ja-jp
 ---
 # Arbeiten mit Warnungen ATA
 ATA kann Sie warnen, wenn eine verdächtige Aktivitäten, per e-Mail oder durch Senden der Warnung an Syslog-Server erkannt wird. Wenn Sie eine oder beide dieser Arten von Warnungen aktivieren, können Sie die folgenden dafür festlegen.

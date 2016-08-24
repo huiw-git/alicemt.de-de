@@ -7,32 +7,18 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Active Directory Rights Management Services
+  - Azure Rights Management
+  - Windows 10
+  - Windows 7 with SP1
+  - Windows 8
+  - Windows 8.1
 ms.assetid: 72760134-94e0-4699-b20c-07b96aa061f1
 caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - tr-tr
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - cs-cz
-  - da-dk
-  - hu-hu
-  - nb-no
-  - nl-nl
-  - pl-pl
-  - pt-pt
-  - sv-se
 ---
 # Verwenden von Tastenkombinationen in der Rights Management-freigabeanwendung
 Wenn Sie die RMS-Freigabeanwendung verwenden, drücken Siedie ALT-TASTE, um die verfügbaren Tastenkombinationen anzuzeigen, und drücken Siedann ALT plus Zugriffstaste, um eine Option auszuwählen.

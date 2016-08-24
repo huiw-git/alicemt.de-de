@@ -7,23 +7,14 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: 742877bf-26f5-40e3-b1f7-8475e7c3ce11
 caps.latest.revision: 18
 caps.handback.revision: 6
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
 ---
 # Terminologie f&#252;r Azure Rights Management
 Nach einem Wort, Ausdruck oder Akronym, die auf Microsoft bezieht verwechselt [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS)? Suchen Sie die Definition für die Begriffe und Abkürzungen, die spezifisch für Azure RMS oder haben eine spezielle Bedeutung bei der Verwendung im Kontext des [!INCLUDE[aad_rightsmanagement_2](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_2_md.md)].

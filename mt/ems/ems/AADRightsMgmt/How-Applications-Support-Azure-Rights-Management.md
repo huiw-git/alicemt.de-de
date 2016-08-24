@@ -7,46 +7,14 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: 2cdc7bde-4044-4021-b887-11476f99afd9
 caps.latest.revision: 16
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - bg-bg
-  - da-dk
-  - de-de
-  - el-gr
-  - es-es
-  - et-ee
-  - fi-fi
-  - fr-fr
-  - hr-hr
-  - it-it
-  - ja-jp
-  - kk-kz
-  - ko-kr
-  - lt-lt
-  - lv-lv
-  - nb-no
-  - nl-nl
-  - pt-br
-  - ro-ro
-  - ru-ru
-  - sk-sk
-  - sl-si
-  - sr-latn-cs
-  - sv-se
-  - th-th
-  - tr-tr
-  - uk-ua
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - cs-cz
-  - hu-hu
-  - pl-pl
-  - pt-pt
 ---
 # Wie Applikationen Azure Rights Management unterst&#252;tzen
 Die folgenden Informationen sollen Ihnen dabei helfen zu verstehen, wie die Anwendungen Ihrer Endbenutzer (wie Office-Anwendungen, Word, Excel, PowerPoint und Outlook) und die Dienste (wie Exchange und SharePoint) Microsoft [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] verwenden können, um die Daten Ihrer Organisation besser zu schützen:
@@ -147,7 +115,7 @@ Die Klassifizierungsrichtlinien sind vollständig konfigurierbar und in hohem Ma
 
 Anweisungen zum Bereitstellen und Konfigurieren des RMS-Connectors für Office-Dateien finden Sie unter [Bereitstellen von Azure Rights Management-Connector](../../ems/AADRightsMgmt/Deploying-the-Azure-Rights-Management-Connector.md).
 
-Anweisungen zum Verwenden des Windows PowerShell-Skripts für alle Dateitypen finden Sie unter [RMS-Schutz mit Windows Server-Dateiklassifizierungsinfrastruktur &#40;FCI&#41;](/Topic/RMS%20Protection%20with%20Windows%20Server%20File%20Classification%20Infrastructure%20(FCI).md).
+Anweisungen zum Verwenden des Windows PowerShell-Skripts für alle Dateitypen finden Sie unter [RMS-Schutz mit Windows Server-Dateiklassifizierungsinfrastruktur &#40;FCI&#41;](../../ems/RMS_Client/RMS-Protection-with-Windows-Server-File-Classification-Infrastructure--FCI-.md).
 
 ## <a name="BKMK_APIAppsIntro"></a>Sonstige Anwendungen, die die RMS-APIs unterstützen
 Durch die Verwendung des RMS SDKs können Ihre internen Entwickler Branchenanwendungen schreiben, die systemeigene Unterstützung für [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] enthalten. Wie Informationsschutz in diese Anwendungen integriert wird, hängt davon ab, wie sie geschrieben sind. Beispielsweise kann die Integration automatisch, mit nur einem Minimum an erforderlicher Benutzerinteraktion angewendet werden, oder Benutzer können zur Erzeugung einer stärker angepassten Erfahrung aufgefordert werden, Einstellungen für die Anwendung von Informationsschutz auf Dateien zu konfigurieren. Weitere Informationen zum SDK finden Sie unter [Microsoft Rights Management SDK](http://msdn.microsoft.com/library/hh552972%28v=vs.85%29.aspx).

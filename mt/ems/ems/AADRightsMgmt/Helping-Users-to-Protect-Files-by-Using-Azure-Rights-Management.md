@@ -7,22 +7,14 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: 58f9a6ff-4121-4c8c-9865-1bb290604ad2
 caps.latest.revision: 16
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
 ---
 # Unterst&#252;tzung von Benutzern beim Sch&#252;tzen von Dateien mithilfe von Azure Rights Management
 Nachdem Sie Azure Rights Management (Azure RMS) für Ihre Organisation bereitgestellt haben, bieten Sie Ihren Benutzern, Administratoren und Ihrem Helpdesk Hilfe und Anleitung:

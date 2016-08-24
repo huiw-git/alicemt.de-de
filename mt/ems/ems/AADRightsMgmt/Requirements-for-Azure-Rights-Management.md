@@ -7,23 +7,14 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: dc78321d-d759-4653-8818-80da74b6cdeb
 caps.latest.revision: 8
 caps.handback.revision: 5
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
 ---
 # Anforderungen f&#252;r Azure Rights Management
 <?xml version="1.0" encoding="utf-8"?>

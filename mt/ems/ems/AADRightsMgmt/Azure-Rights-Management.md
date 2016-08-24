@@ -7,46 +7,14 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: 965581c8-be3c-43b4-8145-5cefd29c7636
 caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - bg-bg
-  - de-de
-  - el-gr
-  - es-es
-  - et-ee
-  - fi-fi
-  - fr-fr
-  - hr-hr
-  - it-it
-  - ja-jp
-  - kk-kz
-  - ko-kr
-  - lt-lt
-  - lv-lv
-  - pt-br
-  - ro-ro
-  - ru-ru
-  - sk-sk
-  - sl-si
-  - sr-latn-cs
-  - th-th
-  - tr-tr
-  - uk-ua
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - cs-cz
-  - da-dk
-  - hu-hu
-  - nb-no
-  - nl-nl
-  - pl-pl
-  - pt-pt
-  - sv-se
 ---
 # Azure Rights Management
 Auf dieser Seite finden Sie eine Übersicht über die technische Dokumentation für Microsoft [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS). Mithilfe von Azure RMS können Sie die sensiblen Informationen Ihrer Organisation vor nicht autorisiertem Zugriff schützen und kontrollieren, wie diese Informationen verwendet werden.[!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] ist ein Clouddienst, der auch in andere Microsoft-Clouddiensten und -Anwendungen integriert ist, wie z. B. Office 365 und Azure Active Directory. Der Dienst kann jedoch auch mit lokalen Anwendungen und Diensten verwendet werden.

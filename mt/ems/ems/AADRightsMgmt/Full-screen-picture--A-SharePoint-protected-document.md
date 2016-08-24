@@ -6,22 +6,14 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: 0ebd6806-0190-441e-84db-72ac4b97e4a2
 caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
 ---
 # Vollbild-Bild: eine SharePoint-gesch&#252;tzten Dokuments
 ![Vollbild: Durch SharePoint geschütztes Dokument](../../ems/AADRightsMgmt/media/AzRMS_StoryboardSPO_3.png "AzRMS_StoryboardSPO_3")

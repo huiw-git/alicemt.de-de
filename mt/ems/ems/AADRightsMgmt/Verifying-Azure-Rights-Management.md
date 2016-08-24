@@ -7,46 +7,14 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: 08664a01-81a5-4fa5-884c-7306ee55dba0
 caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - bg-bg
-  - de-de
-  - el-gr
-  - es-es
-  - et-ee
-  - fi-fi
-  - fr-fr
-  - hr-hr
-  - it-it
-  - ja-jp
-  - kk-kz
-  - ko-kr
-  - lt-lt
-  - lv-lv
-  - pt-br
-  - ro-ro
-  - ru-ru
-  - sk-sk
-  - sl-si
-  - sr-latn-cs
-  - th-th
-  - tr-tr
-  - uk-ua
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - cs-cz
-  - da-dk
-  - hu-hu
-  - nb-no
-  - nl-nl
-  - pl-pl
-  - pt-pt
-  - sv-se
 ---
 # &#220;berpr&#252;fen von Azure Rights Management
 Nachdem Sie [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS) aktiviert und alle zusätzlichen Konfigurationsschritte durchgeführt haben, die für Ihre Organisation erforderlich sind, können Sie überprüfen, ob der Dienst wie erwartet funktioniert, indem Sie eine Datei oder E-Mail unter Verwendung eines Benutzerkontos schützen und dann versuchen, diesen geschützten Inhalt von einem anderen Benutzerkonto aus zu öffnen und zu verwenden.

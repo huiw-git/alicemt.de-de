@@ -7,32 +7,18 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Active Directory Rights Management Services
+  - Azure Rights Management
+  - Windows 10
+  - Windows 7 with SP1
+  - Windows 8
+  - Windows 8.1
 ms.assetid: 7b91ab30-6363-4929-bcbd-4dfbd05f644a
 caps.latest.revision: 19
 caps.handback.revision: 5
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - tr-tr
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - cs-cz
-  - da-dk
-  - de-de
-  - hu-hu
-  - ja-jp
-  - nb-no
-  - nl-nl
-  - pl-pl
-  - pt-pt
-  - sv-se
 ---
 # Optionen des Dialogfelds f&#252;r die Rights Management-freigabeanwendung
 Anhand dieser Informationen können Sie die Optionen in der RMS-Freigabe angeben **Schutz hinzufügen** das Dialogfeld oder die **geschütztes freigeben** (Dialogfeld). Dieses Dialogfeld wird angezeigt Feld, wenn Sie [schützen eine freigegebene Datei](http://technet.microsoft.com/library/dn574735.aspx) oder [schützen eine Datei](http://technet.microsoft.com/library/dn574733.aspx) und wählen Sie benutzerdefinierte Berechtigungen.

@@ -6,23 +6,15 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: e748fd78-8bba-4168-96cf-f96def078283
 caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
 ---
 # Vollbild-Bild: Bob sieht die e-Mail-Adresse auf seine iPad
 ![Großes Bild für E-Mail auf iPad](../../ems/AADRightsMgmt/media/AzRMS_StoryboardEmaill2.PNG "AzRMS_StoryboardEmaill2")

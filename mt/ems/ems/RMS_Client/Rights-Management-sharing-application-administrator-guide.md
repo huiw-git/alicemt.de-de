@@ -7,32 +7,18 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Active Directory Rights Management Services
+  - Azure Rights Management
+  - Windows 10
+  - Windows 7 with SP1
+  - Windows 8
+  - Windows 8.1
 ms.assetid: d9992e30-f3d1-48d5-aedc-4e721f7d7c25
 caps.latest.revision: 18
 caps.handback.revision: 5
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - tr-tr
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - cs-cz
-  - da-dk
-  - de-de
-  - hu-hu
-  - ja-jp
-  - nb-no
-  - nl-nl
-  - pl-pl
-  - pt-pt
-  - sv-se
 ---
 # Rights Management freigabeanwendung – Administratorhandbuch
 Anhand der folgenden Informationen, wenn Sie für die gemeinsame Nutzung der Anwendung in einem Unternehmensnetzwerk Microsoft Rights Management verantwortlich sind oder ggf. Weitere technische Informationen als in den [Rights Management freigabeanwendung – Benutzerhandbuch](../../ems/RMS_Client/Rights-Management-sharing-application-user-guide.md) oder [häufig gestellte Fragen zur Microsoft Rights Management Freigabe-Anwendung für Windows](http://go.microsoft.com/fwlink/?LinkId=303971):

@@ -12,30 +12,6 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - ar-sa
-  - de-de
-  - es-es
-  - fr-fr
-  - he-il
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - tr-tr
-  - zh-cn
-  - zh-hk
-  - zh-tw
-translation.priority.mt: 
-  - cs-cz
-  - da-dk
-  - hu-hu
-  - nb-no
-  - nl-nl
-  - pl-pl
-  - pt-pt
-  - sv-se
 ---
 # Datenschutzrichtlinie f&#252;r Microsoft Rights Management in RMS-f&#228;hige Anwendung
 Gilt für: Die in Anwendungen integrierte Funktion „Microsoft Rights Management“.

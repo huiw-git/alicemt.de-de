@@ -10,24 +10,6 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - cs-cz
-  - de-de
-  - es-es
-  - fr-fr
-  - hu-hu
-  - it-it
-  - ja-jp
-  - ko-kr
-  - nl-nl
-  - pl-pl
-  - pt-br
-  - pt-pt
-  - ru-ru
-  - sv-se
-  - tr-tr
-  - zh-cn
-  - zh-tw
 ---
 # Endbenutzer-Lizenzvertrag f&#252;r Microsoft RMS-Freigabe
 Der Inhalt dieses Themas wurde zu [https://technet.microsoft.com/dn567972](https://technet.microsoft.com/dn567972) verschoben.

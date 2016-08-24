@@ -6,22 +6,14 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: 58461319-3981-4b7f-a195-956a1778e907
 caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
 ---
 # Vollbild-Bild: Konfigurieren von DLP f&#252;r Azure RMS
 ![Vollbild: Konfigurieren von DLP für Azure RMS](../../ems/AADRightsMgmt/media/AzRMS_DLPExample.png "AzRMS_DLPExample")

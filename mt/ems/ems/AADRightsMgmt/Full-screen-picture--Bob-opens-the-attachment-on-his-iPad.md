@@ -7,23 +7,15 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: 7dba5ff9-a61d-4a83-8adc-d6ffb0e85df6
 caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
 ---
 # Vollbild-Bild: Bob die Anlage &#246;ffnet, auf seine iPad
 ![Großes Bild für Dokument auf iPad](../../ems/AADRightsMgmt/media/AzRMS_StoryboardEmaill3.PNG "AzRMS_StoryboardEmaill3")

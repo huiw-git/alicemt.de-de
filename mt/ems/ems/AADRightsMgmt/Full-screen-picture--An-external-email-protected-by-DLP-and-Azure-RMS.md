@@ -6,23 +6,15 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: 59e3b68e-4bed-4962-bb1e-e82d82f8000a
 caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
 ---
 # Vollbild-Bild: eine externe e-Mail von DLP und Azure RMS gesch&#252;tzt
 ![Geschützte E-Mail (extern)](../../ems/AADRightsMgmt/media/AzRMS_DLPProtectedEmail.png "AzRMS_DLPProtectedEmail")

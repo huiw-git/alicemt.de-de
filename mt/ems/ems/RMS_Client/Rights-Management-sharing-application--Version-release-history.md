@@ -7,32 +7,18 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Active Directory Rights Management Services
+  - Azure Rights Management
+  - Windows 10
+  - Windows 7 with SP1
+  - Windows 8
+  - Windows 8.1
 ms.assetid: 6751bd90-959f-4eba-91ed-6588ac983762
 caps.latest.revision: 9
 caps.handback.revision: 6
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - tr-tr
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - cs-cz
-  - da-dk
-  - de-de
-  - hu-hu
-  - ja-jp
-  - nb-no
-  - nl-nl
-  - pl-pl
-  - pt-pt
-  - sv-se
 ---
 # Rights Management-freigabeanwendung: Version Versionsverlauf
 Das Rights Management-Team aktualisiert regelmäßig die Rights Management-freigabeanwendung für Updates und neue Funktionen. Verwenden Sie die folgende Informationen um zu sehen, welche neuen oder geänderten in einer Version. Die aktuellste Version wird zuerst aufgeführt.

@@ -7,22 +7,15 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Windows Server 2012
+  - Windows Server 2012 R2
 ms.assetid: 9aa693db-9727-4284-9f64-867681e114c9
 caps.latest.revision: 33
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
 ---
 # RMS-Schutz mit Windows Server-Dateiklassifizierungsinfrastruktur (FCI)
 Verwenden Sie diesen Anweisungsartikel und ein Skript, um den RMS\-Client (Rights Management) mit dem RMS\-Schutztool zum Konfigurieren des Ressourcen\-Managers für Dateiserver und der Dateiklassifizierungsinfrastruktur (FCI) zu verwenden.

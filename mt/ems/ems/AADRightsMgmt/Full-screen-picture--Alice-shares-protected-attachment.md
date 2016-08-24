@@ -6,23 +6,15 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: feeef78d-3c2e-432b-817d-d06f784be226
 caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
 ---
 # Vollbild-Bild: Alice teilt gesch&#252;tzten Anlage
 ![Hinzufügen von Schutz für eine Anlage](../../ems/AADRightsMgmt/media/AzRMS_StoryboardEmaill1.PNG "AzRMS_StoryboardEmaill1")

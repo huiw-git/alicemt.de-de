@@ -7,33 +7,23 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Active Directory Rights Management Services
+  - Azure Rights Management
+  - Windows 7 with SP1
+  - Windows 8
+  - Windows 8.1
+  - Windows Server 2008
+  - Windows Server 2008 R2
+  - Windows Server 2012
+  - Windows Server 2012 R2
+  - Windows Vista
 ms.assetid: 4768c144-b47b-445c-a7b7-16e432536be3
 caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: noindex,nofollow
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - tr-tr
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - cs-cz
-  - da-dk
-  - hu-hu
-  - nb-no
-  - nl-nl
-  - pl-pl
-  - pt-pt
-  - sv-se
 ---
 # Rights Management (RMS)-Client
 In der folgenden Dokumentation finden Sie Informationen zum RMS-Client (Rights Management), der in Verbindung mit den Rights Management Services (AD RMS) lokal und in der Cloud (Azure RMS) verwendet werden kann, um zum Schutz der Daten Ihrer Organisation beizutragen:

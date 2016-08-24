@@ -10,25 +10,6 @@ caps.latest.revision: 18
 caps.handback.revision: 0
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - cs-cz
-  - es-es
-  - fr-fr
-  - hu-hu
-  - it-it
-  - ko-kr
-  - nl-nl
-  - pl-pl
-  - pt-br
-  - pt-pt
-  - ru-ru
-  - sv-se
-  - tr-tr
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
 ---
 # Active Directory Rights Management Services-Mobilger&#228;teerweiterung
 Die Mobilgeräteerweiterung Active Directory Rights Management Services (AD RMS) läuft im Vordergrund einer vorhandenen AD RMS-Bereitstellung. Auf diese Weise können Benutzer von mobilen Geräten ihre vertrauliche Daten schützen, wenn ihr Gerät den neuesten RMS-Client unterstützt und RMS-fähige Apps verwendet. Benutzer dieser Geräte können z. B.:

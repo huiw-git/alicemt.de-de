@@ -7,23 +7,14 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: 1775d8d0-9a59-42c8-914f-ce285b71ac1c
 caps.latest.revision: 18
 caps.handback.revision: 6
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
 ---
 # Konfigurieren benutzerdefinierter Vorlagen f&#252;r Azure Rights Management
 Nachdem Sie Azure Rights Management (Azure RMS) aktiviert haben, können Benutzer automatisch zwei Standardvorlagen zu verwenden, die für diese Richtlinien auf vertrauliche Dateien anwenden, die Zugriff auf autorisierte Benutzer in Ihrer Organisation zu erleichtern. Diese zwei Vorlagen enthalten die folgenden rechterichtlinieneinschränkungen:

@@ -6,23 +6,15 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: f5df80e5-efc9-4c0f-91be-060225977356
 caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
 robots: nofollow
-translation.priority.ht: 
-  - de-de
-  - es-es
-  - fr-fr
-  - it-it
-  - ja-jp
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
 ---
 # Vollbild-Bild: verf&#252;gbaren Einstellungen f&#252;r den RMS-Vorlagen
 ![Vollbild: Einstellungen für benutzerdefinierte Vorlagen](../../ems/AADRightsMgmt/media/AzRMS_TemplatesSettings.png "AzRMS_TemplatesSettings")

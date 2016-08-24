@@ -7,23 +7,14 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Active Directory Rights Management Services
+  - Azure Rights Management
 ms.assetid: 828cf1f7-d0e7-4edf-8525-91896dbe3172
 caps.latest.revision: 9
 caps.handback.revision: 6
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
 ---
 # Migration von AD RMS zu Azure Rights Management
 Verwenden Sie die folgende Gruppe von Anweisungen, um die Active Directory-Rechteverwaltungsdienste (AD RMS)-Bereitstellung zu Azure Rights Management (Azure RMS) zu migrieren. Benutzer haben weiterhin Zugriff auf Dokumente und e-Mail-Nachrichten, die Ihre Organisation mithilfe von AD RMS geschützt und neu geschützte Inhalte Azure RMS verwenden, nach der Migration.

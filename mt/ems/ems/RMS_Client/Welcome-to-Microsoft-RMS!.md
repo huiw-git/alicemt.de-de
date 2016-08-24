@@ -10,24 +10,6 @@ caps.latest.revision: 25
 caps.handback.revision: 11
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - cs-cz
-  - de-de
-  - es-es
-  - fr-fr
-  - hu-hu
-  - it-it
-  - ja-jp
-  - ko-kr
-  - nl-nl
-  - pl-pl
-  - pt-br
-  - pt-pt
-  - ru-ru
-  - sv-se
-  - tr-tr
-  - zh-cn
-  - zh-tw
 ---
 # Willkommen beim Microsoft RMS!
 Vermutlich lesen Sie dies, weil Ihnen jemand ein geschütztes Dokument gesendet hat, und Sie auf den Anmeldelink in der E-Mail-Nachricht geklickt haben, oder weil Ihre bevorzugt Suchmaschine Sie hierhergeführt hat.

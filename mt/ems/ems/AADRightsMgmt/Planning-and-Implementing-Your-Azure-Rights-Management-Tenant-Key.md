@@ -7,23 +7,14 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Azure Rights Management
+  - Office 365
 ms.assetid: f0d33c5f-a6a6-44a1-bdec-5be1bc8e1e14
 caps.latest.revision: 9
 caps.handback.revision: 6
 author: karthikaraman
 manager: jeffgilb
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - de-de
-  - ja-jp
 ---
 # Planen und Implementieren Ihres Azure Rights Management-Mandantenschl&#252;ssels
 Verwenden Sie die Informationen in diesem Thema soll Ihnen bei der Planung und Verwaltung von der Verwaltung von Informationsrechten (RMS) Mandanten Dienstschlüssel für Azure RMS. Beispielsweise können anstelle von Microsoft Verwalten Ihres mandantenschlüssels (Standard), Sie verwalten möchten Ihren eigenen mandantenschlüssel, um bestimmte Vorschriften einzuhalten, die für Ihre Organisation gelten.  Verwalten Ihres eigenen mandantenschlüssels wird auch bezeichnet um als Ihren eigenen Schlüssel oder BYOK zu bringen.

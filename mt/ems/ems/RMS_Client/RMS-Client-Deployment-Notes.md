@@ -7,33 +7,23 @@ ms.service: rights-management
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
+applies_to: 
+  - Active Directory Rights Management Services
+  - Azure Rights Management
+  - Windows 7 with SP1
+  - Windows 8
+  - Windows 8.1
+  - Windows Server 2008
+  - Windows Server 2008 R2
+  - Windows Server 2012
+  - Windows Server 2012 R2
+  - Windows Vista
 ms.assetid: 03cc8c6f-3b63-4794-8d92-a5df4cdf598f
 caps.latest.revision: 21
 caps.handback.revision: 6
 author: karthikaraman
 manager: jeffgilb
 robots: noindex,nofollow
-translation.priority.ht: 
-  - es-es
-  - fr-fr
-  - it-it
-  - ko-kr
-  - pt-br
-  - ru-ru
-  - tr-tr
-  - zh-cn
-  - zh-tw
-translation.priority.mt: 
-  - cs-cz
-  - da-dk
-  - de-de
-  - hu-hu
-  - ja-jp
-  - nb-no
-  - nl-nl
-  - pl-pl
-  - pt-pt
-  - sv-se
 ---
 # Notes-RMS-Client-Bereitstellung
 Die Rights Management\-Dienst\-Client (RMS\-Client) Version 2 ist auch bekannt als MSIPC\-Client. Er ist Software für Windows\-Computer, die Kommunikation mit Microsoft Rights Management Services\-lokal oder in der Cloud, den Zugriff auf und Verwendung von Informationen schützen, während es über Clientanwendungen und Geräten fließen, innerhalb der Grenzen des Unternehmens oder nicht den verwalteten Grenzen. Zusätzlich zu den im Lieferumfang der [Rights Management-freigabeanwendung für Windows](https://technet.microsoft.com/library/dn919648.aspx), steht der RMS\-Client [als ein optionaler Download](http://www.microsoft.com/download/details.aspx?id=38396) können mit Bestätigung und seine Zustimmung Lizenz frei verteilt werden mit Software von Drittanbietern, um Clients zu schützen und Nutzung von Inhalten, die von Rights Management Services geschützt wurde.
