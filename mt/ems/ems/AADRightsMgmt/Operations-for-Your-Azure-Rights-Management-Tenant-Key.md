@@ -1,5 +1,5 @@
 ---
-title: "Vorg&#228;nge f&#252;r Ihren Azure Rights Management-Mandantenschl&#252;ssel"
+title: "Vorgänge für Ihren Azure Rights Management-Mandantenschlüssel"
 ms.custom: na
 ms.date: 07/21/2016
 ms.reviewer: na
@@ -17,7 +17,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Vorg&#228;nge f&#252;r Ihren Azure Rights Management-Mandantenschl&#252;ssel
+# Vorgänge für Ihren Azure Rights Management-Mandantenschlüssel
 Abhängig von der Mandantenschlüsseltopologie (von Microsoft oder vom Kunden verwaltet), besitzen Sie verschiedene Stufen der Kontrolle und Verantwortlichkeit für Ihren Microsoft Azure Rights Management-Mandantenschlüssel (Azure RMS), nachdem er implementiert wurde.
 
 Wenn Sie Ihren eigenen Mandantenschlüssel verwalten, wird dies häufig als „Bring Your Own Key“ (BYOK) bezeichnet. Weitere Informationen zu diesem Szenario und wie Sie zwischen den beiden Mandantenschlüsseltopologien auswählen, finden Sie unter [Planen und Implementieren Ihres Azure Rights Management-Mandantenschlüssels](../../ems/AADRightsMgmt/Planning-and-Implementing-Your-Azure-Rights-Management-Tenant-Key.md).

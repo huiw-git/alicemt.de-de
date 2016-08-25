@@ -1,5 +1,5 @@
 ---
-title: "Optionen des Dialogfelds f&#252;r die Rights Management-freigabeanwendung"
+title: "Optionen des Dialogfelds für die Rights Management-freigabeanwendung"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -21,7 +21,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Machine Translation
 ---
-# Optionen des Dialogfelds f&#252;r die Rights Management-freigabeanwendung
+# Optionen des Dialogfelds für die Rights Management-freigabeanwendung
 Anhand dieser Informationen können Sie die Optionen in der RMS-Freigabe angeben **Schutz hinzufügen** das Dialogfeld oder die **geschütztes freigeben** (Dialogfeld). Dieses Dialogfeld wird angezeigt Feld, wenn Sie [schützen eine freigegebene Datei](http://technet.microsoft.com/library/dn574735.aspx) oder [schützen eine Datei](http://technet.microsoft.com/library/dn574733.aspx) und wählen Sie benutzerdefinierte Berechtigungen.
 
 > [!IMPORTANT]

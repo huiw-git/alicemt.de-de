@@ -1,5 +1,5 @@
 ---
-title: "Microsoft Rights Management freigabeanwendung – Benutzerhandbuch – urspr&#252;ngliche Ver&#246;ffentlichung."
+title: "Microsoft Rights Management freigabeanwendung – Benutzerhandbuch – ursprüngliche Veröffentlichung."
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -12,7 +12,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Machine Translation
 ---
-# Microsoft Rights Management freigabeanwendung – Benutzerhandbuch – urspr&#252;ngliche Ver&#246;ffentlichung.
+# Microsoft Rights Management freigabeanwendung – Benutzerhandbuch – ursprüngliche Veröffentlichung.
 Dieses Benutzerhandbuch für Microsoft Rights Management-freigabeanwendung für Windows enthält die folgenden Abschnitte:
 
 -   [Evaluating and Installing Microsoft Rights Management sharing application](../../ems/RMS_Client/Microsoft-Rights-Management-sharing-application-user-guide---original-publication.md#BKMK_Eval)

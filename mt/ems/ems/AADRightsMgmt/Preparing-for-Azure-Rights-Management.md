@@ -1,5 +1,5 @@
 ---
-title: "Vorbereiten f&#252;r Azure Rights Management"
+title: "Vorbereiten für Azure Rights Management"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -17,7 +17,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Vorbereiten f&#252;r Azure Rights Management
+# Vorbereiten für Azure Rights Management
 Nachdem Sie sich für ein Cloud-Abonnement registriert und Ihre Organisation mit einem Konto für [!INCLUDE[o365_1](../../ems/AADRightsMgmt/includes/o365_1_md.md)] oder Azure Active Directory eingerichtet haben, sind Sie bereit, um den [!INCLUDE[aad_rightsmanagement_2](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_2_md.md)]-Dienst zu aktivieren.
 
 Vergewissern Sie sich aber vorher, dass folgende Punkte vorhanden sind:

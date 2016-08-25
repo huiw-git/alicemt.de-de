@@ -1,5 +1,5 @@
 ---
-title: "Vollbild-Bild: eine SharePoint-gesch&#252;tzten Dokuments"
+title: "Vollbild-Bild: eine SharePoint-geschützten Dokuments"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -16,7 +16,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Vollbild-Bild: eine SharePoint-gesch&#252;tzten Dokuments
+# Vollbild-Bild: eine SharePoint-geschützten Dokuments
 ![Vollbild: Durch SharePoint geschütztes Dokument](../../ems/AADRightsMgmt/media/AzRMS_StoryboardSPO_3.png "AzRMS_StoryboardSPO_3")
 
 Zurück zu [Azure RMS in Aktion: Geschützte Bibliotheken mit SharePoint Online](http://technet.microsoft.com/library/jj585026.aspx#BKMK_Example_SharePoint).

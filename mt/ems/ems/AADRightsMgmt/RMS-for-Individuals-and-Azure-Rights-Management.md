@@ -1,5 +1,5 @@
 ---
-title: "RMS f&#252;r Einzelpersonen und Azure Rights Management"
+title: "RMS für Einzelpersonen und Azure Rights Management"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -16,7 +16,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# RMS f&#252;r Einzelpersonen und Azure Rights Management
+# RMS für Einzelpersonen und Azure Rights Management
 RMS for Individuals (RMS für Einzelpersonen) ist ein kostenloses Self-Service-Abonnement für Benutzer in einer Organisation, denen vertrauliche Dateien zugesandt wurden, die durch Microsoft Azure Rights Management (Azure RMS) geschützt sind, die aber nicht authentifiziert werden können, weil deren IT-Abteilung kein Konto für sie in Azure verwaltet. Dies ist z. B. der Fall, wenn die IT-Abteilung Office 365 nicht abonniert hat oder keine Azure-Dienste verwendet.
 
 Diese Benutzer können sich für ein kostenloses Geschäfts- oder -Schulkonto registrieren, das mit Azure RMS verwendet wird, und können die Rights Management-Freigabeanwendung herunterladen und installieren. Danach können sich diese Benutzer authentifizieren, um nachzuweisen, dass sie die jeweilige Person sind, an die die geschützten Dateien gesendet wurden, und können dann die geschützten Dateien auf Computern oder mobilen Geräten lesen.
@@ -135,5 +135,5 @@ Wie erfahren Sie als Administrator, ob Ihre Benutzer sich für RMS für Einzelpe
 -   Achten Sie auf Dateinamenerweiterungen, die von der Rights Management-Freigabeanwendung erstellt werden. Die Dateinamenerweiterungen „PFILE“ und „PPDF“ sind die offensichtlichsten Beispiele, doch es gibt noch andere Dateien, die ihre Dateinamenerweiterung ändern, wenn sie durch Rights Management systemeigen geschützt sind. Weitere Informationen finden Sie im Abschnitt [Unterstützte Dateitypen und Dateinamenerweiterungen](http://technet.microsoft.com/library/dn339003.aspx) im [Rights Management-Freigabeanwendung – Administratorhandbuch](http://technet.microsoft.com/library/dn339003.aspx).
 
 ## Siehe auch
-[Erste Schritte mit Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md)
+[Erste Schritte mit Azure Rights Management](../Topic/Getting%20Started%20with%20Azure%20Rights%20Management.md)
 

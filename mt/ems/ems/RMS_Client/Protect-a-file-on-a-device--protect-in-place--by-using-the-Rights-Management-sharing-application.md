@@ -1,5 +1,5 @@
 ---
-title: "Sch&#252;tzen eine Datei auf einem Ger&#228;t (direkt sch&#252;tzen) mithilfe von Rights Management-freigabeanwendung"
+title: "Schützen eine Datei auf einem Gerät (direkt schützen) mithilfe von Rights Management-freigabeanwendung"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -21,7 +21,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Sch&#252;tzen eine Datei auf einem Ger&#228;t (direkt sch&#252;tzen) mithilfe von Rights Management-freigabeanwendung
+# Schützen eine Datei auf einem Gerät (direkt schützen) mithilfe von Rights Management-freigabeanwendung
 Wenn Sie eine Datei direkt schützen, wird die ursprüngliche, nicht geschützte Datei ersetzt. Sie können die Datei dann dort belassen, wo sie ist, sie in einen anderen Ordner oder auf ein anderes Gerät kopieren oder den Ordner freigeben, in dem sie sich befindet. Die Datei bleibt in jedem Fall geschützt. Sie könnten die geschützte Datei auch an eine E-Mail-Nachricht anfügen, es empfiehlt sich aber, eine geschützte Datei direkt aus dem Datei-Explorer oder aus einer Office-Anwendung per E-Mail freizugeben (weitere Informationen finden Sie unter [Schützen Sie eine Datei, die Sie mithilfe von Rights Management-freigabeanwendung per e-Mail freigeben](../../ems/RMS_Client/Protect-a-file-that-you-share-by-email-by-using-the-Rights-Management-sharing-application.md)).
 
 > [!TIP]

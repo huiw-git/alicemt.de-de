@@ -1,5 +1,5 @@
 ---
-title: "Vollbild-Bild: Installieren und konfigurieren den RMS-Verbindungsdienst f&#252;r FCI"
+title: "Vollbild-Bild: Installieren und konfigurieren den RMS-Verbindungsdienst für FCI"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -16,7 +16,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Vollbild-Bild: Installieren und konfigurieren den RMS-Verbindungsdienst f&#252;r FCI
+# Vollbild-Bild: Installieren und konfigurieren den RMS-Verbindungsdienst für FCI
 ![Konfigurieren des RMS-Verbindungsdiensts für FCI](../../ems/AADRightsMgmt/media/AzRMS_FCI_Connector.png "AzRMS_FCI_Connector")
 
 Zurück zu [Azure RMS in Aktion: Automatischer Schutz von Dateien auf Dateiservern, auf denen Windows Server und Dateiklassifizierungsinfrastruktur ausgeführt wird](http://technet.microsoft.com/library/jj585026.aspx#BKMK_Example_FCI).

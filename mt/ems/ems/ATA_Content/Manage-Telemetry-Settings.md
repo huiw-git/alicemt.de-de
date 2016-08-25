@@ -1,5 +1,5 @@
 ---
-title: "Verwalten der f&#252;r Telemetrieeinstellungen"
+title: "Verwalten der für Telemetrieeinstellungen"
 ms.custom: na
 ms.date: 12/22/2015
 ms.prod: identity-ata
@@ -15,7 +15,7 @@ caps.handback.revision: 10
 author: karthikaraman
 manager: jeffgilb
 ---
-# Verwalten der f&#252;r Telemetrieeinstellungen
+# Verwalten der für Telemetrieeinstellungen
 Erweiterte Threat-Analyse (ATA) anonymen Telemetriedaten über ATA sammelt und überträgt die Daten über eine HTTPS-Verbindung mit Servern von Microsoft. Diese Daten werden von Microsoft zur Verbesserung von zukünftigen Versionen ATA-verwendet.
 
 

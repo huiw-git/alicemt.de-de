@@ -48,7 +48,7 @@ Dieser Abschnitt enthält Informationen, die Ihnen bei der Bereitstellung und Ko
 -   [Außerbetriebsetzen und Deaktivieren von Azure Rights Management](../../ems/AADRightsMgmt/Decommissioning-and-Deactivating-Azure-Rights-Management.md)
 
 > [!TIP]
-> Wenn Sie gerade erst in Azure RMS einsteigen, hilft Ihnen der Abschnitt [Erste Schritte mit Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md) vermutlich weiter, da er Informationen enthält, wie Sie mehr über Azure RMS und seinen Einsatz zum Schutz von Informationen in Ihrer Organisation erfahren.
+> Wenn Sie gerade erst in Azure RMS einsteigen, hilft Ihnen der Abschnitt [Erste Schritte mit Azure Rights Management](../Topic/Getting%20Started%20with%20Azure%20Rights%20Management.md) vermutlich weiter, da er Informationen enthält, wie Sie mehr über Azure RMS und seinen Einsatz zum Schutz von Informationen in Ihrer Organisation erfahren.
 > 
 > Wenn Sie Azure RMS bereits bereitgestellt haben, lesen Sie [Mithilfe von Azure Rights Management](../../ems/AADRightsMgmt/Using-Azure-Rights-Management.md). Und wenn Sie Windows PowerShell-Benutzer sind oder einfach erfahren möchten, wie Sie Azure RMS auf der Befehlszeile verwalten können, finden Sie in [Verwalten von Azure Rights Management mithilfe von WindowsPowerShell](../../ems/AADRightsMgmt/Administering-Azure-Rights-Management-by-Using-Windows-PowerShell.md) die gewünschten Informationen.
 

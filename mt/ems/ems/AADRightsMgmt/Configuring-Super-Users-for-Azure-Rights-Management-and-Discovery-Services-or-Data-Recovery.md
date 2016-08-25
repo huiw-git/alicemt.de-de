@@ -1,5 +1,5 @@
 ---
-title: "Konfigurieren von Administratoren f&#252;r Azure Rights Management und Discovery Services oder Wiederherstellen von Daten"
+title: "Konfigurieren von Administratoren für Azure Rights Management und Discovery Services oder Wiederherstellen von Daten"
 ms.custom: na
 ms.date: 12/25/2015
 ms.reviewer: na
@@ -17,7 +17,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Konfigurieren von Administratoren f&#252;r Azure Rights Management und Discovery Services oder Wiederherstellen von Daten
+# Konfigurieren von Administratoren für Azure Rights Management und Discovery Services oder Wiederherstellen von Daten
 Mit der Administratorfunktion von Microsoft [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS) wird sichergestellt, dass nur entsprechend berechtigte Personen und Dienste immer auf die Daten zugreifen und diese überprüfen können, die Azure RMS für Ihre Organisation schützt. Falls notwendig, können diese Personen/Dienste auch den zuvor angewendeten Schutz aufheben oder ändern. Ein Administrator verfügt immer über die vollständigen Besitzerrechte für alle Nutzungslizenzen, die vom RMS-Mandanten der Organisation gewährt wurden. Diese Fähigkeit wird gelegentlich als "Schlussfolgern über Daten" (reasoning over data) bezeichnet und ist ein ausschlaggebendes Element dabei, die Kontrolle über die Daten Ihrer Organisation zu behalten. So verwenden Sie diese Funktion beispielsweise für alle der folgenden Szenarien:
 
 -   Ein Mitarbeiter verlässt die Organisation, und Sie müssen alle Dateien lesen können, die von dieser Person geschützt wurden.

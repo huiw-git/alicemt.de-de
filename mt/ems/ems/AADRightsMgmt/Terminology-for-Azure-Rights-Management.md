@@ -1,5 +1,5 @@
 ---
-title: "Terminologie f&#252;r Azure Rights Management"
+title: "Terminologie für Azure Rights Management"
 ms.custom: na
 ms.date: 12/25/2015
 ms.reviewer: na
@@ -17,7 +17,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Machine Translation
 ---
-# Terminologie f&#252;r Azure Rights Management
+# Terminologie für Azure Rights Management
 Nach einem Wort, Ausdruck oder Akronym, die auf Microsoft bezieht verwechselt [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS)? Suchen Sie die Definition für die Begriffe und Abkürzungen, die spezifisch für Azure RMS oder haben eine spezielle Bedeutung bei der Verwendung im Kontext des [!INCLUDE[aad_rightsmanagement_2](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_2_md.md)].
 
 |Begriff|Definition|
@@ -61,5 +61,5 @@ Nach einem Wort, Ausdruck oder Akronym, die auf Microsoft bezieht verwechselt [!
 |Verwenden Sie die Lizenz|Ein pro Dokument-Zertifikat, das dem Benutzer eine Datei oder e-Mail-Nachricht öffnet, gewährt wird, die durch geschützt wurde [!INCLUDE[aad_rightsmanagement_2](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_2_md.md)]. Dieses Zertifikat enthält, Benutzerrechte für die Datei oder e-Mail-Nachricht und den Verschlüsselungsschlüssel, der verwendet wurde, zum Verschlüsseln von Inhalten sowie zusätzliche Zugriffsrechte eingeschränkt, die in der Richtlinie des Dokuments definiert.|
 
 ## Siehe auch
-[Erste Schritte mit Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md)
+[Erste Schritte mit Azure Rights Management](../Topic/Getting%20Started%20with%20Azure%20Rights%20Management.md)
 

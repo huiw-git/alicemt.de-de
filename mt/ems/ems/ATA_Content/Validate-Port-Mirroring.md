@@ -1,5 +1,5 @@
 ---
-title: "&#220;berpr&#252;fen Sie die Port-Spiegelung"
+title: "Überprüfen Sie die Port-Spiegelung"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015
@@ -18,7 +18,7 @@ caps.handback.revision: 10
 author: karthikaraman
 manager: jeffgilb
 ---
-# &#220;berpr&#252;fen Sie die Port-Spiegelung
+# Überprüfen Sie die Port-Spiegelung
 Die folgenden Schritte führen Sie durch den Prozess zum Überprüfen der Spiegelung Port ordnungsgemäß konfiguriert ist.
 
 

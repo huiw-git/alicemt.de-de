@@ -45,5 +45,5 @@ Es gibt auch ein zusätzliches Windows PowerShell-Modul, **RMSProtection**, das 
 |Migrieren Ihrer Organisation von [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] zu einer lokalen AD RMS-Bereitstellung.|[Set-AadrmMigrationUrl](http://msdn.microsoft.com/library/azure/dn629429.aspx)<br /><br />[Get-AadrmMigrationUrl](http://msdn.microsoft.com/library/azure/dn629403.aspx)|
 
 ## Siehe auch
-[Azure Rights Management](../../ems/AADRightsMgmt/Azure-Rights-Management.md)
+[Azure Rights Management](../Topic/Azure%20Rights%20Management.md)
 

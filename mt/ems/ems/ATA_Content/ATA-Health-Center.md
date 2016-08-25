@@ -1,5 +1,5 @@
 ---
-title: "Center f&#252;r ATA-Integrit&#228;t"
+title: "Center für ATA-Integrität"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015
@@ -18,7 +18,7 @@ caps.handback.revision: 10
 author: karthikaraman
 manager: jeffgilb
 ---
-# Center f&#252;r ATA-Integrit&#228;t
+# Center für ATA-Integrität
 ATA-Integrität-Center können Sie feststellen, wie Ihr ATA-Dienst ausführt, und weist auf Probleme.
 
 

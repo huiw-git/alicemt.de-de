@@ -1,5 +1,5 @@
 ---
-title: "Planen der ATA-Kapazit&#228;t"
+title: "Planen der ATA-Kapazität"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015
@@ -18,7 +18,7 @@ caps.handback.revision: 10
 author: karthikaraman
 manager: jeffgilb
 ---
-# Planen der ATA-Kapazit&#228;t
+# Planen der ATA-Kapazität
 In diesem Thema können Sie ermitteln, wie viele ATA-Server benötigt werden, um Ihr Netzwerk zu unterstützen.
 
 

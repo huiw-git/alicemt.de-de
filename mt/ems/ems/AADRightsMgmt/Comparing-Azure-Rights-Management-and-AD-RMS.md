@@ -47,5 +47,5 @@ Beide [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rig
 [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)]mit FIPS 140-2 kompatibel ist, wenn Ihr mandantenschlüssel erstellt und verwaltet von Microsoft (Standard), oder wenn Sie Ihren eigenen mandantenschlüssel (bekannt als BYOK) verwalten. Weitere Informationen zum Verwalten Ihres mandantenschlüssels finden Sie unter [Planen und Implementieren Ihres Azure Rights Management-Mandantenschlüssels](../../ems/AADRightsMgmt/Planning-and-Implementing-Your-Azure-Rights-Management-Tenant-Key.md).
 
 ## Siehe auch
-[Erste Schritte mit Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md)
+[Erste Schritte mit Azure Rights Management](/Topic/Getting%20Started%20with%20Azure%20Rights%20Management.md)
 

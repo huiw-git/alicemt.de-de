@@ -1,5 +1,5 @@
 ---
-title: "Informationen und Support f&#252;r Azure Rights Management"
+title: "Informationen und Support für Azure Rights Management"
 ms.custom: na
 ms.date: 12/25/2015
 ms.reviewer: na
@@ -17,12 +17,12 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Informationen und Support f&#252;r Azure Rights Management
+# Informationen und Support für Azure Rights Management
 Verwenden Sie die folgenden Ressourcen, um weitere Informationen zu Microsoft [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS) zu erhalten.
 
 |Zweck|.. Vorgehensweise|
 |---------|---------------------|
-|… Die aktuellste [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)]-Produktdokumentation lesen →|Verwenden Sie die TechNet-Dokumentationsbibliothek für [Azure Rights Management](../../ems/AADRightsMgmt/Azure-Rights-Management.md).|
+|… Die aktuellste [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)]-Produktdokumentation lesen →|Verwenden Sie die TechNet-Dokumentationsbibliothek für [Azure Rights Management](../Topic/Azure%20Rights%20Management.md).|
 |… Feedback zur Dokumentation geben oder eine Frage zur Dokumentation stellen →|E-Mail an [askipteam](mailto:%20askipteam@microsoft.com?subject=Documentation%20feedback)|
 |… Tweets zu Rights Management sowie Ankündigungen von Dokumentationsaktualisierungen aus der Produktgruppe erhalten →|Folgen Sie Dan Plastina, der bei der Leitung des Microsoft Rights Management-Teams hilft. Siehe [Dan Plastina @TheRMSGuy](https://twitter.com/TheRMSGuy)|
 |… Eine Testversion von [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] erhalten →|[Für kostenlose 30-Tage-Testversion registrieren](https://portal.microsoftonline.com/Signup/MainSignUp15.aspx?&OfferId=A43415D3-404C-4df3-B31B-AAD28118A778&dl=RIGHTSMANAGEMENT&ali=1)|
@@ -123,5 +123,5 @@ Die Rights Management-Produktgruppe verwendet den [Microsoft Rights Management (
 Besuchen Sie außerdem das [Microsoft Rights Management Services-Portal](http://www.microsoft.com/rms), um weitere unterstützende Ressourcen für [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] zu finden.
 
 ## Siehe auch
-[Erste Schritte mit Azure Rights Management](../../ems/AADRightsMgmt/Getting-Started-with-Azure-Rights-Management.md)
+[Erste Schritte mit Azure Rights Management](../Topic/Getting%20Started%20with%20Azure%20Rights%20Management.md)
 

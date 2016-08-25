@@ -1,5 +1,5 @@
 ---
-title: "Arbeiten mit Einstellungen f&#252;r ATA-Erkennung"
+title: "Arbeiten mit Einstellungen für ATA-Erkennung"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015
@@ -18,7 +18,7 @@ caps.handback.revision: 10
 author: karthikaraman
 manager: jeffgilb
 ---
-# Arbeiten mit Einstellungen f&#252;r ATA-Erkennung
+# Arbeiten mit Einstellungen für ATA-Erkennung
 Die **Erkennung** Seite "Konfiguration" ermöglicht das Festlegen eine Liste von IP-Adressen und Subnetzen, die Sonderfälle und etwas anders als andere Entitäten in Ihrem Netzwerk behandelt werden sollen.
 
 

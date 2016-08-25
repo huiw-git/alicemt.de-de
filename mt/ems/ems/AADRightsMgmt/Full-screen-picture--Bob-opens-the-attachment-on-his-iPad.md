@@ -1,5 +1,5 @@
 ---
-title: "Vollbild-Bild: Bob die Anlage &#246;ffnet, auf seine iPad"
+title: "Vollbild-Bild: Bob die Anlage öffnet, auf seine iPad"
 ms.custom: 
   - test
 ms.date: 12/22/2015
@@ -18,7 +18,7 @@ manager: jeffgilb
 robots: nofollow
 translationtype: Human Translation
 ---
-# Vollbild-Bild: Bob die Anlage &#246;ffnet, auf seine iPad
+# Vollbild-Bild: Bob die Anlage öffnet, auf seine iPad
 ![Großes Bild für Dokument auf iPad](../../ems/AADRightsMgmt/media/AzRMS_StoryboardEmaill3.PNG "AzRMS_StoryboardEmaill3")
 
 Zurück zu [Azure RMS in Aktion: Anlagen sicher für mobile Benutzer freigeben](http://technet.microsoft.com/library/jj585026.aspx#BKMK_Example_SharingApp).

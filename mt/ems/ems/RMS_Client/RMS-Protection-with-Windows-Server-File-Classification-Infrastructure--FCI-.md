@@ -21,7 +21,7 @@ translationtype: Human Translation
 # RMS-Schutz mit Windows Server-Dateiklassifizierungsinfrastruktur (FCI)
 Verwenden Sie diesen Anweisungsartikel und ein Skript, um den RMS\-Client (Rights Management) mit dem RMS\-Schutztool zum Konfigurieren des Ressourcen\-Managers für Dateiserver und der Dateiklassifizierungsinfrastruktur (FCI) zu verwenden.
 
-Mit diesen Lösungen können Sie automatisch alle Dateien in einem Ordner auf einem Dateiserver unter Windows Server oder automatisch Dateien schützen, die bestimmten Kriterien entsprechen. Das sind z. B. Dateien, die vertrauliche Informationen enthalten und entsprechend klassifiziert wurden. Diese Lösung verwendet [Azure Rights Management](../../ems/AADRightsMgmt/Azure-Rights-Management.md) (Azure RMS), um die Dateien zu schützen, daher müssen Sie diese Technologie in Ihrer Organisation bereitgestellt haben.
+Mit diesen Lösungen können Sie automatisch alle Dateien in einem Ordner auf einem Dateiserver unter Windows Server oder automatisch Dateien schützen, die bestimmten Kriterien entsprechen. Das sind z. B. Dateien, die vertrauliche Informationen enthalten und entsprechend klassifiziert wurden. Diese Lösung verwendet [Azure Rights Management](../Topic/Azure%20Rights%20Management.md) (Azure RMS), um die Dateien zu schützen, daher müssen Sie diese Technologie in Ihrer Organisation bereitgestellt haben.
 
 > [!NOTE]
 > Obwohl Azure RMS einen [Connector](https://technet.microsoft.com/library/dn375964.aspx) enthält, der die Dateiklassifizierungsinfrastruktur unterstützt, unterstützt diese Lösung nur systemeigenen Schutz, z. B. Office\-Dateien.

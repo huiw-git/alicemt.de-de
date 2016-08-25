@@ -1,5 +1,5 @@
 ---
-title: "ATA-Konfiguration &#228;ndern"
+title: "ATA-Konfiguration ändern"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015
@@ -18,7 +18,7 @@ caps.handback.revision: 10
 author: karthikaraman
 manager: jeffgilb
 ---
-# ATA-Konfiguration &#228;ndern
+# ATA-Konfiguration ändern
 Wenn Sie Ihre Konfiguration nach der ersten Installation und Bereitstellung von ATA aktualisieren müssen, verwenden Sie in diesem Thema als Leitfaden.
 
 

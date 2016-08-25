@@ -1,5 +1,5 @@
 ---
-title: "Roadmap f&#252;r die Bereitstellung von Azure Rights Management"
+title: "Roadmap für die Bereitstellung von Azure Rights Management"
 ms.custom: na
 ms.date: 07/21/2016
 ms.reviewer: na
@@ -17,7 +17,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Roadmap f&#252;r die Bereitstellung von Azure Rights Management
+# Roadmap für die Bereitstellung von Azure Rights Management
 Führen Sie die folgenden Schritte aus, um Azure Rights Management (Azure RMS) für Ihre Organisation vorzubereiten, zu implementieren und zu verwalten.
 
 Wenn Sie Azure RMS jedoch schnell einmal selbst ausprobieren möchten, statt es in eine Produktionsumgebung einzuführen, siehe [Schnellstart-Lernprogramm für Azure Rights Management](../../ems/AADRightsMgmt/Quick-Start-Tutorial-for-Azure-Rights-Management.md).
