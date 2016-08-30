@@ -1,5 +1,5 @@
 ---
-title: "Datenschutzrichtlinie für Microsoft Rights Management in RMS-fähige Anwendung"
+title: "Datenschutzrichtlinie f&#252;r Microsoft Rights Management in RMS-f&#228;hige Anwendung"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -14,7 +14,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Datenschutzrichtlinie für Microsoft Rights Management in RMS-fähige Anwendung
+# Datenschutzrichtlinie f&#252;r Microsoft Rights Management in RMS-f&#228;hige Anwendung
 Gilt für: Die in Anwendungen integrierte Funktion „Microsoft Rights Management“.
 
 > [!NOTE]

@@ -1,5 +1,5 @@
 ---
-title: "Vollbild-Bild: Konfigurieren der FCI für die Marketing-Klassifizierung"
+title: "Vollbild-Bild: Konfigurieren der FCI f&#252;r die Marketing-Klassifizierung"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -16,7 +16,7 @@ manager: jeffgilb
 robots: nofollow
 translationtype: Human Translation
 ---
-# Vollbild-Bild: Konfigurieren der FCI für die Marketing-Klassifizierung
+# Vollbild-Bild: Konfigurieren der FCI f&#252;r die Marketing-Klassifizierung
 ![Konfigurieren des Dateiservers für FCI](../../ems/AADRightsMgmt/media/AzRMS_ExampleFCI_Configuration.png "AzRMS_ExampleFCI_Configuration")
 
 Zurück zu [Azure RMS in Aktion: Automatischer Schutz von Dateien auf Dateiservern, auf denen Windows Server und Dateiklassifizierungsinfrastruktur ausgeführt wird](http://technet.microsoft.com/library/jj585026.aspx#BKMK_Example_FCI).

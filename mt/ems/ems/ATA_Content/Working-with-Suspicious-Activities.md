@@ -1,5 +1,5 @@
 ---
-title: "Arbeiten mit verdächtigen Aktivitäten"
+title: "Arbeiten mit verd&#228;chtigen Aktivit&#228;ten"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015
@@ -18,7 +18,7 @@ caps.handback.revision: 10
 author: karthikaraman
 manager: jeffgilb
 ---
-# Arbeiten mit verdächtigen Aktivitäten
+# Arbeiten mit verd&#228;chtigen Aktivit&#228;ten
 Dieses Thema erläutert die Grundlagen der Arbeit mit erweiterten Threat-Analyse.
 
 

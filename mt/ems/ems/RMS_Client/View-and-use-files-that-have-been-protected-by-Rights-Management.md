@@ -1,5 +1,5 @@
 ---
-title: "Anzeigen und Verwenden von Dateien, die durch Rights Management geschützt sind"
+title: "Anzeigen und Verwenden von Dateien, die durch Rights Management gesch&#252;tzt sind"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -21,7 +21,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Anzeigen und Verwenden von Dateien, die durch Rights Management geschützt sind
+# Anzeigen und Verwenden von Dateien, die durch Rights Management gesch&#252;tzt sind
 Wenn die Rights Management-Freigabeanwendung (RMS) auf Ihrem Computer installiert ist, können Sie eine geschützte Datei anzeigen, indem Sie einfach auf sie doppelklicken. Die Datei ist möglicherweise eine Anlage einer E-Mail-Nachricht, oder sie wird möglicherweise angezeigt, wenn Sie den Datei-Explorer verwenden.
 
 > [!NOTE]

@@ -1,5 +1,5 @@
 ---
-title: "Endbenutzer-Lizenzvertrag für Microsoft RMS-Freigabe"
+title: "Endbenutzer-Lizenzvertrag f&#252;r Microsoft RMS-Freigabe"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -12,6 +12,6 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Endbenutzer-Lizenzvertrag für Microsoft RMS-Freigabe
+# Endbenutzer-Lizenzvertrag f&#252;r Microsoft RMS-Freigabe
 Der Inhalt dieses Themas wurde zu [https://technet.microsoft.com/dn567972](https://technet.microsoft.com/dn567972) verschoben.
 

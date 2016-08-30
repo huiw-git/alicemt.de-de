@@ -1,5 +1,5 @@
 ---
-title: "Vollbild-Bild: verfügbaren Einstellungen für den RMS-Vorlagen"
+title: "Vollbild-Bild: verf&#252;gbaren Einstellungen f&#252;r den RMS-Vorlagen"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -17,7 +17,7 @@ manager: jeffgilb
 robots: nofollow
 translationtype: Human Translation
 ---
-# Vollbild-Bild: verfügbaren Einstellungen für den RMS-Vorlagen
+# Vollbild-Bild: verf&#252;gbaren Einstellungen f&#252;r den RMS-Vorlagen
 ![Vollbild: Einstellungen für benutzerdefinierte Vorlagen](../../ems/AADRightsMgmt/media/AzRMS_TemplatesSettings.png "AzRMS_TemplatesSettings")
 
 Zurück zu [Azure RMS in Aktion: Aktivieren und Konfigurieren von Rights Management](http://technet.microsoft.com/library/jj585026.aspx#BKMK_Example_ManagementPortal)

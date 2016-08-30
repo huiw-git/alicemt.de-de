@@ -1,5 +1,5 @@
 ---
-title: "Außerbetriebsetzen und Deaktivieren von Azure Rights Management"
+title: "Au&#223;erbetriebsetzen und Deaktivieren von Azure Rights Management"
 ms.custom: na
 ms.date: 12/25/2015
 ms.reviewer: na
@@ -17,7 +17,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Außerbetriebsetzen und Deaktivieren von Azure Rights Management
+# Au&#223;erbetriebsetzen und Deaktivieren von Azure Rights Management
 Sie können jederzeit steuern, ob Ihre Organisation Inhalte mithilfe von [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS) schützt, und wenn Sie entscheiden, dass diese Lösung zum Schützen von Daten nicht mehr verwendet werden soll, können Sie sich sicher sein, dass Ihnen die Inhalte, die zuvor geschützt waren, weiterhin uneingeschränkt zur Verfügung stehen. Wenn Sie keinen weiteren Zugriff auf zuvor geschützte Inhalte mehr benötigen, deaktivieren Sie einfach den Dienst, und lassen Sie Ihr Abonnement für Azure Rights Management ablaufen. Dies ist zum Beispiel angebracht, nachdem Sie das Testen von [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] abgeschlossen haben, und bevor Sie es in der Produktionsumgebung bereitstellen.
 
 Wenn Sie [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] jedoch in der Produktionsumgebung bereitgestellt haben, müssen Sie sicherstellen, dass Sie über eine Kopie Ihres Azure Rights Management-Mandantenschlüssels verfügen, bevor Sie den Dienst deaktivieren. Tun Sie dies vor Ablauf des Abonnements, weil dadurch sichergestellt ist, dass Sie nach dem Deaktivieren des Diensts weiterhin Zugriff auf Inhalte haben, die von Azure Rights Management geschützt wurden. Wenn Sie die BYOK-Lösung (Bring Your Own Key) verwendet haben, bei der Sie Ihren eigenen Schlüssel in einem HSM erzeugen und verwalten, verfügen Sie bereits über Ihren Azure Rights Management-Mandantenschlüssel. Wenn der Schlüssel jedoch von Microsoft verwaltet wurde (Standardlösung), lesen Sie die Anweisungen zum Exportieren Ihres Mandantenschlüssels im Thema [Vorgänge für Ihren Azure Rights Management-Mandantenschlüssel](../../ems/AADRightsMgmt/Operations-for-Your-Azure-Rights-Management-Tenant-Key.md).

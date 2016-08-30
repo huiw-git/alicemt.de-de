@@ -1,5 +1,5 @@
 ---
-title: "Schnellstart-Lernprogramm für Azure Rights Management"
+title: "Schnellstart-Lernprogramm f&#252;r Azure Rights Management"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -17,7 +17,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Schnellstart-Lernprogramm für Azure Rights Management
+# Schnellstart-Lernprogramm f&#252;r Azure Rights Management
 Verwenden Sie dieses Lernprogramm, um Microsoft Azure Rights Management (auch bekannt als Azure RMS) in 5 Schritten und weniger als 15 Minuten für Ihre Organisation zu testen. In diesem Lernprogramm aktivieren Sie den Dienst, versenden ein E-Mail-Dokument vertraulich und sicher an einen Empfänger in einer anderen Organisation und verfolgen, wann das Dokument geöffnet wird. Während der Übermittlung per E-Mail ist das vertrauliche Dokument verschlüsselt und kann nur vom jeweiligen Empfänger gelesen werden. Es gelten die vom Absender festgelegten Berechtigungen.
 
 ![Alle 5 Azure RMS Quick Start-Lernprogramme](../../ems/AADRightsMgmt/media/AzRMS_QuickStartStepsAll.png "AzRMS_QuickStartStepsAll")

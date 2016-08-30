@@ -1,5 +1,5 @@
 ---
-title: "Informationen und Support für Azure Rights Management"
+title: "Informationen und Support f&#252;r Azure Rights Management"
 ms.custom: na
 ms.date: 12/25/2015
 ms.reviewer: na
@@ -17,7 +17,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Informationen und Support für Azure Rights Management
+# Informationen und Support f&#252;r Azure Rights Management
 Verwenden Sie die folgenden Ressourcen, um weitere Informationen zu Microsoft [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] (Azure RMS) zu erhalten.
 
 |Zweck|.. Vorgehensweise|

@@ -1,5 +1,5 @@
 ---
-title: "Unterstützung von Benutzern beim Schützen von Dateien mithilfe von Azure Rights Management"
+title: "Unterst&#252;tzung von Benutzern beim Sch&#252;tzen von Dateien mithilfe von Azure Rights Management"
 ms.custom: na
 ms.date: 07/21/2016
 ms.reviewer: na
@@ -17,7 +17,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Unterstützung von Benutzern beim Schützen von Dateien mithilfe von Azure Rights Management
+# Unterst&#252;tzung von Benutzern beim Sch&#252;tzen von Dateien mithilfe von Azure Rights Management
 Nachdem Sie Azure Rights Management (Azure RMS) für Ihre Organisation bereitgestellt haben, bieten Sie Ihren Benutzern, Administratoren und Ihrem Helpdesk Hilfe und Anleitung:
 
 - **Endbenutzerinformationen:**

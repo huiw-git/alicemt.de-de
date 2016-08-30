@@ -1,5 +1,5 @@
 ---
-title: "Vollbild-Bild: Wählen Sie die RMS-Vorlagen in Clientanwendungen, z. B. Datei-Explorer und Word"
+title: "Vollbild-Bild: W&#228;hlen Sie die RMS-Vorlagen in Clientanwendungen, z. B. Datei-Explorer und Word"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -16,7 +16,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Vollbild-Bild: Wählen Sie die RMS-Vorlagen in Clientanwendungen, z. B. Datei-Explorer und Word
+# Vollbild-Bild: W&#228;hlen Sie die RMS-Vorlagen in Clientanwendungen, z. B. Datei-Explorer und Word
 ![Vollbild: Auszuwählende Azure RMS-Vorlagen](../../ems/AADRightsMgmt/media/AzRMS_TemplatesPortal_ExplorerWord.png "AzRMS_TemplatesPortal_ExplorerWord")
 
 Zurück zu [Azure RMS in Aktion: Aktivieren und Konfigurieren von Rights Management](http://technet.microsoft.com/library/jj585026.aspx#BKMK_Example_ManagementPortal)

@@ -1,5 +1,5 @@
 ---
-title: "Konfigurieren benutzerdefinierter Vorlagen für Azure Rights Management"
+title: "Konfigurieren benutzerdefinierter Vorlagen f&#252;r Azure Rights Management"
 ms.custom: na
 ms.date: 07/21/2016
 ms.reviewer: na
@@ -17,7 +17,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Machine Translation
 ---
-# Konfigurieren benutzerdefinierter Vorlagen für Azure Rights Management
+# Konfigurieren benutzerdefinierter Vorlagen f&#252;r Azure Rights Management
 Nachdem Sie Azure Rights Management (Azure RMS) aktiviert haben, können Benutzer automatisch zwei Standardvorlagen zu verwenden, die für diese Richtlinien auf vertrauliche Dateien anwenden, die Zugriff auf autorisierte Benutzer in Ihrer Organisation zu erleichtern. Diese zwei Vorlagen enthalten die folgenden rechterichtlinieneinschränkungen:
 
 -   Schreibgeschützte Anzeige geschützter Inhalte

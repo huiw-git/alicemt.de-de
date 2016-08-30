@@ -1,5 +1,5 @@
 ---
-title: "ATA-HÄUFIG GESTELLTE FRAGEN"
+title: "ATA-H&#196;UFIG GESTELLTE FRAGEN"
 ms.custom: 
   - ATA
 ms.date: 12/22/2015
@@ -18,7 +18,7 @@ caps.handback.revision: 10
 author: karthikaraman
 manager: jeffgilb
 ---
-# ATA-HÄUFIG GESTELLTE FRAGEN
+# ATA-H&#196;UFIG GESTELLTE FRAGEN
 Dieser Abschnitt enthält Antworten auf häufig gestellte Fragen zu Microsoft Advanced Threat-Analyse.
 
 

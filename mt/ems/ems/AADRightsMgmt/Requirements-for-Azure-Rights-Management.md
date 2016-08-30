@@ -1,5 +1,5 @@
 ---
-title: "Anforderungen für Azure Rights Management"
+title: "Anforderungen f&#252;r Azure Rights Management"
 ms.custom: na
 ms.date: 03/02/2016
 ms.reviewer: na
@@ -17,7 +17,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Machine Translation
 ---
-# Anforderungen für Azure Rights Management
+# Anforderungen f&#252;r Azure Rights Management
 <?xml version="1.0" encoding="utf-8"?>
 <caps:SxS xmlns:caps="http://schemas.microsoft.com/build/caps/2013/11">
   <caps:SxSTarget locale="de-DE">

@@ -1,5 +1,5 @@
 ---
-title: "Häufig gestellte Fragen zur Azure Rights Management"
+title: "H&#228;ufig gestellte Fragen zur Azure Rights Management"
 ms.custom: na
 ms.date: 12/25/2015
 ms.reviewer: na
@@ -17,7 +17,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Häufig gestellte Fragen zur Azure Rights Management
+# H&#228;ufig gestellte Fragen zur Azure Rights Management
 Einige häufig gestellte Fragen zu Microsoft [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)], das auch als Azure RMS bezeichnet wird:
 
 Prüfen Sie zunächst [Anforderungen für Azure Rights Management](../../ems/AADRightsMgmt/Requirements-for-Azure-Rights-Management.md). Darin sind Informationen über Cloud-Abonnementoptionen enthalten, und es wird gezeigt, wie Sie Ihre lokalen Server mit Azure RMS verwenden können, welche Bereitstellungsszenarien zurzeit nicht unterstützt werden sowie welche Geräte und Anwendungen Azure RMS unterstützen. Zudem enthält das Thema einen Link, wenn Sie eine Liste von IP-Adressen und Domänennamen für Firewalls oder Proxyserver benötigen. Es kann ferner sinnvoll sein, die anderen Themen im Abschnitt [Erste Schritte mit Azure Rights Management](/Topic/Getting%20Started%20with%20Azure%20Rights%20Management.md) anzusehen, um ein grundlegendes Verständnis dafür zu entwickeln, wie [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] den Schutz der Daten Ihrer Organisation unterstützen kann, wie es sich im Vergleich zur lokalen Version der Active Directory-Rechteverwaltungsdienste verhält und welche Begriffe und Abkürzungen für [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] spezifisch sind.

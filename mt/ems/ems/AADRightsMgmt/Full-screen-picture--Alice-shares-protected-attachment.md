@@ -1,5 +1,5 @@
 ---
-title: "Vollbild-Bild: Alice teilt geschützten Anlage"
+title: "Vollbild-Bild: Alice teilt gesch&#252;tzten Anlage"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -17,7 +17,7 @@ manager: jeffgilb
 robots: nofollow
 translationtype: Human Translation
 ---
-# Vollbild-Bild: Alice teilt geschützten Anlage
+# Vollbild-Bild: Alice teilt gesch&#252;tzten Anlage
 ![Hinzufügen von Schutz für eine Anlage](../../ems/AADRightsMgmt/media/AzRMS_StoryboardEmaill1.PNG "AzRMS_StoryboardEmaill1")
 
 Zurück zu [Azure RMS in Aktion: Anlagen sicher für mobile Benutzer freigeben](http://technet.microsoft.com/library/jj585026.aspx#BKMK_Example_SharingApp).

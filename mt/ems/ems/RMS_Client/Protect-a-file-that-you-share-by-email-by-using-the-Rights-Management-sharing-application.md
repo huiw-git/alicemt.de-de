@@ -1,5 +1,5 @@
 ---
-title: "Schützen Sie eine Datei, die Sie mithilfe von Rights Management-freigabeanwendung per e-Mail freigeben"
+title: "Sch&#252;tzen Sie eine Datei, die Sie mithilfe von Rights Management-freigabeanwendung per e-Mail freigeben"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -21,7 +21,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Schützen Sie eine Datei, die Sie mithilfe von Rights Management-freigabeanwendung per e-Mail freigeben
+# Sch&#252;tzen Sie eine Datei, die Sie mithilfe von Rights Management-freigabeanwendung per e-Mail freigeben
 Wenn Sie eine Datei schützen, die Sie per E-Mail freigeben, wird eine neue Version der ursprünglichen Datei erstellt. Die ursprüngliche Datei bleibt ungeschützt, während die neue Version geschützt und automatisch an die von Ihnen zu sendende E-Mail angefügt wird.
 
 In einigen Fällen (bei Dateien, die in Microsoft Word, Excel und PowerPoint erstellt werden) erstellt die RMS-Freigabeanwendung zwei Versionen der Datei, die an die E-Mail-Nachricht angefügt werden. Die zweite Version der Datei weist die Dateinamenerweiterung **PPDF** auf. Hierbei handelt es sich um eine PDF-Schattenkopie der Datei. Mit dieser Version der Datei wird sichergestellt, dass die Empfänger die Datei immer lesen können, und zwar auch dann, wenn auf deren Computer nicht die Anwendung installiert ist, die Sie zum Erstellen der Datei verwendet haben. Dies kommt häufig vor, wenn Personen ihre E-Mails auf mobilen Geräten lesen und die E-Mail-Anlagen anzeigen möchten. In dem Fall benötigen sie für das Öffnen der Datei lediglich die RMS-Freigabeanwendung. Anschließend können sie die angefügte Datei lesen, können diese jedoch nicht ändern, bis sie die andere Version der Datei in einer Anwendung öffnen, die RMS unterstützt.

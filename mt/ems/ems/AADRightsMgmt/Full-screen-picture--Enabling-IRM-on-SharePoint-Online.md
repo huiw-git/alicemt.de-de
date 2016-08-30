@@ -1,5 +1,5 @@
 ---
-title: "Vollbild-Bild: Aktivieren von IRM für SharePoint Online"
+title: "Vollbild-Bild: Aktivieren von IRM f&#252;r SharePoint Online"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -17,7 +17,7 @@ manager: jeffgilb
 robots: nofollow
 translationtype: Human Translation
 ---
-# Vollbild-Bild: Aktivieren von IRM für SharePoint Online
+# Vollbild-Bild: Aktivieren von IRM f&#252;r SharePoint Online
 ![Vollbild: Aktivieren von IRM in SharePoint Online](../../ems/AADRightsMgmt/media/AzRMS_StoryboardSPO_1.png "AzRMS_StoryboardSPO_1")
 
 Zurück zu [Azure RMS in Aktion: Geschützte Bibliotheken mit SharePoint Online](http://technet.microsoft.com/library/jj585026.aspx#BKMK_Example_SharePoint).

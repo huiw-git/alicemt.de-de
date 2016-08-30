@@ -1,5 +1,5 @@
 ---
-title: "Wie Applikationen Azure Rights Management unterstützen"
+title: "Wie Applikationen Azure Rights Management unterst&#252;tzen"
 ms.custom: na
 ms.date: 03/02/2016
 ms.reviewer: na
@@ -17,7 +17,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Wie Applikationen Azure Rights Management unterstützen
+# Wie Applikationen Azure Rights Management unterst&#252;tzen
 Die folgenden Informationen sollen Ihnen dabei helfen zu verstehen, wie die Anwendungen Ihrer Endbenutzer (wie Office-Anwendungen, Word, Excel, PowerPoint und Outlook) und die Dienste (wie Exchange und SharePoint) Microsoft [!INCLUDE[aad_rightsmanagement_1](../../ems/AADRightsMgmt/includes/aad_rightsmanagement_1_md.md)] verwenden können, um die Daten Ihrer Organisation besser zu schützen:
 
 - [RMS sharing application for Windows and mobile platforms](../../ems/AADRightsMgmt/How-Applications-Support-Azure-Rights-Management.md#BKMK_SharingAppIntro)

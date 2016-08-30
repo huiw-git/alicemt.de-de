@@ -1,5 +1,5 @@
 ---
-title: "Überarbeitete Version 3: Microsoft Rights Management-freigabeanwendung – Benutzerhandbuch"
+title: "&#220;berarbeitete Version 3: Microsoft Rights Management-freigabeanwendung – Benutzerhandbuch"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -12,7 +12,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Überarbeitete Version 3: Microsoft Rights Management-freigabeanwendung – Benutzerhandbuch
+# &#220;berarbeitete Version 3: Microsoft Rights Management-freigabeanwendung – Benutzerhandbuch
 Verwenden Sie dieses Handbuch für die Microsoft Rights Management (RMS)-Freigabeanwendung für Windows zum Schutz wichtiger Dokumente vor Personen, die sie nicht sehen sollen – selbst dann, wenn Sie sie per E-Mail verschicken oder auf einem anderen Gerät speichern. Außerdem können Sie mit dieser Anwendung Dateien öffnen und verwenden, die andere Personen geschützt haben, indem Sie die gleiche Rights Management-Technologie verwenden wie diese Personen.
 
 Diese Freigabeanwendung bietet auf folgende Weise Schutz für Ihre Dateien:

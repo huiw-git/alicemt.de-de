@@ -1,5 +1,5 @@
 ---
-title: "Vollbild-Bild: Konfigurieren von DLP für Azure RMS"
+title: "Vollbild-Bild: Konfigurieren von DLP f&#252;r Azure RMS"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -16,7 +16,7 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Vollbild-Bild: Konfigurieren von DLP für Azure RMS
+# Vollbild-Bild: Konfigurieren von DLP f&#252;r Azure RMS
 ![Vollbild: Konfigurieren von DLP für Azure RMS](../../ems/AADRightsMgmt/media/AzRMS_DLPExample.png "AzRMS_DLPExample")
 
 Zurück zu [Azure RMS in Aktion: Richtlinien zum automatischen Schützen von E-Mails mit Exchange Online und zum Verhindern von Datenverlusten](http://technet.microsoft.com/library/jj585026.aspx#BKMK_Example_DLP)

@@ -1,5 +1,5 @@
 ---
-title: "Anforderungen für Azure Rights Management"
+title: "Anforderungen f&#252;r Azure Rights Management"
 ms.custom: na
 ms.date: 12/22/2015
 ms.reviewer: na
@@ -12,6 +12,6 @@ author: karthikaraman
 manager: jeffgilb
 translationtype: Human Translation
 ---
-# Anforderungen für Azure Rights Management
+# Anforderungen f&#252;r Azure Rights Management
 Jetzt verschoben nach: http://tnstage.redmond.corp.microsoft.com/library/dn655136.aspx
 
