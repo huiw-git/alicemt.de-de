@@ -1,7 +1,7 @@
 ---
 title: "Vorg&#228;nge f&#252;r Ihren Azure Rights Management-Mandantenschl&#252;ssel"
 ms.custom: na
-ms.date: 07/21/2016
+ms.date: 08/30/2016
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na

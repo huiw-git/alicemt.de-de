@@ -1,7 +1,7 @@
 ---
 title: "Anforderungen f&#252;r Azure Rights Management"
 ms.custom: na
-ms.date: 03/02/2016
+ms.date: 08/30/2016
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na

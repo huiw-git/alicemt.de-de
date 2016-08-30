@@ -1,7 +1,7 @@
 ---
 title: "Vollbild-Bild: eine nicht gesch&#252;tzte e-Mail (intern)"
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 08/30/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na

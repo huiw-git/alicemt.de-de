@@ -1,7 +1,7 @@
 ---
 title: "Verwalten der f&#252;r Telemetrieeinstellungen"
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 08/30/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na

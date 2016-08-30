@@ -1,7 +1,7 @@
 ---
 title: "Sch&#252;tzen eine Datei auf einem Ger&#228;t (direkt sch&#252;tzen) mithilfe von Rights Management-freigabeanwendung"
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 08/30/2016
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na

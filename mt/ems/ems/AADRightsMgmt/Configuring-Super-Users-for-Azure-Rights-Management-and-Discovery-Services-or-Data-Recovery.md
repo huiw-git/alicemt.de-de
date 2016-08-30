@@ -1,7 +1,7 @@
 ---
 title: "Konfigurieren von Administratoren f&#252;r Azure Rights Management und Discovery Services oder Wiederherstellen von Daten"
 ms.custom: na
-ms.date: 12/25/2015
+ms.date: 08/30/2016
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na

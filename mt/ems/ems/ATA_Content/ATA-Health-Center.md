@@ -2,7 +2,7 @@
 title: "Center f&#252;r ATA-Integrit&#228;t"
 ms.custom: 
   - ATA
-ms.date: 12/22/2015
+ms.date: 08/30/2016
 ms.prod: identity-ata
 ms.reviewer: na
 ms.suite: na

@@ -2,7 +2,7 @@
 title: "Vollbild-Bild: Bob die Anlage &#246;ffnet, auf seine iPad"
 ms.custom: 
   - test
-ms.date: 12/22/2015
+ms.date: 08/30/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na

@@ -1,7 +1,7 @@
 ---
 title: "Rights Management freigabeanwendung – Administratorhandbuch"
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 08/30/2016
 ms.reviewer: na
 ms.service: rights-management
 ms.suite: na

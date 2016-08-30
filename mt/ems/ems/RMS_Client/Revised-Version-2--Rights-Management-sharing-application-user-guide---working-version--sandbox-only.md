@@ -1,7 +1,7 @@
 ---
 title: "&#220;berarbeitete Version 2: Rights Management-freigabeanwendung – Benutzerhandbuch - Arbeitsversion, nur sandbox"
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 08/30/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na

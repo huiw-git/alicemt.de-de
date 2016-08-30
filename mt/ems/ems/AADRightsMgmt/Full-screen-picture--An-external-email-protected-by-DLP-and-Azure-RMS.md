@@ -1,7 +1,7 @@
 ---
 title: "Vollbild-Bild: eine externe e-Mail von DLP und Azure RMS gesch&#252;tzt"
 ms.custom: na
-ms.date: 12/22/2015
+ms.date: 08/30/2016
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
