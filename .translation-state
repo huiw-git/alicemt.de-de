@@ -1,10 +1,10 @@
 {
-  "LastProcessedCommit": "bb2fb0b687fde29241a68d36df423fca2236fd1a",
-  "LastTranslatedCommit": "f0fd74f10e07b02419f8156e1b7a8416f722c4e2",
+  "LastProcessedCommit": "f165bb3db3e90348bcb0d95bed76d173a180e504",
+  "LastTranslatedCommit": "ffbfa8278c86d46b154a945e02b224693b04999c",
   "Items": {
     "df67ef7e01735fb6ce4ac9a287b9f90cc53cba25": {
       "FileHash": "df67ef7e01735fb6ce4ac9a287b9f90cc53cba25",
-      "SourceFileCommit": "636d70b20b4d6a150c9ae90c21ad37efeea1435d",
+      "SourceFileCommit": "f165bb3db3e90348bcb0d95bed76d173a180e504",
       "SourceFilePath": "mt\\ems\\ems\\AADRightsMgmt\\Using-Azure-Rights-Management.md",
       "HandoffReason": 0,
       "DependencyFrom": null,
